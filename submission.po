@@ -1,0 +1,627 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-15 09:20-0700\n"
+"PO-Revision-Date: 2020-04-27 23:09+0000\n"
+"Last-Translator: Shantanu Kuamr Singh <shantanu198713@gmail.com>\n"
+"Language-Team: Hindi <http://translate.pkp.sfu.ca/projects/ojs/submission/hi/"
+">\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+##By Shantanu Kumar Singh ##
+
+msgid "submission.query.participantTitle"
+msgstr "{$fullName}, {$userGroup}"
+
+msgid "submission.license"
+msgstr "अनुज्ञप्ति"
+
+msgid "submission.copyrightHolder.other"
+msgstr "कस्टम कॉपीराइट स्टेटमेंट"
+
+msgid "submission.license.cc.by-nc-nd4"
+msgstr "सीसी एट्रिब्यूशन-नॉन-कमर्शियल-नोडेरिवेटिव्स 4.0"
+
+msgid "submission.license.cc.by-nc4"
+msgstr "सीसी एट्रिब्यूशन-गैर-व्यावसायिक 4.0"
+
+msgid "submission.license.cc.by-nc-sa4"
+msgstr "सीसी एट्रिब्यूशन-गैर-वाणिज्यिक-शेयरएलाइक 4.0"
+
+msgid "submission.license.cc.by-nd4"
+msgstr "सीसी एट्रिब्यूशन-कोई डेरिवेटिव नहीं 4.0"
+
+msgid "submission.license.cc.by4"
+msgstr "सीसी एट्रिब्यूशन 4.0"
+
+msgid "submission.license.cc.by-sa4"
+msgstr "सीसी एट्रिब्यूशन-शेयरअलाइक 4."
+
+msgid "submissions.incomplete"
+msgstr "अपूर्ण"
+
+msgid "log.review.reviewerAssigned"
+msgstr "{$reviewerName} को समीक्षा दौर {$round} के लिए सबमिशन {$submissionId} की समीक्षा करने के लिए असाइन किया गया है।"
+
+msgid "submission.event.general.metadataUpdated"
+msgstr "सबमिशन मेटाडेटा अपडेट किया गया"
+
+msgid "submission.event.fileRevised"
+msgstr "फ़ाइल {$submissionFileId} के लिए संशोधन \"{$name}\" अपलोड किया गया था।"
+
+msgid "submission.event.fileEdited"
+msgstr "फ़ाइल \"{$originalFileName}\" के लिए मेटाडेटा को {$username} द्वारा संपादित किया गया था।"
+
+msgid "submission.shortAuthor"
+msgstr "{$author} और अन्य।"
+
+msgid "editor.submission.decision.noDecisionsAvailable"
+msgstr "इस चरण के लिए संपादकीय निर्णयों को सक्षम करने के लिए एक संपादक को असाइन करें।"
+
+msgid "log.review.reviewReady"
+msgstr "{$reviewerName} ने {$submissionId} सबमिट करने के लिए राउंड {$round} समीक्षा की समीक्षा पूरी कर ली है।"
+
+msgid "editor.submission.decision.requestRevisions"
+msgstr "संशोधन का अनुरोध करें"
+
+msgid "editor.submission.decision.requestRevisions.description"
+msgstr "इस सबमिशन को प्रकाशन के लिए स्वीकार किए जाने से पहले लेखक को संशोधन प्रदान करना होगा।"
+
+msgid "editor.submission.decision.requestRevisions.log"
+msgstr "{$editorName} ने इस सबमिशन के लिए संशोधन का अनुरोध किया।"
+
+msgid "editor.submission.decision.requestRevisions.completed"
+msgstr "संशोधन का अनुरोध किया गया"
+
+msgid "editor.submission.decision.requestRevisions.completed.description"
+msgstr "सबमिशन, {$title} के लिए संशोधन का अनुरोध किया गया है।"
+
+msgid "editor.submission.decision.requestRevisions.notifyAuthorsDescription"
+msgstr "लेखकों को यह बताने के लिए एक ईमेल भेजें कि प्रकाशन के लिए इस सबमिशन को स्वीकार करने से पहले संशोधन की आवश्यकता होगी। उन सभी विवरणों को शामिल करें जिनकी लेखक को अपने सबमिशन को संशोधित करने के लिए आवश्यकता होगी। जहां उपयुक्त हो, समीक्षक की किसी भी टिप्पणी को गुमनाम करना याद रखें।"
+
+msgid "editor.submission.decision.accept"
+msgstr "सबमिशन स्वीकार करें"
+
+msgid "editor.submission.decision.accept.description"
+msgstr "यह सबमिशन प्रकाशन के लिए स्वीकार किया जाएगा और कॉपी-एडिटिंग के लिए भेजा जाएगा।"
+
+msgid "editor.submission.decision.accept.log"
+msgstr "{$editorName} ने इस सबमिशन को स्वीकार कर लिया और इसे कॉपी-एडिटिंग चरण में भेज दिया।"
+
+msgid "editor.submission.decision.accept.completed"
+msgstr "सबमिशन स्वीकृत"
+
+msgid "editor.submission.decision.accept.completedDescription"
+msgstr "सबमिशन, {$title}, को प्रकाशन के लिए स्वीकार कर लिया गया है और कॉपी-एडिटिंग चरण में भेज दिया गया है।"
+
+msgid "editor.submission.decision.accept.notifyAuthorsDescription"
+msgstr "लेखकों को यह बताने के लिए एक ईमेल भेजें कि उनका सबमिशन प्रकाशन के लिए स्वीकार कर लिया गया है।"
+
+msgid "submission.status.published"
+msgstr "प्रकाशित"
+
+msgid "submission.event.subjectPrefix"
+msgstr "ईमेल भेजा गया है:"
+
+msgid "submission.event.participantAdded"
+msgstr "{$name} ({$username}) को इस सबमिशन को {$userGroupName} के रूप में असाइन किया गया था।"
+
+msgid "editor.submission.roundStatus.reviewOverdue"
+msgstr "समीक्षा अतिदेय है।"
+
+msgid "editor.submission.roundStatus.revisionsSubmitted"
+msgstr "संशोधन प्रस्तुत किए गए हैं और निर्णय की आवश्यकता है।"
+
+msgid "editor.submission.roundStatus.reviewsReady"
+msgstr "नई समीक्षा प्रस्तुत की गई है।"
+
+msgid "submission.list.activity"
+msgstr "गतिविधि"
+
+msgid "submission.list.daysSinceLastActivity"
+msgstr "पिछली गतिविधि के बाद के दिन"
+
+msgid "submission.submit.availableUserGroups"
+msgstr "के रूप में जमा करें"
+
+msgid "submission.submit.availableUserGroupsDescription"
+msgstr "इस सबमिशन में आपके योगदान का सबसे अच्छा वर्णन करने वाली भूमिका चुनें।"
+
+msgid "submission.submit.userGroupDescriptionManagers"
+msgstr "यदि आप इस सबमिशन को स्वयं संपादित और प्रकाशित करने में सक्षम होना चाहते हैं तो निम्न में से किसी भी भूमिका में सबमिट करें: {$managerGroups}"
+
+msgid "submission.submit.copyrightNoticeAgreementLabel"
+msgstr "कॉपीराइट स्टेटमेंट को स्वीकार करें"
+
+msgid "submission.submit.copyrightNoticeAgree"
+msgstr "हां, मैं कॉपीराइट स्टेटमेंट की शर्तों का पालन करने के लिए सहमत हूं।"
+
+msgid "submission.authorBiographies"
+msgstr "लेखक की जीवनी"
+
+msgid "submission.authorWithAffiliation"
+msgstr "{$name}, {$affiliation}"
+
+msgid "plugins.generic.usageStats.downloads"
+msgstr "डाउनलोड"
+
+msgid "submission.howToCite.citationFormats"
+msgstr "अधिक उद्धरण प्रारूप"
+
+msgid "submission.howToCite"
+msgstr "कैसे उद्धृत करें"
+
+msgid "submission.howToCite.citationFormats"
+msgstr "अधिक उद्धरण प्रारूप"
+
+msgid "submission.howToCite.downloadCitation"
+msgstr "उद्धरण डाउनलोड करें"
+
+msgid "editor.submission.roundStatus.revisionsRequested"
+msgstr "संशोधन की मांग की गई है।"
+
+msgid "submission.submit.removeConfirm"
+msgstr "क्या आप वाकई इस फ़ाइल को हटाना चाहते हैं?"
+
+msgid "submission.submit.genre.description"
+msgstr "वह विकल्प चुनें जो इस फ़ाइल का सबसे अच्छा वर्णन करता है।"
+
+msgid "submission.reviewForm"
+msgstr "समीक्षा प्रपत्र"
+
+msgid "submission.reviewFormResponse"
+msgstr "समीक्षा प्रपत्र प्रतिक्रिया"
+
+msgid "editor.submission.roundStatus.reviewOverdue"
+msgstr "समीक्षा अतिदेय है।"
+
+msgid "submission.comments.addReviews"
+msgstr "ईमेल में समीक्षाएं जोड़ें"
+
+msgid "submission.comments.importPeerReviews.reviewerLetter"
+msgstr "समीक्षक {$reviewerLetter}:"
+
+msgid "submission.upload.finalDraft"
+msgstr "दस्तावेज अपलोड करें"
+
+msgid "submission.upload.copyeditedVersion"
+msgstr "कॉपी संपादित की गई फ़ाइल अपलोड करें"
+
+msgid "submission.upload.uploadFiles"
+msgstr "दस्तावेज अपलोड करें"
+
+msgid "submission.upload.response.description"
+msgstr "असाइन की गई फ़ाइल की समीक्षा करने के बाद, नीचे दी गई फ़ाइल पर किसी भी टिप्पणी को रिकॉर्ड करें, और/या फ़ाइल की एक एनोटेट कॉपी (या कोई अन्य फ़ाइल) अपलोड करें।"
+
+msgid "submission.upload.productionReady"
+msgstr "उत्पादन के लिए तैयार फ़ाइल अपलोड करें"
+
+msgid "submission.upload.proof"
+msgstr "प्रकाशन के लिए तैयार फ़ाइल अपलोड करें"
+
+msgid "submission.upload.noAvailableReviewFiles"
+msgstr "इस समय आपके पास संशोधित करने के लिए कोई फाइल नहीं है।"
+
+msgid "editor.submission.roundStatus.revisionsRequested"
+msgstr "संशोधन की मांग की गई है।"
+
+msgid "submission.submit.contactConsent"
+msgstr "संबंधित संपर्क"
+
+msgid "submission.submit.contactConsentDescription"
+msgstr "हां, मैं चाहूंगा कि इस सबमिशन के बारे में मुझसे संपर्क किया जाए।"
+
+msgid "submission.shortAuthor"
+msgstr "{$author} और अन्य।"
+
+msgid "publication.publish.requirements"
+msgstr "इसे प्रकाशित करने से पहले निम्नलिखित आवश्यकताओं को पूरा किया जाना चाहिए।"
+
+msgid "publication.required.reviewStage"
+msgstr "सबमिशन प्रकाशित होने से पहले कॉपी संपादन या उत्पादन चरणों में होना चाहिए।"
+
+msgid "submission.copyrightStatement"
+msgstr "Copyright (c) {$copyrightYear} {$copyrightHolder}"
+
+msgid "submission.licenseURLValid"
+msgstr "Please provide a valid remote URL (include http://)."
+
+msgid "submission.licenseURL"
+msgstr "License URL"
+
+msgid "submission.license.cc.by-nc-nd4"
+msgstr "CC Attribution-NonCommercial-NoDerivatives 4.0"
+
+msgid "submission.license.cc.by-nc4"
+msgstr "CC Attribution-NonCommercial 4.0"
+
+msgid "submission.license.cc.by-nc-sa4"
+msgstr "CC Attribution-NonCommercial-ShareAlike 4.0"
+
+msgid "submission.license.cc.by-nd4"
+msgstr "CC Attribution-NoDerivatives 4.0"
+
+msgid "submission.license.cc.by4"
+msgstr "CC Attribution 4.0"
+
+msgid "submission.license.cc.by-sa4"
+msgstr "CC Attribution-ShareAlike 4.0"
+
+msgid "submission.license.cc.by-nc-nd4.footer"
+msgstr "<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\" /></a><p> यह काम <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a> के तहत लाइसेंस प्राप्त है.</p>"
+
+msgid "submission.license.cc.by-nc4.footer"
+msgstr "<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc/4.0/\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-nc/4.0/88x31.png\" /></a><p> यह काम <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc/4.0/\">Creative Commons Attribution-NonCommercial 4.0 International License</a> के तहत लाइसेंस प्राप्त है.</p>"
+
+msgid "submission.license.cc.by-nc-sa4.footer"
+msgstr "<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><p> यह काम <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> के तहत लाइसेंस प्राप्त है.</p>"
+
+msgid "submission.license.cc.by-nd4.footer"
+msgstr "<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nd/4.0/\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-nd/4.0/88x31.png\" /></a><p> यह काम <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 International License</a> के तहत लाइसेंस प्राप्त है.</p>"
+
+msgid "submission.license.cc.by4.footer"
+msgstr "<a rel=\"license\" href=\"https://creativecommons.org/licenses/by/4.0/\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by/4.0/88x31.png\" /></a><p> यह काम <a rel=\"license\" href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a> के तहत लाइसेंस प्राप्त है.</p>"
+
+msgid "submission.license.cc.by-sa4.footer"
+msgstr "<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-sa/4.0/88x31.png\" /></a><p> यह काम <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International License</a> के तहत लाइसेंस प्राप्त है.</p>"
+
+msgid "submission.license.cc.by-nc-nd3.footer"
+msgstr "<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/3.0/\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-nc-nd/3.0/88x31.png\" /></a><p> यह काम <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/3.0/\">Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 Unported License</a> के तहत लाइसेंस प्राप्त है.</p>"
+
+msgid "submission.license.cc.by-nc3.footer"
+msgstr "<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc/3.0/\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-nc/3.0/88x31.png\" /></a><p> यह काम <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc/3.0/\">Creative Commons Attribution-NonCommercial 3.0 Unported License</a> के तहत लाइसेंस प्राप्त है.</p>"
+
+msgid "submission.license.cc.by-nc-sa3.footer"
+msgstr "<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-nc-sa/3.0/88x31.png\" /></a><p> यह काम <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a> के तहत लाइसेंस प्राप्त है.</p>"
+
+msgid "submission.license.cc.by-nd3.footer"
+msgstr "<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nd/3.0/\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-nd/3.0/88x31.png\" /></a><p> यह काम <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nd/3.0/\">Creative Commons Attribution-NoDerivatives 3.0 Unported License</a> के तहत लाइसेंस प्राप्त है.</p>"
+
+msgid "submission.license.cc.by3.footer"
+msgstr "<a rel=\"license\" href=\"https://creativecommons.org/licenses/by/3.0/\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by/3.0/88x31.png\" /></a><p> यह काम <a rel=\"license\" href=\"https://creativecommons.org/licenses/by/3.0/\">Creative Commons Attribution 3.0 Unported License</a> के तहत लाइसेंस प्राप्त है.</p>"
+
+msgid "submission.license.cc.by-sa3.footer"
+msgstr "<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/3.0/\"><img alt=\"Creative Commons License\" src=\"//i.creativecommons.org/l/by-sa/3.0/88x31.png\" /></a><p> यह काम <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 3.0 Unported License</a> के तहत लाइसेंस प्राप्त है.</p>"
+
+msgid "submission.event.viewEmail"
+msgstr "ईमेल देखें"
+
+msgid "submission.license.description"
+msgstr "इसके प्रकाशित होने पर लाइसेंस स्वचालित रूप से <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC Attribution-NonCommercial-ShareAlike 4.0</a> पर सेट हो जाएगा।"
+
+msgid "grid.reviewAttachments.title"
+msgstr "समीक्षक के अनुलग्नक"
+
+##By Shantanu Kumar Singh##
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.submit.userGroup"
+msgstr "मेरी भूमिका में प्रस्तुत करें..."
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "submission.submit.userGroupDescription"
+msgstr "वह क्षमता चुनें जिसके तहत आप यह लेख प्रस्तुत कर रहे हैं."
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.upload.selectComponent"
+msgstr "लेख घटक चुनें"
+
+# (pofilter) doublespacing: Different use of double spaces
+# (pofilter) long: The translation is much longer than the original
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 3
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) singlequoting: Different quotation marks
+# (pofilter) urls: Different URLs
+# (pofilter) xmltags: Added XML tags
+msgid "submission.title.tip"
+msgstr ""
+"सबमिशन प्रकार आमतौर पर 'इमेज', 'टेक्स्ट', या 'सॉफ्टवेयर' या 'इंटरएक्टिव' सहि"
+"त अन्य मल्टीमीडिया प्रकारों में से एक है। कृपया अपने सबमिशन के लिए सबसे अधिक "
+"प्रासंगिक चुनें.  उदाहरण मिल सकते हैं  <a target=\"_blank\" href=\""
+"http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type\""
+">http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type</a>"
+
+# (pofilter) brackets: Added '{', '}'
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) pythonbraceformat: Unknown named placeholders in translation: {$wordCount}
+msgid "submission.abstract.wordCount.description"
+msgstr "सार {$wordCount} शब्द या उससे कम का होना चाहिए ।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.submit.noContext"
+msgstr "इस सबमिशन की जर्नल नहीं मिल सकी ।"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.issueEntry"
+msgstr "मेटाडाटा"
+
+# (pofilter) doublespacing: Different use of double spaces
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 2
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.submit.whatNext.description"
+msgstr ""
+"जर्नल  को आपके प्रस्तुत करने के बारे में सूचित किया गया है, और आपको अपने "
+"रिकॉर्ड के लिए एक पुष्टिकरण ईमेल किया गया है। एक बार संपादक ने सबमिशन की "
+"समीक्षा की, तो वे आपसे संपर्क करेंगे ।"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "grid.action.issueEntry"
+msgstr "इस सबमिशन का मेटाडेटा देखें"
+
+# (pofilter) brackets: Added '{', '}'
+# (pofilter) doublequoting: Different quotation marks
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) pythonbraceformat: Unknown named placeholders in translation: {$galleyFormatName}
+msgid "submission.event.articleGalleyMadeAvailable"
+msgstr "लेख गैली\"{$galleyFormatName}\" उपलब्ध कराया गया है ।"
+
+# (pofilter) brackets: Added '{', '}'
+# (pofilter) doublequoting: Different quotation marks
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) pythonbraceformat: Unknown named placeholders in translation: {$galleyFormatName}
+msgid "submission.event.articleGalleyMadeUnavailable"
+msgstr "लेख गैली\"{$galleyFormatName}\" उपलब्ध कराया गया है ।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.publicIdentifiers"
+msgstr "सबमिशन के सार्वजनिक पहचानकर्ताओं को अपडेट किया गया ।"
+
+# (pofilter) xmltags: Added XML tags
+msgid "grid.issueEntry.availableGalley.removeMessage"
+msgstr "<p> यह गैली <em> अब पाठकों को उपलब्ध </ em> नहीं कराई जाएगी </ p>"
+
+# (pofilter) xmltags: Added XML tags
+msgid "grid.issueEntry.availableGalley.message"
+msgstr "<p> यह गैली <em> अब पाठकों को उपलब्ध </ em> कराई जाएगी </ p>"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.galleyFiles"
+msgstr "गैली फाइलें"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 2
+# (pofilter) xmltags: Added XML tags
+msgid "submission.proofReadingDescription"
+msgstr ""
+"लेआउट संपादक उत्पादन-तैयार फ़ाइलों को अपलोड करता है जो यहां प्रकाशन के लिए "
+"तैयार किए गए हैं। प्रकाशन से पहले अनुमोदन के लिए अपलोड की गई सही फ़ाइलों के "
+"साथ, गैलीस को प्रमाणित करने के लिए लेखकों और अन्य को नामित करने के लिए <em> "
+"असाइन ऑडिटर </ em> का उपयोग करें।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "grid.action.approveProof"
+msgstr "गैली में शामिल करने के लिए इस प्रमाण को स्वीकार करें ।"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "grid.action.pageProofApproved"
+msgstr "इस प्रमाण को गैली में शामिल करने के लिए मंजूरी दे दी गई है ।"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "submission.submit.upload.description"
+msgstr ""
+"इस सबमिशन से जुड़ी फाइलें अपलोड करें, जिसमें आर्टिकल, मल्टीमीडिया, डेटा सेट, "
+"आर्टवर्क आदि शामिल हैं ।"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.pageProofs"
+msgstr "प्रूफ़रीडिंग"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.confirmSubmit"
+msgstr "क्या आप वाकई इस लेख को जर्नल में सबमिट करना चाहते हैं?"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "workflow.review.externalReview"
+msgstr "समीक्षा"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "submission.event.issueMetadataUpdated"
+msgstr "सबमिशन्स अंक मेटाडेटा अद्यतन किया गया था ।"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.upload.fileContents"
+msgstr "लेख घटक"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.submit.form.localeRequired"
+msgstr "कृपया एक सबमिशन भाषा चुनें ।"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.submit.submissionChecklist"
+msgstr "सबमिशन चेकलिस्ट"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "submission.submit.submissionChecklistDescription"
+msgstr ""
+"आपको पढ़ना और स्वीकार करना होगा कि आपने आगे बढ़ने से पहले नीचे की आवश्यकताओं "
+"को पूरा कर लिया है ।"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.submit.privacyStatement"
+msgstr "गोपनीयता वाले कथन"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.submit.contributorRole"
+msgstr "योगदानकर्ता की भूमिका"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.submit.form.authorRequired"
+msgstr "कम से कम एक लेखक की आवश्यकता है ।"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "submission.submit.form.authorRequiredFields"
+msgstr "प्रत्येक लेखक का पहला नाम, अंतिम नाम और ईमेल पता आवश्यक है ।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.submit.form.titleRequired"
+msgstr "कृपया अपने लेख का शीर्षक दर्ज करें ।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.submit.form.abstractRequired"
+msgstr "कृपया अपने लेख का सार दर्ज करें।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 2
+msgid "submission.submit.form.wordCountAlert"
+msgstr ""
+"आपका सार बहुत लंबा है। कृपया इस अनुभाग के लिए इंगित शब्द सीमा के नीचे इसे "
+"छोटा करें।"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "submission.submit.form.contributorRoleRequired"
+msgstr "कृपया योगदानकर्ता की भूमिका का चयन करें।"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "submission.citationFormat.notFound"
+msgstr "अनुरोधित उद्धरण प्रारूप पुनर्प्राप्त नहीं किया जा सका।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.metadataDescription"
+msgstr ""
+"ये विनिर्देश डबलिन कोर मेटाडेटा सेट पर आधारित हैं, जो एक अंतरराष्ट्रीय मानक "
+"है जिसका उपयोग जर्नल सामग्री का वर्णन करने के लिए किया जाता है ।"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.sectionOptions"
+msgstr "अनुभाग विकल्प"
+
+# (pofilter) brackets: Added '{', '}'
+# (pofilter) pythonbraceformat: Unknown named placeholders in translation: {$numTitles}
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+msgid "catalog.browseTitles"
+msgstr "{$numTitles} आइटम"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "galley.editPublishedDisabled"
+msgstr ""
+"इस प्रकाशन की गैलियों को संपादित नहीं किया जा सकता क्योंकि यह पहले ही प्रकाशि"
+"त हो चुकी है।"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "galley.publicationNotFound"
+msgstr "इस गैली के लिए प्रकाशन नहीं मिल सका।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 2
+# (pofilter) simplecaps: Different capitalization
+msgid "publication.datePublished.description"
+msgstr ""
+"अंक प्रकाशित होने पर प्रकाशन की तिथि अपने आप निर्धारित हो जाएगी। जब तक लेख "
+"पहले कहीं और प्रकाशित नहीं किया गया था, तब तक आप प्रकाशन तिथि दर्ज न करें और "
+"आपको इसे वापस करने की आवश्यकता है।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "publication.invalidSection"
+msgstr "इस प्रकाशन के लिए अनुभाग नहीं मिला।"
+
+# (pofilter) doublespacing: Different use of double spaces
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "publication.invalidIssue"
+msgstr "इस प्रकाशन के लिए अंक नहीं मिल सका।"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "publication.issue.success"
+msgstr "प्रकाशन की अंक का विवरण अद्यतन किया गया है ।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 2
+msgid "publication.publish.confirmation"
+msgstr "सभी प्रकाशन आवश्यकताओं को पूरा किया गया है। क्या आप वाकई इसे प्रकाशित करना चाहते हैं?"
+
+# (pofilter) brackets: Added '{', '}'
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) pythonbraceformat: Unknown named placeholders in translation: {$issue}
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 3
+# (pofilter) simplecaps: Different capitalization
+msgid "publication.publish.confirmation.futureIssue"
+msgstr "सभी प्रकाशन आवश्यकताओं को पूरा किया गया है। {$issue}प्रकाशित होने पर इसे प्रकाशित किया जाएगा। क्या आप वाकई प्रकाशन के लिए इसे शेड्यूल करना चाहते हैं?"
+
+# (pofilter) brackets: Added '{', '}'
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) pythonbraceformat: Unknown named placeholders in translation: {$issue}
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 3
+# (pofilter) simplecaps: Different capitalization
+msgid "publication.publish.confirmation.backIssue"
+msgstr "सभी प्रकाशन आवश्यकताओं को पूरा किया गया है। इसे तुरंत {$issue} में प्रकाशित किया जाएगा। क्या आप वाकई इसे प्रकाशित करना चाहते हैं?"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "publication.required.issue"
+msgstr "प्रकाशन को प्रकाशित करने से पहले उसे किसी अंक को सौंपा जाना चाहिए।"
+
+# (pofilter) brackets: Added '{', '}'
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) pythonbraceformat: Unknown named placeholders in translation: {$issueName}, {$issueUrl}
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) xmltags: Added XML tags
+msgid "publication.publishedIn"
+msgstr "में प्रकाशित <a href=\"{$issueUrl}\">{$issueName}</a>."
+
+# (pofilter) brackets: Added '{', '}'
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) pythonbraceformat: Unknown named placeholders in translation: {$issueName}, {$issueUrl}
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) xmltags: Added XML tags
+msgid "publication.scheduledIn"
+msgstr "में प्रकाशन के लिए निर्धारित <a href=\"{$issueUrl}\">{$issueName}</a>."
+
+msgid "catalog.category.heading"
+msgstr "सभी आइटम"
+
+msgid "section.any"
+msgstr "कोई खंड"
+
+msgid "submission.incomplete"
+msgstr "स्वीकृति का इंतजार"
+
+msgid "submission.complete"
+msgstr "स्वीकृत"
+
+msgid "editor.submission.decision.sendExternalReview"
+msgstr "समीक्षा के लिए भेजें"
+
+msgid "submission.submit.titleAndSummary"
+msgstr "शीर्षक और सार"
+
+msgid "grid.action.availableArticleGalley"
+msgstr "इस गैली को उपलब्ध कराएं"
+
+msgid "grid.issueEntry.availableGalley.title"
+msgstr "प्रारूप स्वीकृति"
+
+msgid "grid.action.galleyInIssueEntry"
+msgstr "गैली अंक प्रविष्टि में दिखाई देता है"
+
+msgid "grid.action.workflow"
+msgstr "सबमिशन वर्कफ़्लो"
+
+msgid "submission.submit.newSubmissionSingle"
+msgstr "नई सबमिशन"
+
+msgid "submission.submit.newSubmissionMultiple"
+msgstr "में एक नया सबमिशन शुरू करें"
+
+msgid "submission.title"
+msgstr "लेख का शीर्षक"
+
+msgid "submission.submit.title"
+msgstr "लेख प्रस्तुत करें"

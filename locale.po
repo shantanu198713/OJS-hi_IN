@@ -1,0 +1,5531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-15 09:20-0700\n"
+"PO-Revision-Date: 2020-12-17 17:52+0000\n"
+"Last-Translator: Shantanu Kuamr Singh <shantanu198713@gmail.com>\n"
+"Language-Team: Hindi <http://translate.pkp.sfu.ca/projects/ojs/locale/hi/>\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+## By Shantanu Kumar Singh ##
+
+msgid "navigation.settings"
+msgstr "समायोजन"
+
+msgid "common.save"
+msgstr "सहेजें"
+
+msgid "dashboard.myQueue"
+msgstr "मेरी कतार"
+
+msgid "grid.noItems"
+msgstr "खाली है"
+
+msgid "common.queue.long.myAssigned"
+msgstr "मेरी कतार"
+
+msgid "navigation.submissions"
+msgstr "प्रस्तुतीकरण"
+
+msgid "submission.list.empty"
+msgstr "खाली है"
+
+msgid "navigation.archives"
+msgstr "संग्रहालय"
+
+msgid "common.queue.long.submissionsArchived"
+msgstr "संग्रहीत प्रस्तुतियाँ"
+
+msgid "common.search"
+msgstr "खोज"
+
+msgid "help.help"
+msgstr "सहायता"
+
+msgid "common.filter"
+msgstr "निस्पंदन"
+
+msgid "common.description"
+msgstr "उल्लेख"
+
+msgid "manager.setup.principalContact"
+msgstr "प्रधान संपर्क"
+
+msgid "common.name"
+msgstr "नाम"
+
+msgid "manager.setup.principalContactDescription"
+msgstr "प्रमुख संपर्क विवरण"
+
+msgid "user.email"
+msgstr "ईमेल"
+
+msgid "user.phone"
+msgstr "फ़ोन"
+
+msgid "user.affiliation"
+msgstr "संपर्क"
+
+msgid "common.mailingAddress"
+msgstr "डाक पता"
+
+msgid "manager.setup.technicalSupportContact"
+msgstr "तकनीकी सहायता संपर्क"
+
+msgid "manager.setup.technicalSupportContactDescription"
+msgstr "प्रमुख संपर्क विवरण"
+
+msgid "common.title"
+msgstr "शीर्षक"
+
+msgid "user.role.editors"
+msgstr "संपादक"
+
+msgid "common.inactive"
+msgstr "निष्क्रिय"
+
+msgid "common.cancel"
+msgstr "रद्द करें"
+
+msgid "common.ok"
+msgstr "ठीक है"
+
+msgid "manager.sections.form.deactivateSection"
+msgstr "इस अनुभाग को निष्क्रिय करें और इसमें नई प्रविष्टियां करने की अनुमति न दें।"
+
+msgid "common.none"
+msgstr "कोई भी नहीं"
+
+msgid "grid.action.edit"
+msgstr "संपादन करना"
+
+msgid "grid.action.delete"
+msgstr "हटाये"
+
+msgid "grid.category.categories"
+msgstr "श्रेणियाँ"
+
+msgid "grid.category.add"
+msgstr "जोड़ें"
+
+msgid "grid.category.categoryDetails"
+msgstr "श्रेणी विवरण"
+
+msgid "grid.category.name"
+msgstr "नाम"
+
+msgid "grid.category.parentCategory"
+msgstr "अभिभावक श्रेणी"
+
+msgid "grid.category.description"
+msgstr "विवरण"
+
+msgid "category.coverImage"
+msgstr "कवर छवि"
+
+msgid "common.upload.addFile"
+msgstr "फ़ाइल जोड़ें"
+
+msgid "common.upload.dragFile"
+msgstr "अपलोड शुरू करने के लिए फ़ाइल को यहां खींचें और छोड़ें"
+
+msgid "common.requiredField"
+msgstr "* आवश्यक स्थान को प्रदर्शित करता है"
+
+msgid "grid.category.urlWillBe"
+msgstr "श्रेणी का URL होगा"
+
+msgid "catalog.sortBy.titleAsc"
+msgstr "शीर्षक (ए-जेड)"
+
+msgid "catalog.sortBy.titleDesc"
+msgstr "शीर्षक (जेड-ए)"
+
+msgid "catalog.sortBy.datePublishedAsc"
+msgstr "प्रकाशन की तारीख (सबसे पुरानी पहली)"
+
+msgid "catalog.sortBy.datePublishedDesc"
+msgstr "प्रकाशन तिथि (नवीनतम पहले)"
+
+msgid "common.changesSaved"
+msgstr "बदलाव सुरक्षित किया गया"
+
+msgid "grid.action.order"
+msgstr "क्रम"
+
+msgid "common.done"
+msgstr "पूर्ण"
+
+msgid "grid.action.cancelOrdering"
+msgstr "रद्द करें"
+
+msgid "navigation.about"
+msgstr "बारे में"
+
+msgid "manager.setup.privacyStatement"
+msgstr "गोपनीयता कथन"
+
+msgid "common.homepageNavigationLabel"
+msgstr "घर"
+ 
+msgid "navigation.breadcrumbSeparator"
+msgstr "/"
+
+msgid "navigation.dashboard"
+msgstr "नियंत्रण-पट्ट"
+
+msgid "common.viewProfile"
+msgstr "प्रोफाइल देखिये"
+
+msgid "navigation.admin"
+msgstr "प्रशासन"
+
+msgid "user.logOut"
+msgstr "लॉग आउट"
+
+msgid "manager.website"
+msgstr "वेबसाइट"
+
+msgid "manager.website.title"
+msgstr "वेबसाइट सेटिंग्स"
+
+msgid "manager.website.appearance"
+msgstr "दिखावट"
+
+msgid "manager.setup.theme"
+msgstr "प्रसंग"
+
+msgid "navigation.setup"
+msgstr "व्यवस्था"
+
+msgid "manager.setup.advanced"
+msgstr "अग्रिम"
+
+msgid "manager.setup.theme.description"
+msgstr "इस पृष्ठ के शीर्ष पर प्लगइन्स टैब से नई थीम स्थापित की जा सकती हैं।"
+
+msgid "plugins.themes.default.name"
+msgstr "डिफ़ॉल्ट थीम"
+
+msgid "manager.setup.logo"
+msgstr "प्रतीक चिन्ह"
+
+msgid "manager.setup.homepageImage"
+msgstr "मुखपृष्ठ छवि"
+
+msgid "manager.setup.pageFooter"
+msgstr "पेज फ़ुटर"
+
+msgid "manager.setup.layout.sidebar"
+msgstr "साइडबार"
+
+msgid "plugins.generic.webfeed.displayName"
+msgstr "वेबफीड खंड"
+
+msgid "plugins.block.browse.displayName"
+msgstr "पृष्ठ पलटना खंड"
+
+msgid "plugins.block.developedBy.displayName"
+msgstr "द्वारा विकसित खंड"
+
+msgid "plugins.block.information.displayName"
+msgstr "जानकारी"
+
+msgid "plugins.block.languageToggle.displayName"
+msgstr "भाषा टॉगल"
+
+msgid "plugins.block.subscription.displayName"
+msgstr "सदस्यता खंड"
+
+msgid "form.saved"
+msgstr "बचाया"
+
+msgid "manager.setup.favicon"
+msgstr "फ़ेविकॉन"
+
+msgid "manager.setup.additionalContent"
+msgstr "अतिरिक्त सामग्री"
+
+msgid "manager.setup.additionalContent.description"
+msgstr "यहां दर्ज की गई कोई भी चीज आपके होमपेज पर दिखाई देगी।"
+
+msgid "common.plugins"
+msgstr "प्लग-इन"
+
+msgid "manager.website.information"
+msgstr "जानकारी"
+
+msgid "manager.setup.information.descriptionTitle"
+msgstr "विवरण"
+
+msgid "common.languages"
+msgstr "भाषा"
+
+msgid "manager.navigationMenus"
+msgstr "नौचालन"
+
+msgid "manager.setup.dateTime"
+msgstr "दिनांक & समय"
+
+msgid "grid.columns.locale"
+msgstr "स्थानीय"
+
+msgid "locale.primary"
+msgstr "प्राथमिक स्थान"
+
+msgid "navigation.register"
+msgstr "पंजीकरण"
+
+msgid "user.login"
+msgstr "लॉग इन करें"
+
+msgid "user.username"
+msgstr "उपयोगकर्ता नाम"
+
+msgid "user.password"
+msgstr "पासवर्ड"
+
+msgid "user.login.forgotPassword"
+msgstr "पासवर्ड भूल गए हैं?"
+
+msgid "user.login.rememberUsernameAndPassword"
+msgstr "मुझे लोग्ड इन रखें"
+
+msgid "user.login.registerNewAccount"
+msgstr "पंजीकरण"
+
+msgid "navigation.login"
+msgstr "लॉग इन"
+
+msgid "user.register"
+msgstr "पंजीकरण"
+
+msgid "user.profile"
+msgstr "पार्श्वचित्र"
+
+msgid "user.givenName"
+msgstr "प्रदत्त नाम"
+
+msgid "user.familyName"
+msgstr "परिवार का नाम"
+
+msgid "common.country"
+msgstr "देश"
+
+msgid "user.repeatPassword"
+msgstr "पासवर्ड दोहराएं"
+
+msgid "default.groups.name.reader"
+msgstr "पाठक"
+
+msgid "common.loading"
+msgstr "लोड हो रहा है"
+
+msgid "user.profile.editProfile"
+msgstr "प्रोफ़ाइल संपादित करें"
+
+msgid "user.repeatPassword"
+msgstr "पासवर्ड दोहराएं"
+
+msgid "user.register.form.emailConsent"
+msgstr "हां, मैं नए प्रकाशनों और घोषणाओं के बारे में अधिसूचित होना चाहता हूं।"
+
+msgid "manager.plugins.installed"
+msgstr "स्थापित प्लगइन्स"
+
+msgid "manager.plugins.pluginGallery"
+msgstr "प्लगइन गैलरी"
+
+msgid "manager.navigationMenuItems"
+msgstr "नेविगेशन मेनू आइटम"
+
+msgid "grid.action.addNavigationMenu"
+msgstr "मेनू जोड़ें"
+
+msgid "grid.action.addNavigationMenuItem"
+msgstr "आइटम जोड़ें"
+
+msgid "manager.setup.dateTime.descriptionTitle"
+msgstr "दिनांक और समय प्रारूप"
+
+msgid "manager.setup.dateTime.description"
+msgstr "दिनांक और समय के लिए पसंदीदा प्रारूप चुनें। विशेष प्रारूप वर्णों का उपयोग करके एक कस्टम प्रारूप दर्ज किया जा सकता है।"
+
+msgid "manager.setup.dateTime.longDate"
+msgstr "दिनांक"
+
+msgid "manager.setup.dateTime.custom"
+msgstr "कस्टम"
+
+msgid "manager.setup.dateTime.shortDate"
+msgstr "तिथि (लघु)"
+
+msgid "manager.setup.dateTime.time"
+msgstr "समय"
+
+msgid "manager.setup.dateTime.longDateTime"
+msgstr "दिनांक & समय"
+
+msgid "manager.setup.dateTime.shortDateTime"
+msgstr "दिनांक & समय (लघु)"
+
+msgid "common.language"
+msgstr "भाषा"
+
+msgid "submissions.queuedUnassigned"
+msgstr "इस सबमिशन के लिए कोई संपादक असाइन नहीं किया गया है।"
+
+msgid "submission.list.assignEditor"
+msgstr "संपादक असाइन करें"
+
+msgid "common.view"
+msgstr "देखें"
+
+msgid "submission.list.discussions"
+msgstr "खुली चर्चा"
+
+msgid "submission.submission"
+msgstr "प्रस्तुत"
+
+msgid "submission.editorial"
+msgstr "कॉपी संपादन"
+
+msgid "submission.list.copyeditsSubmitted"
+msgstr "कॉपी एडिट सबमिट किया गया"
+
+msgid "submission.production"
+msgstr "उत्पादन"
+
+msgid "common.lastActivity"
+msgstr "आख़िरी गतिविधि {$date}"
+
+msgid "submission.list.reviewsCompleted"
+msgstr "सौंपा गया समीक्षा पूरी हुई"
+
+msgid "submission.list.revisionsSubmitted"
+msgstr "संशोधन प्रस्तुत"
+
+msgid "submission.list.infoCenter"
+msgstr "गतिविधि लॉग और नोट्स"
+
+msgid "user.interests"
+msgstr "रूचियाँ"
+	
+msgid "user.login.registrationComplete"
+msgstr "पंजीकरण पूर्ण"
+
+msgid "submission.informationCenter.history"
+msgstr "वृत्तांत"
+
+msgid "submission.informationCenter.notes"
+msgstr "टिप्पणियाँ"
+
+msgid "submission.list.galleysCreated"
+msgstr "गैली बनाया गया"
+
+msgid "submission.list.reviewComplete"
+msgstr "समीक्षा पूर्ण"
+
+msgid "submission.list.reviewAssignment"
+msgstr "समीक्षा कार्यभार"
+
+msgid "submission.list.responseDue" 
+msgstr "प्रतिक्रिया देय {$date}"
+
+msgid "submission.list.reviewDue"
+msgstr "समीक्षा देय {$date}" 
+
+msgid "submission.review.status.awaitingResponse" 
+msgstr "प्रतिक्रिया की प्रतीक्षा"
+
+msgid "editor.review.requestSent"
+msgstr "निमंत्रण भेजा गया"
+
+msgid "editor.review.responseDue"
+msgstr "प्रतिक्रिया देय: {$date}"
+
+msgid "editor.submissionReview.doubleAnonymous"
+msgstr "बेनामी समीक्षक/बेनामी लेखक"
+
+msgid "manager.workflow"
+msgstr "कार्यप्रवाह"
+
+msgid "submission.publication"
+msgstr "प्रकाशन"
+
+msgid "submission.submit.submissionFiles"
+msgstr "सबमिशन फ़ाइलें"
+
+msgid "editor.submission.decision.skipReview"
+msgstr "स्वीकार करें और समीक्षा छोड़ें"
+
+msgid "editor.submission.decision.decline"
+msgstr "सबमिशन अस्वीकार करें"
+
+msgid "editor.submission.stageParticipants"
+msgstr "प्रतिभागियों"
+
+msgid "common.assign"
+msgstr "नियुक्ति"
+
+msgid "submission.addFile"
+msgstr "दस्तावेज अपलोड करें"
+
+msgid "grid.action.addQuery"
+msgstr "चर्चा जोड़ें"
+
+msgid "user.profile.identity"
+msgstr "पहचान"
+
+msgid "user.profile.contact"
+msgstr "संपर्क"
+
+msgid "user.roles"
+msgstr "भूमिका"
+
+msgid "user.profile.public"
+msgstr "सार्वजनिक"
+
+msgid "notification.notifications"
+msgstr "अधिसूचना"
+
+msgid "user.apiKey"
+msgstr "एपीआई कुंजी"
+
+msgid "common.titleSeparator"
+msgstr " | "
+
+msgid "editor.submission.workflowDecision.submission.underReview"
+msgstr "सबमिशन समीक्षा के लिए स्वीकार किया गया।"
+
+msgid "editor.submission.workflowDecision.changeDecision"
+msgstr "निर्णय बदलें"
+
+msgid "editor.submission.decision.requestRevisions"
+msgstr "अनुरोध संशोधन"
+
+msgid "editor.submission.decision.accept"
+msgstr "सबमिशन स्वीकार करें"
+
+msgid "notification.type.roundStatusTitle"
+msgstr "राउंड {$round} स्थिति"
+
+msgid "editor.submission.roundStatus.pendingReviews"
+msgstr "समीक्षकों से प्रतिक्रियाओं की प्रतीक्षा कर रहा है।"
+
+msgid "reviewer.submission.reviewFiles"
+msgstr "समीक्षा फ़ाइलें"
+
+msgid "editor.submission.uploadSelectFiles"
+msgstr "अपलोड / फ़ाइल चुनें"
+
+msgid "grid.noFiles"
+msgstr "कोई फ़ाइल नहीं"
+
+msgid "user.role.reviewers"
+msgstr "समीक्षक"
+
+msgid "editor.submission.addReviewer"
+msgstr "समीक्षक जोड़ें"
+
+msgid "editor.submission.revisions"
+msgstr "संशोधन"
+
+msgid "submission.queries.review"
+msgstr "समीक्षा चर्चा"
+
+msgid "submission.query.from"
+msgstr "प्रपत्र"
+
+msgid "submission.query.lastReply"
+msgstr "अंतिम उत्तर"
+
+msgid "submission.query.replies"
+msgstr "जवाब"
+
+msgid "submission.query.closed"
+msgstr "बंद किया हुआ"
+
+msgid "editor.submission.newRound"
+msgstr "नया समीक्षा दौर"
+
+msgid "grid.action.updateQuery"
+msgstr "चर्चा जोड़ें"
+
+msgid "common.subject"
+msgstr "विषय"
+
+msgid "stageParticipants.notify.message"
+msgstr "संदेश"
+
+msgid "submission.queries.attachedFiles"
+msgstr "संलग्न फाइल"
+
+msgid "editor.submission,selectFile"
+msgstr "फ़ाइल का चयन करें"
+
+msgid "editor.submission.selectFiles"
+msgstr "फ़ाइलें चुनें"
+
+msgid "editor.submission.query.manageQueryNoteFilesDescription"
+msgstr "इस चर्चा में शामिल करने के लिए नीचे दी गई सूची से फ़ाइलें संलग्न की जा सकती हैं।"
+
+msgid "submission.queryNoteFiles"
+msgstr "चर्चा फ़ाइलें"
+
+msgid "editor.submission.fileList.includeAllStages"
+msgstr "सभी सुलभ कार्यप्रवाह चरणों से फ़ाइलें दिखाएं।"
+
+msgid "submission.query.messages"
+msgstr "संदेश"
+
+msgid "common.note"
+msgstr "टिप्पणी"
+
+msgid "submission.query.addNote"
+msgstr "संदेश जोडे"
+
+msgid "editor.submission.newRoundDescription"
+msgstr "आप इस सबमिशन के लिए एक नया समीक्षा दौर बनाने जा रहे हैं। जिन फ़ाइलों का अन्य समीक्षा दौरों में उपयोग नहीं किया गया है, वे नीचे सूचीबद्ध हैं।"
+
+msgid "editor.submission.createNewRound"
+msgstr "नया समीक्षा दौर बनाएं"
+
+msgid "submission.queries.submission"
+msgstr "पूर्व समीक्षा चर्चा"
+
+msgid "editor.submissionReview.uploadFile"
+msgstr "समीक्षा फ़ाइल अपलोड करें"
+
+msgid "submission.submit.uploadStep"
+msgstr "दस्तावेज अपलोड करें"
+
+msgid "submission.submit.finishingUpStep"
+msgstr "समीक्षा विवरण"
+
+msgid "submission.submit.metadataStep"
+msgstr "पुष्टि करें"
+
+msgid "common.continue"
+msgstr "जारी रखें"
+
+msgid "common.complete"
+msgstr "पूर्ण"
+
+msgid "submission.form.name"
+msgstr "फ़ाइल को नाम दें (उदा., पांडुलिपि; तालिका 1)"
+
+msgid "submission.submit.fileAdded"
+msgstr "फ़ाइल जोड़ा गया"
+
+msgid "submission.submit.newFile"
+msgstr "एक और फ़ाइल जोड़ें"
+
+msgid "submission.upload.selectOptionalFileToRevise"
+msgstr "यदि आप किसी मौजूदा फ़ाइल का संशोधन अपलोड कर रहे हैं, तो कृपया बताएं कि कौन सी फ़ाइल है।"
+
+msgid "submission.upload.uploadNewFile"
+msgstr "यह किसी मौजूदा फ़ाइल का संशोधन नहीं है"
+
+msgid "editor.submission.roundStatus.pendingReviewers"
+msgstr "समीक्षकों को नियुक्त किए जाने की प्रतीक्षा कर रहा है।"
+
+msgid "editor.activityLog"
+msgstr "गतिविधि लॉग"
+
+msgid "editor.submissionLibrary"
+msgstr "पुस्तकालय"
+
+msgid "editor.submission.findAndSelectReviewer"
+msgstr "एक समीक्षक का पता लगाएँ"
+
+msgid "reviewer.list.activeReviews"
+msgstr "{$count} सक्रिय"
+
+msgid "editor.submission.selectedReviewer"
+msgstr "चयनित समीक्षक"
+
+msgid "manager.reviewerSearch.change"
+msgstr "परिवर्तन"
+
+msgid "editor.review.personalMessageToReviewer"
+msgstr "समीक्षक को भेजा जाने वाला ईमेल"
+
+msgid "editor.review.skipEmail"
+msgstr "समीक्षक को ईमेल न भेजें।"
+
+msgid "editor.review.importantDates"
+msgstr "महत्वपूर्ण तिथियाँ"
+
+msgid "submission.task.responseDueDate"
+msgstr "प्रतिक्रिया देय तिथि"
+
+msgid "editor.review.reviewDueDate"
+msgstr "समीक्षा देय तिथि"
+
+msgid "editor.submissionReview.restrictFiles"
+msgstr "समीक्षा की जाने वाली फाइलें"
+
+msgid "editor.submissionReview.restrictFiles.hide"
+msgstr "फ़ाइल अनुभाग बंद करें"
+
+msgid "editor.submissionReview.reviewType"
+msgstr "समीक्षा प्रकार"
+
+msgid "editor.submissionReview.anonymous"
+msgstr "बेनामी समीक्षक/खुलासा लेखक"
+
+msgid "editor.submissionReview.open"
+msgstr "खुला"
+
+msgid "editor.submission.selectReviewer"
+msgstr "समीक्षा का चयन करें"
+
+msgid "reviewer.list.daySinceLastAssignment"
+msgstr "वर्तमान में असाइन की गई सक्रिय समीक्षाएं"
+
+msgid "reviewer.list.activeReviewsDescription"
+msgstr "वर्तमान में असाइन की गई सक्रिय समीक्षाएं"
+
+msgid "reviewer.list.completedReviews"
+msgstr "समीक्षा पूरी हुई"
+
+msgid "reviewer.list.declinedReviews"
+msgstr "समीक्षा अनुरोध अस्वीकृत"
+
+msgid "reviewer.list.cancelledReviews"
+msgstr "समीक्षा अनुरोध रद्द"
+
+msgid "reviewer.list.daysSinceLastAssignmentDescription"
+msgstr "पिछली समीक्षा के बाद के दिन असाइन किए गए"
+
+msgid "reviewer.list.averageCompletion"
+msgstr "समीक्षा पूरी करने के लिए औसत दिन"
+
+msgid "reviewer.list.warnOnAssign"
+msgstr "यह समीक्षक लॉक है क्योंकि उन्हें एक भूमिका सौंपी गई है जो उन्हें लेखक की पहचान देखने की अनुमति देती है। अनाम सहकर्मी समीक्षा की गारंटी नहीं दी जा सकती है। क्या आप फिर भी इस समीक्षक को अनलॉक करना चाहेंगे?" 
+
+msgid "reviewer.list.warnOnAssignUnlock"
+msgstr "अनलॉक करे"
+
+msgid "reviewer.list.filterRating"
+msgstr "कम से कम रेटेड"
+
+msgid "editor.review.createReviewer"
+msgstr "नया समीक्षक बनाएं"
+
+msgid "editor.review.enrollReviewer.short"
+msgstr "मौजूदा उपयोगकर्ता को नामांकित करें"
+
+msgid "editor.submission.backToSearch"
+msgstr "खोज करने के लिए वापस"
+
+msgid "user.register.usernameRestriction"
+msgstr "उपयोगकर्ता नाम में केवल छोटे अक्षर, संख्याएं और हाइफ़न/अंडरस्कोर होने चाहिए।"
+
+msgid "common.suggest"
+msgstr "सुझाव"
+
+msgid "manager.reviewerSearch.interests"
+msgstr "रुचियों की समीक्षा करना"
+
+msgid "editor.review.enrollReviewer"
+msgstr "मौजूदा उपयोगकर्ता को समीक्षक के रूप में नामांकित करें"
+
+msgid "editor.review.userGroupSelect"
+msgstr "इस समीक्षक उपयोगकर्ता समूह के साथ उपयोगकर्ता का नामांकन करें"
+
+msgid "manager.reviewerSearch.searchByName.short"
+msgstr "नाम से खोजें"
+
+msgid "submission.upload.query"
+msgstr "चर्चा फ़ाइल अपलोड करें"
+
+msgid "common.sendEmail"
+msgstr "ईमेल भेजें"
+
+msgid "editor.submissionReview.sendEmail"
+msgstr "लेखक को एक ईमेल सूचना भेजें: {$authorName}"
+
+msgid "editor.submissionReview.skipEmail"
+msgstr "ईमेल सूचना न भेजें"
+
+msgid "grid.reviewAttachments.send.title"
+msgstr "लेखक (लेखकों) के साथ साझा करने के लिए समीक्षा फ़ाइलों का चयन करें"
+
+msgid "grid.action.moreInformation"
+msgstr "अधिक जानकारी"
+
+msgid "common.edit"
+msgstr "संपादन"
+
+msgid "settings.libraryFiles.public.selectLibraryFiles"
+msgstr "संलग्न करने के लिए पुस्तकालय फ़ाइल का चयन करें"
+
+msgid "settings.libraryFiles.category.marketing"
+msgstr "विपणन"
+
+msgid "settings.libraryFiles.category.permissions"
+msgstr "अनुमतियां"
+	
+msgid "settings.libraryFiles.category.reports"
+msgstr "रिपोर्टों"
+
+msgid "settings.libraryFiles.category.other"
+msgstr "अन्य"
+
+msgid "editor.submission.decision.nextButton"
+msgstr "अगला: प्रतिलिपि संपादन के लिए फ़ाइल का चयन करें"
+
+msgid "informationCenter.informationCenter"
+msgstr "सूचना केंद्र"
+
+msgid "common.date"		
+msgstr "दिनांक"
+
+msgid "common.user"
+msgstr "उपयोगकर्ता"
+
+msgid "common.event"
+msgstr "घटना"
+
+msgid "common.download"
+msgstr "डाउनलोड"
+
+msgid "informationCenter.pastNotes"
+msgstr "प्रारंभिक संशोधन नोट"
+
+msgid "informationCenter.noNotes"
+msgstr "प्रदर्शित करने के लिए कोई नोट नहीं हैं।"
+
+msgid "informationCenter.addNote"
+msgstr "नोट जोड़े"
+
+msgid "submission.informationCenter.history.allEvents"
+msgstr "पिछले संस्करणों से ईवेंट दिखाएं"
+
+msgid "editor.review.newReviewRound"
+msgstr "नए समीक्षा दौर की आवश्यकता है"
+
+msgid "editor.review.NotifyAuthorRevisions"
+msgstr "संशोधन सहकर्मी समीक्षाओं के नए दौर के अधीन नहीं होंगे।"
+ 
+msgid "editor.review.NotifyAuthorResubmit"
+msgstr "संशोधन सहकर्मी समीक्षाओं के एक नए दौर के अधीन होंगे।"
+ 
+msgid "editor.submissionReview.recordDecision"
+msgstr "रिकॉर्ड संपादकीय निर्णय"
+
+msgid "editor.submission.decision.selectFiles"
+msgstr "उन फ़ाइलों का चयन करें जिन्हें आप प्रतिलिपि संपादन चरण में अग्रेषित करना चाहते हैं।"
+
+msgid "editor.submission.decision.previousAuthorNotification"
+msgstr "पिछला: लेखक अधिसूचना"
+
+msgid "submission.finalDraft"
+msgstr "ड्राफ्ट फ़ाइलें"
+
+msgid "submission.queries.editorial"
+msgstr "चर्चाओं की प्रतिलिपि बनाना"
+
+msgid "submission.copyedited"
+msgstr "कॉपी संपादित"
+
+msgid "editor.submission.decision.sendToProduction"
+msgstr "उत्पादन के लिए भेजें"
+
+msgid "common.preview"
+msgstr "पूर्व दर्शन"
+
+msgid "editor.submission.production.productionReadyFiles"
+msgstr "उत्पादन के लिए तैयार फ़ाइलें"
+
+msgid "submission.queries.production"
+msgstr "उत्पादन चर्चा"
+
+msgid "submission.files.downloadAll"
+msgstr "सभी डाउनलोड करे"
+
+msgid "editor.submission.schedulePublication"
+msgstr "प्रकाशन के लिए अनुसूची"
+
+msgid "editor.submission.addStageParticipant"
+msgstr "प्रतिभागी को असाइन करें"
+
+msgid "editor.submission.findAndSelectUser"
+msgstr "एक उपयोगकर्ता का पता लगाएँ"
+
+msgid "manager.userSearch.searchByName"
+msgstr "नाम से उपयोगकर्ता खोजें"
+
+msgid "author.users.contributor.name"
+msgstr "नाम"
+
+msgid "stageParticipants.notify.chooseMessage"
+msgstr "उपयोग करने के लिए एक पूर्वनिर्धारित संदेश चुनें, या नीचे दिया गया फ़ॉर्म भरें।"
+
+msgid "default.group.name.productionEditor"
+msgstr "उत्पादन संपादक"
+
+msgid "default.group.name.designer"
+msgstr "डिजाइनर"
+
+msgid "default.group.name.indexer"
+msgstr "सूचीकार"
+
+msgid "default.group.name.layoutEditor"
+msgstr "लेआउट संपादक"
+
+msgid "default.group.name.proofreader"
+msgstr "शुद्धिकारक"
+
+msgid "default.group.name.author"
+msgstr "लेखक"
+
+msgid "default.group.name.translater"
+msgstr "अनुवादक"
+
+msgid "editor.submission.workflowDecision.submission.accepted"
+msgstr "सबमिशन स्वीकार किया गया।"
+
+msgid "editor.submission.roundStatus.accepted"
+msgstr "सबमिशन स्वीकार किया गया।"
+
+msgid "editor.submission.externalReviewDescription"
+msgstr "समीक्षा के लिए भेजें"
+
+msgid "editor.submission.workflowDecision.submission.reviewRound"
+msgstr "समीक्षा के एक नए दौर के लिए भेजा गया।"
+
+msgid "common.declined"
+msgstr "अस्वीकार"
+
+msgid "editor.submission.workflowDecision.submission.declined"
+msgstr "सबमिशन अस्वीकार"
+
+msgid "editor.submission.roundStatus.declined"
+msgstr "सबमिशन अस्वीकार"
+
+msgid "editor.submission.decision.revertDecline"
+msgstr "वापसी अस्वीकार"
+
+msgid "semicolon" 
+msgstr ": "
+
+msgid "publication.status.unscheduled"
+msgstr "अनिर्धारित"
+
+msgid "publication.selectIssue"
+msgstr "प्रकाशन के लिए शेड्यूल करने के लिए किसी अंक का चयन करें"
+
+msgid "publication.titleAbstract"
+msgstr "शीर्षक और सार"
+
+msgid "publication.contributors"
+msgstr "योगदानकर्ता"
+
+msgid "submission.informationCenter.metadata"
+msgstr "मेटाडाटा"
+
+msgid "submission.layout.galleys"
+msgstr "गैली"
+
+msgid "submission.citations"
+msgstr "संदर्भ"
+
+msgid "publication.publicationLicense"
+msgstr "अनुमतियाँ और प्रकटीकरण"
+
+msgid "common.prefix"
+msgstr "उपसर्ग"
+
+msgid "common.prefixAndTitle.tip"
+msgstr "उदाहरण: A, The"
+
+msgid "common.subtitle"
+msgstr "उपशीर्षक"
+
+msgid "common.abstract"
+msgstr "सार"
+
+msgid "submission.contributors"
+msgstr "योगदानकर्ताओं की सूची"
+
+msgid "grid.action.addContributor"
+msgstr "योगदानकर्ता जोड़ें"
+
+msgid "author.users.contributor.email"
+msgstr "ई-मेल"
+
+msgid "author.users.contributor.role"	
+msgstr "भूमिका"
+
+msgid "author.users.contributor.principalContact"	
+msgstr "प्राथमिक संपर्क"
+
+msgid "author.users.contributor.includeInBrowse"
+msgstr "ब्राउज़ सूची में"
+
+msgid "default.groups.name.author"	
+msgstr "लेखक"
+
+msgid "user.name"
+msgstr "नाम"
+
+msgid "user.preferredPublicName.description"
+msgstr "आप कैसे संबोधित किया जाना पसंद करते हैं? यदि आप चाहें तो यहां अभिवादन, मध्य नाम और प्रत्यय जोड़े जा सकते हैं।"
+
+msgid "user.preferredPublicName"
+msgstr "पसंदीदा सार्वजनिक नाम"
+
+msgid "grid.user.userDetails"
+msgstr "उपयोगकर्ता की जानकारी"
+
+msgid "user.url"
+msgstr "होम पेज URL"
+
+msgid "user.orcid"
+msgstr "ORCID iD"
+
+msgid "user.biography"
+msgstr "व्यक्तिगत विवरण (उदाहरण, विभाग और पद)"
+
+msgid "submission.submit.selectPrincipalContact"
+msgstr "संपादकीय पत्राचार के लिए प्रधान संपर्क।"
+
+msgid "submission.submit.includeInBrowse"
+msgstr "इस योगदानकर्ता को ब्राउज़ सूचियों में शामिल करें?"
+
+msgid "grid.action.editContributor"
+msgstr "योगदानकर्ता संपादित करें"
+
+msgid "common.keywords"
+msgstr "कीवर्ड"
+
+msgid "common.subjects"
+msgstr "विषय"
+
+msgid "search.discipline"
+msgstr "शिक्षण"
+
+msgid "submission.supportingAgencies"
+msgstr "सहायक एजेंसियां"
+
+msgid "manager.setup.metadata.coverage"
+msgstr "आवृत्त क्षेत्र"
+
+msgid "submission.rights"
+msgstr "अधिकार"
+
+msgid "common.source"
+msgstr "स्रोत"
+
+msgid "common.type"
+msgstr "प्रकार"
+
+msgid "submission.citations.description"
+msgstr "प्रत्येक संदर्भ को एक नई पंक्ति में दर्ज करें ताकि उन्हें अलग से निकाला और रिकॉर्ड किया जा सके।"
+
+msgid "submission.layout.newGalley"
+msgstr "नई गैली बनाएं"
+
+msgid "submission.layout.galleyLabel"
+msgstr "गैली लेबल"
+
+msgid "submission.layout.galleyLabelInstructions"
+msgstr "आमतौर पर फ़ाइल प्रारूप (जैसे पीडीएफ, एचटीएमएल, आदि) की पहचान करने के लिए उपयोग किया जाता है।"
+
+msgid "publication.urlPath"
+msgstr "URL पथ"
+
+msgid "publication.urlPath.description"
+msgstr "आईडी के बजाय URL में उपयोग करने के लिए एक वैकल्पिक पथ।"
+
+msgid "submission.upload.proof"
+msgstr "प्रकाशन के लिए तैयार फ़ाइल अपलोड करें"
+
+msgid "submission.changeFile"
+msgstr "फ़ाइल बदलें"
+
+msgid "common.confirmDelete"
+msgstr "हटाने की पुष्टि करें"
+
+msgid "submission.copyrightHolder"
+msgstr "स्वत्वाधिकारी"
+
+msgid "submission.copyrightHolder.description"
+msgstr "इसके प्रकाशित होने पर कॉपीराइट स्वचालित रूप से खेती को सौंप दिया जाएगा।"
+
+msgid "common.override"
+msgstr "अधिभावी"
+
+msgid "submission.copyrightYear"
+msgstr "सर्वाधिकार वर्ष"
+
+msgid "publication.copyrightYearBasis.issueDescription"
+msgstr "सर्वाधिकार वर्ष प्रकाशन तिथि के आधार पर स्वचालित रूप से सेट हो जाएगा।"
+
+msgid "submission.licenseURL"
+msgstr "अनुज्ञप्ति URL"
+
+msgid "publication.unscheduledIn"
+msgstr "इसे किसी अंक में प्रकाशन के लिए निर्धारित नहीं किया गया है।"
+
+msgid "publication.assignToissue"
+msgstr "जारी करने के लिए असाइन करें"
+
+msgid "publication.datePublished"
+msgstr "प्रकाशित तिथि"
+
+msgid "submission.publisherId"
+msgstr "प्रकाशक ID"
+
+msgid "common.itemsPerPage"
+msgstr "सामान प्रति पेज"
+
+msgid "manager.setup.privacyStatement.description"
+msgstr "यह कथन उपयोगकर्ता पंजीकरण, लेखक प्रस्तुत करने और सार्वजनिक रूप से उपलब्ध गोपनीयता पृष्ठ पर दिखाई देगा। कुछ न्यायक्षेत्रों में, आपको कानूनी रूप से यह बताना आवश्यक है कि आप इस गोपनीयता नीति में उपयोगकर्ता डेटा को कैसे संभालते हैं।"
+
+msgid "manager.plugins.upload"
+msgstr "नया प्लगइन अपलोड करें"
+
+msgid "common.enabled"
+msgstr "सक्रिय"
+
+msgid "plugins.categories.metadata"		
+msgstr "मेटाडेटा प्लगइन्स"
+
+msgid "plugins.metadata.dc11.displayName"
+msgstr "डबलिन कोर 1.1 मेटा-डेटा"
+	
+msgid "plugins.metadata.dc11.description"
+msgstr "डबलिन कोर संस्करण 1.1 स्कीमा और एप्लिकेशन एडेप्टर का योगदान देता है।"
+
+msgid "common.status"
+msgstr "स्थिति"
+
+msgid "editor.review.reviewDetails"
+msgstr "समीक्षा विवरण"
+ 
+msgid "editor.review.emailReviewer" 
+msgstr "ईमेल समीक्षक"
+
+msgid "editor.review.unassignReviewer"
+msgstr "समीक्षक असाइन करें"
+
+msgid "submission.history"
+msgstr "वृत्तांत"
+
+msgid "grid.action.logInAs" 
+msgstr "लॉगिन करें"
+
+msgid "user.gossip"
+msgstr "संपादकीय नोट्स"
+
+msgid "editor.review.readConfirmation"
+msgstr "एक बार इस समीक्षा को पढ़ लेने के बाद, यह इंगित करने के लिए "पुष्टि करें" दबाएं कि समीक्षा प्रक्रिया आगे बढ़ सकती है। यदि समीक्षक ने अपनी समीक्षा कहीं और सबमिट की है, तो आप नीचे दी गई फ़ाइल अपलोड कर सकते हैं और फिर आगे बढ़ने के लिए "पुष्टि करें" दबाएं।"
+
+#msgid "common.notified.date"
+#msgstr "अधिसूचित:"
+
+msgid "reviewer.submission.reviewerFiles"
+msgstr "समीक्षक फ़ाइलें"
+
+msgid "editor.submissionReview.uploadAttachment"
+msgstr "दस्तावेज अपलोड करें"
+
+msgid "common.chooseOne"
+msgstr "एक का चयन करे"
+
+msgid "editor.review.rateReviewer"
+msgstr "समीक्षक रेटिंग"
+
+msgid "editor.review.rateReviewer.description"
+msgstr "प्रदान की गई समीक्षा की गुणवत्ता का मूल्यांकन करें। यह रेटिंग समीक्षक के साथ साझा नहीं की गई है"
+
+msgid "editor.review.reviewerRating.none"
+msgstr "कोई टेटिंग नहीं"
+
+msgid "common.confirm"
+msgstr "पुष्टि करें"
+
+msgid "email.to"
+msgstr "प्रति"
+
+msgid "email.subject"
+msgstr "विषय"
+
+msgid "email.body"
+msgstr "ईमेल बॉडी"
+
+msgid "editor.submissionReview.editReview"
+msgstr "समीक्षा संपादित करें"
+
+msgid "common.assigned"
+msgstr "सौंपा गया"
+
+msgid "common.notified"
+msgstr "अधिसूचित"
+
+msgid "grid.user.confirmLogInAs"
+msgstr "इस उपयोगकर्ता के रूप में लॉग इन करें? आपके द्वारा की जाने वाली सभी क्रियाओं का श्रेय इस उपयोगकर्ता को दिया जाएगा।"
+
+msgid "user.gossip.description"
+msgstr "इस समीक्षक के बारे में नोट्स रिकॉर्ड करें जिन्हें आप अन्य व्यवस्थापकों, प्रबंधकों और सभी संपादकों को दिखाना चाहते हैं। नोट्स भविष्य की समीक्षा असाइनमेंट के लिए दृश्यमान होंगे।"
+
+msgid "navigation.backTo"
+msgstr "<-- सबमिशन पर वापस जाएं"
+
+msgid "reviewer.reviewSteps.request"
+msgstr "प्रार्थना"
+ 
+msgid "reviewer.reviewSteps.guidelines"
+msgstr "दिशा-निर्देश"
+ 
+msgid "reviewer.reviewSteps.download"
+msgstr "डाउनलोड करें और समीक्षा करें"
+ 
+msgid "reviewer.reviewSteps.completion"
+msgstr "समापन"
+
+msgid "reviewer.step1.request"
+msgstr "समीक्षा के लिए अनुरोध"
+
+msgid "reviewer.step1.requestBoilerplate"
+msgstr "आपको निम्नलिखित सबमिशन के संभावित समीक्षक के रूप में चुना गया है। नीचे सबमिशन का एक सिंहावलोकन है, साथ ही इस समीक्षा के लिए समयरेखा भी है। हम आशा करते हैं कि आप भाग लेने में सक्षम हैं।"
+
+msgid "reviewer.step1.viewAllDetails"
+msgstr "सभी सबमिशन विवरण देखें"
+
+msgid "reviewer.step1.viewAllDetails"
+msgstr "सभी सबमिशन विवरण देखें"
+
+msgid "reviewer.submission.reviewSchedule"
+msgstr "समीक्षा अनुसूची"
+
+msgid "reviewer.submission.reviewRequestDate"
+msgstr "संपादक का अनुरोध"
+
+msgid "reviewer.submission.responseDueDate"
+msgstr "प्रतिक्रिया देय तिथि"
+
+msgid "reviewer.submission.reviewDueDate"
+msgstr "समीक्षा देय तिथि"
+
+msgid "reviewer.aboutDueDates"
+msgstr "देय तिथियों के बारे में"
+
+msgid "reviewer.aboutDueDates.text"
+msgstr "संपादक पूछता है कि आप प्रतिक्रिया की देय तिथि से पहले समीक्षा को स्वीकार या अस्वीकार करते हैं और समीक्षा देय तिथि तक समीक्षा पूरी करते हैं।"
+
+msgid "user.register.form.privacyConsent"
+msgstr "हां, मैं सहमत हूं कि मेरा डेटा के अनुसार एकत्र और संग्रहीत किया जाएगा <a href=\"{$privacyUrl}\" target=\"_blank\">गोपनीय कथन।</a>"
+
+msgid "reviewer.submission.acceptReview"
+msgstr "समीक्षा स्वीकार करें, चरण # 2 पर जारी रखें"
+
+msgid "reviewer.submission.declineReview"
+msgstr "समीक्षा अनुरोध अस्वीकार करें"
+
+msgid "reviewer.submission.reviewerGuidelines"
+msgstr "समीक्षक दिशानिर्देश"
+
+msgid "reviewer.submission.noGuidelines"
+msgstr "इस प्रकाशक ने कोई समीक्षक दिशानिर्देश निर्धारित नहीं किए हैं।"
+
+msgid "reviewer.submission.continueToStepThree"
+msgstr "चरण #3 पर जारी रखें"
+ 
+msgid "navigation.goBack"
+msgstr "वापस जाओ"
+
+msgid "submission.review"
+msgstr "समीक्षा"
+
+msgid "reviewer.submission.reviewDescription"
+msgstr "नीचे दिए गए फॉर्म में इस सबमिशन की अपनी समीक्षा दर्ज करें (या पेस्ट करें)।"
+
+msgid "common.upload"
+msgstr "अपलोड"
+
+msgid "reviewer.submission.uploadDescription"
+msgstr "मूल समीक्षा फ़ाइल (फ़ाइलों) के संशोधित संस्करणों सहित, वे फ़ाइलें अपलोड करें जिन्हें आप संपादक और/या लेखक से परामर्श लेना चाहते हैं।"
+
+msgid "reviewer.submission.submitReview"
+msgstr "समीक्षा जमा करें"
+
+msgid "reviewer.submission.saveReviewForLater"
+msgstr "भविष्य के लिए बचाये"
+
+msgid "form.confirmSubmit.title"
+msgstr "पुष्टि करें"
+
+msgid "reviewer.confirmSubmit"
+msgstr "क्या आप वाकई यह समीक्षा सबमिट करना चाहते हैं?"
+
+msgid "common.saveAndContinue"
+msgstr "सहेजें और जारी रखें"
+
+msgid "reviewer.complete"
+msgstr "समीक्षा सबमिट की गई"
+
+msgid "reviewer.complete.whatNext"
+msgstr "इस सबमिशन की समीक्षा पूरी करने के लिए धन्यवाद। आपकी समीक्षा सफलतापूर्वक सबमिट कर दी गई है. हम प्रकाशित कार्य की गुणवत्ता में आपके योगदान की सराहना करते हैं; जरूरत पड़ने पर अधिक जानकारी के लिए संपादक आपसे फिर से संपर्क कर सकता है।"
+
+msgid "submission.stageNotInitiated"
+msgstr "चरण शुरू नहीं हुआ।"
+
+msgid "grid.libraryFiles.submission.title"
+msgstr "सबमिशन पुस्तकालय"
+
+msgid "grid.action.addFile"
+msgstr "फ़ाइल जोड़ें"
+ 
+msgid "grid.action.viewLibrary"
+msgstr "दस्तावेज़ पुस्तकालय देखें"
+
+msgid "common.file"
+msgstr "फ़ाइल"
+
+msgid "submission.submit.submissionLocale"
+msgstr "सबमिशन भाषा"
+
+msgid "submission.submit.submissionLocaleDescription"
+msgstr "कई भाषाओं में प्रस्तुतियाँ स्वीकार की जाती हैं। ऊपर दिए गए पुलडाउन से सबमिशन की प्राथमिक भाषा चुनें।"
+
+msgid "submission.files"
+msgstr "फ़ाइलें"
+
+msgid "common.addFile"
+msgstr "फ़ाइल जोड़ें"
+
+msgid "submission.upload.instructions"
+msgstr "कोई भी फाइल अपलोड करें जिसे संपादकीय टीम को आपके सबमिशन का मूल्यांकन करने की आवश्यकता होगी।"
+
+msgid "about.other"
+msgstr "अन्य"
+
+msgid "common.remove"
+msgstr "हटाए"
+
+msgid "submission.submit.genre.label"
+msgstr "यह किस तरह की फाइल है?"
+
+msgid "submission.submit.metadataForm"
+msgstr "अतिरिक्त शोधन"
+
+msgid "submission.submit.metadataForm.tip"
+msgstr "अपने सबमिशन के लिए अतिरिक्त जानकारी जोड़ें। प्रत्येक टर्म के बाद 'एंटर' दबाएं।"
+
+msgid "submission.confirm.message"
+msgstr "आपका सबमिशन अपलोड कर दिया गया है और भेजने के लिए तैयार है। जारी रखने से पहले आप अपने द्वारा दर्ज की गई किसी भी जानकारी की समीक्षा करने और उसे समायोजित करने के लिए वापस जा सकते हैं। जब आप तैयार हों, तो "सबमिशन समाप्त करें" पर क्लिक करें।"
+
+msgid "form.errorsOccurred"
+msgstr "इस फ़ॉर्म को संसाधित करने में त्रुटियाँ हुईं"
+
+msgid "submission.submit.genre.error"
+msgstr "कृपया प्रत्येक अपलोड के लिए फ़ाइल का प्रकार चुनें।"
+
+msgid "submission.submit.finishSubmission"
+msgstr "सबमिशन समाप्त करें"
+
+msgid "submission.submit.submissionComplete"
+msgstr "सबमिशन पूर्ण"
+
+msgid "submission.submit.submissionCompleteThanks"
+msgstr "{$contextName} के साथ प्रकाशन में आपकी रुचि के लिए धन्यवाद।"
+
+msgid "submission.submit.whatNext"
+msgstr "आगे क्या होता है?"
+
+msgid "submission.submit.whatNext.forNow"
+msgstr "अभी के लिए, आप कर सकते हैं:"
+
+msgid "submission.submit.whatNext.review"
+msgstr "इस सबमिशन की समीक्षा करें"
+
+msgid "submission.submit.whatNext.create"
+msgstr "एक नया सबमिशन बनाएं"
+
+msgid "submission.submit.whatNext.return"
+msgstr "अपने डैशबोर्ड पर लौटें"
+
+msgid "manager.people.signedInAs"
+msgstr "आप अभी {$username} रूप में लॉगिन हैं"
+
+msgid "user.logOutAs"
+msgstr "{$username} लॉगआउट करें"
+
+msgid "editor.review"
+msgstr "समीक्षा:"
+
+msgid "editor.review.reviewerComments"
+msgstr "समीक्षक टिप्पणियाँ"
+
+msgid "editor.review.cancelReviewer"
+msgstr "समीक्षक रद्द करें"
+
+msgid "form.dataHasChanged"
+msgstr "इस फॉर्म का डेटा बदल गया है। क्या आप बिना बचत किए जारी रखना चाहते हैं?"
+
+msgid "publication.status.scheduled"
+msgstr "अनुसूचित"
+ 
+msgid "publication.unschedule"
+msgstr "गैर अनुसूचित"
+
+msgid "publication.unschedule.confirm"
+msgstr "क्या आप वाकई इसे प्रकाशन के लिए शेड्यूल नहीं करना चाहते हैं?"
+
+msgid "submission.viewingPreview"
+msgstr "यह एक पूर्वावलोकन है और इसे प्रकाशित नहीं किया गया है। <a href=\"{$url}\">सबमिशन देखें</a>"
+
+msgid "manager.workflow.title"
+msgstr "कार्यप्रवाह समायोजन"
+
+msgid "manager.publication.submissionStage"
+msgstr "सबमिशन"
+
+msgid "manager.publication.reviewStage"
+msgstr "समीक्षा"
+
+msgid "manager.publication.emails"
+msgstr "ईमेल"
+
+msgid "manager.emails.emailTemplates"
+msgstr "ईमेल टेम्पलेट"
+
+msgid "submission.status.scheduled"
+msgstr "अनुसूचित"
+
+msgid "submission.status.declined"
+msgstr "अस्वीकार"
+
+msgid "common.delete"
+msgstr "हटाए"
+
+msgid "editor.review.reviewSubmitted"
+msgstr "समीक्षा सबमिट की गई"
+
+msgid "submission.recommendation"
+msgstr "अनुशंसा: {$recommendation}"
+
+msgid "editor.review.readReview"
+msgstr "समीक्षा पढ़ें"
+
+msgid "manager.setup.disableSubmissions"
+msgstr "अक्षम सबमिशन"
+
+msgid "manager.setup.checklist"
+msgstr "जांच सूची"
+
+msgid "manager.setup.authorGuidelines"
+msgstr "लेखक दिशानिर्देश"
+
+msgid "manager.setup.disableSubmissions.description"
+msgstr "उपयोगकर्ताओं को जर्नल में नए लेख सबमिट करने से रोकें। सबमिशन को जर्नल सेक्शन सेटिंग्स पेज पर अलग-अलग <a href="{$url}">जर्नल सेक्शन</a> के लिए डिसेबल किया जा सकता है।"
+
+msgid "manager.setup.metadata.coverage.description"
+msgstr "कवरेज आम तौर पर एक कार्य के स्थानिक स्थान (एक स्थान का नाम या भौगोलिक निर्देशांक), अस्थायी अवधि (एक अवधि लेबल, तिथि, या तिथि सीमा) या अधिकार क्षेत्र (जैसे एक नामित प्रशासनिक इकाई) को इंगित करेगा।"
+
+msgid "manager.setup.metadata.coverage.enable"
+msgstr "कवरेज मेटाडेटा सक्षम करें"
+
+msgid "manager.setup.metadata.coverage.noRequest"
+msgstr "सबमिशन के दौरान लेखक से कवरेज मेटाडेटा का अनुरोध न करें।"
+
+msgid "manager.setup.metadata.coverage.request"
+msgstr "प्रस्तुत करने के दौरान लेखक से कवरेज मेटाडेटा सुझाने के लिए कहें।"
+
+msgid "manager.setup.metadata.coverage.require"
+msgstr "लेखक को उनके सबमिशन को स्वीकार करने से पहले कवरेज मेटाडेटा का सुझाव देने की आवश्यकता है।"
+
+msgid "manager.setup.metadata.languages.description"
+msgstr "भाषा वैकल्पिक देश कोड ("en_US") के साथ भाषा कोड ("en") का उपयोग करके कार्य की प्राथमिक भाषा को इंगित करती है।"
+
+msgid "manager.setup.metadata.languages.enable"
+msgstr "भाषा मेटाडेटा सक्षम करें"
+
+msgid "manager.setup.metadata.languages.noRequest"
+msgstr "सबमिशन के दौरान लेखक से सबमिशन की भाषाओं का अनुरोध न करें।"
+
+msgid "manager.setup.metadata.languages.request"
+msgstr "सबमिशन के दौरान लेखक से सबमिशन की भाषाओं को इंगित करने के लिए कहें।"
+
+msgid "manager.setup.metadata.languages.require"
+msgstr "लेखक को सबमिशन स्वीकार करने से पहले सबमिशन की भाषाओं में प्रवेश करने की आवश्यकता होती है।"
+
+msgid "manager.setup.metadata.rights.description"
+msgstr "सबमिशन पर धारित कोई भी अधिकार, जिसमें बौद्धिक संपदा अधिकार (IPR), कॉपीराइट और विभिन्न संपत्ति अधिकार शामिल हो सकते हैं।"
+
+msgid "manager.setup.metadata.rights.enable"
+msgstr "अधिकार मेटाडेटा सक्षम करें"
+
+msgid "manager.setup.metadata.rights.noRequest"
+msgstr "प्रस्तुत करने के दौरान लेखक से अधिकारों के प्रकटीकरण का अनुरोध न करें।"
+
+msgid "manager.setup.metadata.rights.request"
+msgstr "प्रस्तुत करने के दौरान लेखक से किसी भी पूर्व पहुँच अधिकार का खुलासा करने के लिए कहें।"
+
+msgid "manager.setup.metadata.rights.require"
+msgstr "लेखक को उनके सबमिशन को स्वीकार करने से पहले किसी भी पूर्व एक्सेस अधिकार का खुलासा करने की आवश्यकता है।"
+
+msgid "submission.source"
+msgstr "स्रोत"
+
+msgid "manager.setup.metadata.source.description"
+msgstr "स्रोत एक आईडी हो सकता है, जैसे डीओआई, किसी अन्य कार्य या संसाधन का, जिससे सबमिशन प्राप्त होता है।"
+
+msgid "manager.setup.metadata.source.enable"
+msgstr "स्रोत मेटाडेटा सक्षम करें"
+
+msgid "manager.setup.metadata.source.noRequest"
+msgstr "सबमिशन के दौरान लेखक से स्रोत URL का अनुरोध न करें।"
+
+msgid "manager.setup.metadata.source.request"
+msgstr "प्रस्तुत करने के दौरान लेखक से स्रोत URL प्रदान करने के लिए कहें।"
+
+msgid "manager.setup.metadata.source.require"
+msgstr "लेखक को उनके सबमिशन को स्वीकार करने से पहले एक स्रोत URL प्रदान करने की आवश्यकता है।"
+
+msgid "user.privacyLink"
+msgstr "आपका डेटा हमारे के अनुसार संग्रहीत किया जाता है  <a href=\"{$privacyUrl}\" target=\"_blank\">गोपनीय कथन।</a>"
+
+msgid "editor.submission.noReviewerFilesSelected"
+msgstr "कोई फ़ाइल चयनित नहीं"
+
+msgid "editor.submission.noReviewerFilesSelected.details"
+msgstr "आपने समीक्षक के लिए समीक्षा के लिए किसी भी फाइल का चयन नहीं किया है।"
+
+msgid "common.tasks"
+msgstr "कार्य"
+	
+msgid "notification.type.reviewAssignment"
+msgstr "समीक्षा लंबित"
+
+msgid "grid.action.markNew"
+msgstr "नया चिह्नित करें"
+
+msgid "grid.action.markRead"
+msgstr "पढ़ा चिह्नित करें"
+
+msgid "reviewer.submission.declineReviewMessage"
+msgstr "आप संपादक को किसी भी कारण से बता सकते हैं कि आप नीचे के क्षेत्र में इस समीक्षा को अस्वीकार क्यों कर रहे हैं।"
+
+msgid "editor.submission.roundStatus.reviewsCompleted"
+msgstr "सभी समीक्षकों ने प्रतिक्रिया दी है और निर्णय की आवश्यकता है।"
+
+msgid "editor.review.requestDeclined"
+msgstr "अनुरोध अस्वीकृत"
+
+msgid "reviewer.list.currentlyAssigned"
+msgstr "इस सबमिशन की समीक्षा करने के लिए इस समीक्षक को पहले ही असाइन किया जा चुका है।"
+
+msgid "reviewer.list.daysSinceLastAssignment"
+msgstr "{$days} दिन पहले"
+
+msgid "grid.action.remove"
+msgstr "हटाए"
+
+msgid "submission.stageParticipants.notify:
+msgstr "सूचित"
+
+msgid "editor.review.requestAccepted"
+msgstr "अनुरोध स्वीकार"
+
+msgid "editor.review.reviewDue"
+msgstr "समीक्षा देय: {$date}"
+
+msgid "user.profile.form.givenNameRequired"
+msgstr "नाम आवश्यक"
+
+msgid "editor.review.requestCancelled"
+msgstr "अनुरोध रद्द"
+
+msgid "editor.review.reinstateReviewer"
+msgstr "समीक्षा बहाल करें"
+
+msgid "reviewer.list.neverAssigned"
+msgstr "सौपा नही"
+
+msgid "manager.setup.metadata.subjects.description"
+msgstr "विषय कीवर्ड, प्रमुख वाक्यांश या वर्गीकरण कोड होंगे जो प्रस्तुत करने के विषय का वर्णन करते हैं।"
+
+msgid "manager.setup.metadata.subjects.enable"
+msgstr "विषय मेटाडेटा सक्षम करें"
+
+msgid "manager.setup.metadata.subjects.noRequest"
+msgstr "प्रस्तुत करने के दौरान लेखक से विषयों का अनुरोध न करें।"
+
+msgid "manager.setup.metadata.subjects.request"
+msgstr "प्रस्तुत करने के दौरान लेखक को विषय प्रदान करने के लिए कहें।"
+
+msgid "manager.setup.metadata.subjects.require"
+msgstr "लेखक को उनके सबमिशन स्वीकार करने से पहले विषय प्रदान करने की आवश्यकता होती है।"
+
+msgid "manager.setup.metadata.type.description"
+msgstr "प्रस्तुत करने की मुख्य सामग्री की प्रकृति या शैली। प्रकार आमतौर पर "टेक्स्ट" होता है, लेकिन यह "डेटासेट", "इमेज" या इनमें से कोई भी हो सकता है <a href="https://www.dublincore.org/documents/dcmi-type-vocabulary/#section-7-dcmi-type-vocabulary" target=\"_blank\">Dublin Core types.</a>"
+
+msgid "manager.setup.metadata.type.enable"
+msgstr "प्रकार मेटाडेटा सक्षम करें"
+
+msgid "manager.setup.metadata.type.noRequest"
+msgstr "प्रस्तुत करने के दौरान लेखक से प्रकार का अनुरोध न करें।"
+
+msgid "manager.setup.metadata.type.request"
+msgstr "प्रस्तुत करने के दौरान लेखक से प्रकार प्रदान करने के लिए कहें।"
+
+msgid "manager.setup.metadata.type.require"
+msgstr "लेखक को अपना सबमिशन स्वीकार करने से पहले प्रकार प्रदान करने की आवश्यकता है।"
+
+msgid "manager.setup.metadata.disciplines.description"
+msgstr "अनुशासन अध्ययन के प्रकार या ज्ञान की शाखाएँ हैं जैसा कि विश्वविद्यालय के संकायों और विद्वान समाजों द्वारा वर्णित किया गया है।"
+
+msgid "manager.setup.metadata.disciplines.enable"
+msgstr "अनुशासन मेटाडेटा सक्षम करें"
+
+msgid "manager.setup.metadata.disciplines.noRequest"
+msgstr "प्रस्तुत करने के दौरान लेखक से अनुशासन प्रदान करने के लिए कहें।"
+
+msgid "manager.setup.metadata.disciplines.request"
+msgstr "प्रस्तुत करने के दौरान लेखक से अनुशासन प्रदान करने के लिए कहें।"
+
+msgid "manager.setup.metadata.disciplines.require"
+msgstr "लेखक को उनके सबमिशन को स्वीकार करने से पहले अनुशासन प्रदान करने की आवश्यकता होती है।"
+
+msgid "manager.setup.metadata.keywords.description"
+msgstr "कीवर्ड आमतौर पर एक से तीन शब्दों वाले वाक्यांश होते हैं जिनका उपयोग सबमिशन के मुख्य विषयों को इंगित करने के लिए किया जाता है।"
+
+msgid "manager.setup.metadata.keywords.enable"
+msgstr "कीवर्ड मेटाडेटा सक्षम करें"
+
+msgid "manager.setup.metadata.keywords.noRequest"
+msgstr "प्रस्तुत करने के दौरान लेखक से खोजशब्दों का अनुरोध न करें।"
+
+msgid "manager.setup.metadata.keywords.request"
+msgstr "प्रस्तुत करने के दौरान लेखक से कीवर्ड सुझाने के लिए कहें।"
+
+msgid "manager.setup.metadata.keywords.require"
+msgstr "लेखक को उनके सबमिशन को स्वीकार करने से पहले कीवर्ड का सुझाव देना चाहिए।"
+
+msgid "manager.setup.metadata.agencies.description"
+msgstr "सहायक एजेंसियां ​​​​अनुसंधान निधि के स्रोत या अनुसंधान को सुविधाजनक बनाने वाले अन्य संस्थागत समर्थन का संकेत दे सकती हैं।"
+
+msgid "manager.setup.metadata.agencies.enable"
+msgstr "सहायक एजेंसियों का मेटाडेटा सक्षम करें"
+
+msgid "manager.setup.metadata.agencies.noRequest"
+msgstr "प्रस्तुत करने के दौरान लेखक से सहायक एजेंसियों का अनुरोध न करें।"
+
+msgid "manager.setup.metadata.agencies.request"
+msgstr "प्रस्तुत करने के दौरान लेखक से किसी भी सहायक एजेंसियों का खुलासा करने के लिए कहें।"
+
+msgid "manager.setup.metadata.agencies.require"
+msgstr "लेखक को किसी भी सहायक एजेंसियों को उनके सबमिशन स्वीकार करने से पहले खुलासा करने की आवश्यकता है।"
+
+msgid "manager.setup.metadata.citations.description"
+msgstr "एक अलग क्षेत्र में सबमिशन के संदर्भ एकत्र करें। क्रॉसरेफ़ जैसी उद्धरण-ट्रैकिंग सेवाओं का अनुपालन करने के लिए इसकी आवश्यकता हो सकती है।"
+
+msgid "manager.setup.metadata.citations.enable"
+msgstr "संदर्भ मेटाडेटा सक्षम करें"
+
+msgid "manager.setup.metadata.citations.noRequest"
+msgstr "प्रस्तुत करने के दौरान लेखक से संदर्भों का अनुरोध न करें।"
+
+msgid "manager.setup.metadata.citations.request"
+msgstr "प्रस्तुत करने के दौरान लेखक से संदर्भ प्रदान करने के लिए कहें।"
+
+msgid "manager.setup.metadata.citations.require"
+msgstr "लेखक को उनके सबमिशन को स्वीकार करने से पहले संदर्भ प्रदान करने की आवश्यकता है।"
+
+msgid "submission.publisherId.description"
+msgstr "प्रकाशक आईडी का उपयोग बाहरी डेटाबेस से आईडी रिकॉर्ड करने के लिए किया जा सकता है। उदाहरण के लिए, पबमेड को जमा करने के लिए निर्यात की गई वस्तुओं में प्रकाशक आईडी शामिल हो सकती है। इसका उपयोग डीओआई के लिए नहीं किया जाना चाहिए।"
+
+msgid "submission.publisherId.enable"
+msgstr "प्रकाशनों के लिए सक्षम करें"
+
+msgid "submission.publisherId.enable"
+msgstr "Galleys के लिए सक्षम करें"
+
+msgid "submission.publisherId.enable"
+msgstr "मुद्दों के लिए सक्षम करें"
+
+msgid "submission.publisherId.enable"
+msgstr "गैलीज़ जारी करने के लिए सक्षम करें"
+
+msgid "grid.action.addGenre"
+msgstr "घटक जोड़ें"
+
+msgid "grid.action.restoreDefaults"
+msgstr "पुनःस्थापन"
+
+msgid "manager.setup.genres.label"
+msgstr "फाइल का प्रकार"
+
+msgid "manager.setup.genres.dependent"
+msgstr "ये आश्रित फ़ाइलें हैं, जैसे HTML फ़ाइल द्वारा प्रदर्शित छवियां, और प्रकाशित सामग्री के साथ प्रदर्शित नहीं की जाएंगी"
+
+msgid "manager.setup.genres.supplementary"
+msgstr "ये पूरक फ़ाइलें हैं, जैसे डेटा सेट और शोध सामग्री, और मुख्य प्रकाशन फ़ाइलों से अलग प्रदर्शित की जाएंगी।"
+
+msgid "manager.setup.genres.metatadata"
+msgstr "फ़ाइल मेटाडेटा"
+
+msgid "manager.setup.genres.metatadata.description"
+msgstr "इन फ़ाइलों को प्राप्त होने वाले मेटाडेटा के प्रकार का चयन करें। दस्तावेज़ को मुख्य प्रकाशन फ़ाइलों के लिए चुना जाना चाहिए, जैसे कि डाउनलोड करने योग्य PDF, ताकि ये फ़ाइलें प्रकाशन से अपना मेटाडेटा प्राप्त कर सकें। अन्यथा, अधिकांश फ़ाइल प्रकारों के लिए अनुपूरक सामग्री चुनें। कलाकृति उन फ़ाइलों के लिए उपयुक्त है जिनके लिए अलग क्रेडिट, कैप्शन और लाइसेंसिंग मेटाडेटा की आवश्यकता होती है।"
+
+msgid "submission.document"
+msgstr "दस्तावेज़"
+
+msgid "manager.setup.genres.key"
+msgstr "कुंजी"
+
+msgid "manager.setup.genres.key.description"
+msgstr "इस शैली के लिए एक वैकल्पिक लघु प्रतीकात्मक पहचानकर्ता।"
+
+msgid "submission.supplementary"
+msgstr "पूरक सामग्री"
+
+msgid "submission.art"
+msgstr "कलाकृति"
+
+msgid "grid.action.restoreDefaults.confirm"
+msgstr "क्या आप वाकई डिफ़ॉल्ट को पुनर्स्थापित करना चाहते हैं?"
+
+msgid "grid.action.addItem"
+msgstr "सामान जोडें"
+
+msgid "grid.submissionChecklist.column.checklistItem"
+msgstr "चेकलिस्ट आइटम"
+
+msgid "manager.setup.authorGuidelines.description"
+msgstr "अनुशंसित दिशानिर्देशों में सबमिशन में उपयोग किए जाने वाले सामान्य उद्धरण प्रारूपों के उदाहरणों के साथ-साथ ग्रंथ सूची और स्वरूपण मानक शामिल हैं।"
+
+msgid "manager.setup.copyrightNotice"
+msgstr "सर्वाधिकार सूचना"
+
+msgid "manager.setup.copyrightNotice.description"
+msgstr "प्रस्तुत करने की प्रक्रिया के भाग के रूप में लेखकों को निम्नलिखित कॉपीराइट नोटिस से सहमत होने की आवश्यकता है।"
+
+msgid "manager.setup.reviewOptions.reviewMode"
+msgstr "डिफ़ॉल्ट समीक्षा मोड"
+
+msgid "manager.setup.reviewOptions.defaultReviewResponseTime"
+msgstr "डिफ़ॉल्ट प्रतिक्रिया समय सीमा"
+
+msgid "manager.setup.reviewOptions.numWeeksPerResponse"
+msgstr "समीक्षा अनुरोध को स्वीकार या अस्वीकार करने के लिए सप्ताहों की संख्या।"
+
+msgid "manager.setup.reviewOptions.defaultReviewCompletionTime"
+msgstr "डिफ़ॉल्ट समापन समय सीमा"
+
+msgid "manager.publication.reviewerGuidance"
+msgstr "समीक्षक मार्गदर्शन"
+
+msgid "manager.reviewForms"
+msgstr "समीक्षा प्रपत्र"
+
+msgid "manager.setup.competingInterests"
+msgstr "प्रतिस्पर्धी रुचियां"
+
+msgid "manager.setup.reviewOptions.showAnonymousReviewLink"
+msgstr "अपलोड के दौरान सभी फाइलों को गुमनाम कैसे किया जाए, यह सुनिश्चित करने के लिए एक लिंक प्रस्तुत करें"
+
+msgid "manager.reviewForms.create"
+msgstr "समीक्षा प्रपत्र बनाएं"
+
+msgid "manager.reviewForms.title"
+msgstr "शीर्षक"
+	
+msgid "manager.reviewForms.inReview"
+msgstr "समीक्षा में"
+	
+msgid "manager.reviewForms.completed"
+msgstr "पूरा हुआ"
+	
+msgid "common.active"
+msgstr "सक्रिय"
+
+msgid "manager.reviewForms.description"
+msgstr "विवरण और निर्देश"
+
+msgid "grid.action.copy"
+msgstr "प्रतिलिपि"
+
+msgid "grid.action.preview"
+msgstr "पूर्व दर्शन"
+
+msgid "manager.reviewForms.edit"
+msgstr "समीक्षा प्रपत्र"
+ 
+msgid "manager.reviewFormElements"
+msgstr "फॉर्म आइटम"
+ 
+msgid "manager.reviewForms.preview"
+msgstr "पूर्वावलोकन प्रपत्र"
+
+
+msgid "manager.reviewFormElements.create"
+msgstr "नया आइटम बनाएं"
+
+msgid "manager.reviewFormElements.question"
+msgstr "आइटम"
+
+msgid "manager.reviewFormElements.description"
+msgstr "विवरण"
+
+msgid "manager.reviewFormElements.required"
+msgstr "आइटम को पूरा करने के लिए समीक्षकों की आवश्यकता है"
+
+msgid "manager.reviewFormElements.included"
+msgstr "लेखक को संदेश में शामिल"
+
+msgid "manager.reviewFormElements.chooseType"
+msgstr "आइटम प्रकार चुनें"
+
+msgid "manager.reviewFormElements.smalltextfield"
+msgstr "सिंगल वर्ड टेक्स्ट बॉक्स"
+
+msgid "manager.reviewFormElements.textfield"
+msgstr "सिंगल लाइन टेक्स्ट बॉक्स"
+
+msgid "manager.reviewFormElements.textarea"
+msgstr "विस्तारित टेक्स्ट बॉक्स"
+
+msgid "manager.reviewFormElements.checkboxes"
+msgstr "चेकबॉक्स (आप एक या अधिक चुन सकते हैं)"
+
+msgid "manager.reviewFormElements.radiobuttons"
+msgstr "रेडियो बटन (आप केवल एक चुन सकते हैं)"
+
+msgid "manager.reviewFormElements.dropdownbox"
+msgstr "ड्रॉप डाउन बॉक्स"
+
+msgid "manager.reviewFormElements.elementType"
+msgstr "आइटम के प्रकार"
+
+msgid "grid.reviewFormElement.responseItems"
+msgstr "प्रतिक्रिया विकल्प"
+
+msgid "manager.reviewForms.confirmCopy"
+msgstr "क्या आप वाकई इस समीक्षा फ़ॉर्म की एक प्रति बनाना चाहते हैं?"
+
+msgid "manager.emails.addEmail"
+msgstr "टेम्पलेट जोड़ें"
+
+msgid "manager.emails.resetAll"
+msgstr "सभी को रीसेट करें"
+
+msgid "manager.emails.emailKey"
+msgstr "ईमेल चाभी"
+
+msgid "manager.emails.resetAll.message"
+msgstr "यदि आप सभी टेम्प्लेट रीसेट करते हैं, तो ईमेल टेम्प्लेट के सभी संशोधन खो जाएंगे. क्या आप इस ऑपरेशन की पुष्टि करना चाहते हैं?"
+
+msgid "manager.emails.emailKey.description"
+msgstr "ईमेल कुंजी में केवल अक्षर, संख्याएं और अंडरस्कोर हो सकते हैं।"
+
+msgid "email.senderName"
+msgstr "भेजने वाले का नाम"
+
+msgid "email.senderEmail"
+msgstr "प्रेषक ईमेल"
+
+msgid "common.pagination"
+msgstr "{$start}-{$end} से {$total}"
+
+msgid "navigation.items"
+msgstr "{$total} में से {$from} - {$to} आइटम"
+
+msgid "navigation.items.shownTotal"
+msgstr "{$shown} से {$total} आइटम"
+
+msgid "common.notified.date"
+msgstr "अधिसूचित: {$dateNotified}"
+
+msgid "user.role.reviewer"
+msgstr "समीक्षक"
+
+msgid "user.role.reviewers"
+msgstr "समीक्षक"
+
+msgid "common.commaListSeparator"
+msgstr ", "
+
+msgid "common.semicolonListSeparator"
+msgstr "; "
+
+msgid "submission.status.unassigned"
+msgstr "सौंपे नहीं गए"
+
+msgid "common.moreThan"
+msgstr "{$value} या अधिक"
+
+msgid "common.moreThanOnly"
+msgstr "इससे अधिक"
+
+msgid "common.range"
+msgstr "{$min}-{$max}"
+
+msgid "common.lessThan"
+msgstr "{$value} या कम"
+
+msgid "common.lessThanOnly"
+msgstr "से कम"
+
+msgid "common.noItemsFound"
+msgstr "कुछ नहीं मिला।"
+
+msgid "common.url"
+msgstr "URL"
+
+msgid "common.publicAccess"
+msgstr "सार्वजनिक अभिगम"
+
+msgid "settings.libraryFiles.public.viewInstructions"
+msgstr "<p>इस लाइब्रेरी फ़ाइल को डाउनलोड के लिए एक्सेस किया जा सकता है, यदि "पब्लिक एक्सेस" सक्षम है, तो:"
+"<blockquote>{$downloadUrl}</blockquote></p>"
+
+msgid "user.role.editor"
+msgstr "संपादक"
+
+msgid "user.role.editors"
+msgstr "संपादक"
+
+msgid "user.role.reader"
+msgstr "पाठक"
+
+msgid "user.role.readers"
+msgstr "पाठक"
+
+msgid "user.role.assistant"
+msgstr "सहायक"
+
+msgid "common.disable"
+msgstr "अक्षम करे"
+
+msgid "common.disabled"
+msgstr "अक्षम"
+
+msgid "user.role.author"
+msgstr "लेखक"
+
+msgid "user.role.author_s"
+msgstr "लेखक"
+
+msgid "user.role.authors"
+msgstr "लेखकों"
+
+msgid "common.enable"
+msgstr "सक्षम करें"
+
+msgid "common.enabled"
+msgstr "सक्रिय"
+
+msgid "navigation.access"
+msgstr "उपयोगकर्ता और भूमिकाएँ"
+
+msgid "grid.user.currentUsers"
+msgstr "मौजूदा उपयोगकर्ता"
+
+msgid "grid.user.add"
+msgstr "उपयोगकर्ता जोड़ें"
+
+msgid "grid.user.step1"
+msgstr "चरण # 1: उपयोगकर्ता विवरण भरें"
+
+msgid "grid.user.generatePassword"
+msgstr "पासवर्ड उत्पन्न करें"
+
+msgid "grid.user.generatePasswordDescription"
+msgstr "इस उपयोगकर्ता के लिए यादृच्छिक पासवर्ड उत्पन्न करें।"
+
+msgid "grid.user.mustChangePassword"
+msgstr "पासवर्ड बदलें"
+
+msgid "grid.user.mustChangePasswordDescription"
+msgstr "उपयोगकर्ता को अगले लॉग इन पर पासवर्ड बदलना होगा।"
+
+msgid "grid.user.notifyUser"
+msgstr "उपयोगकर्ता को सूचित करें"
+
+msgid "grid.user.notifyUserDescription"
+msgstr "उपयोगकर्ता को एक स्वागत ईमेल भेजें।"
+
+msgid "grid.user.moreDetails"
+msgstr "अधिक उपयोगकर्ता विवरण"
+
+msgid "grid.user.lessDetails"
+msgstr "कम उपयोगकर्ता विवरण"
+
+msgid "user.workingLanguages"
+msgstr "कामकाजी भाषाएं"
+
+msgid "user.signature"
+msgstr "हस्ताक्षर"
+
+msgid "grid.user.allRoles"
+msgstr "सभी भूमिकाएं"
+
+msgid "grid.roles.currentRoles"
+msgstr "वर्तमान भूमिकाएं"
+
+msgid "grid.roles.add"
+msgstr "नई भूमिका बनाएं"
+
+msgid "grid.userGroup.filter.listRoles"
+msgstr "सौंपी गई भूमिकाओं की सूची बनाएं"
+
+msgid "grid.userGroup.allStages"
+msgstr "सभी वर्कफ़्लो चरण"
+
+msgid "grid.userGroup.filter.permissionLevel"
+msgstr "अनुमति स्तर के साथ"
+
+msgid "grid.user.allPermissionLevels"
+msgstr "सभी अनुमति स्तर"
+
+msgid "navigation.tools.statistics"
+msgstr "सांख्यिकी"
+
+msgid "navigation.tools"
+msgstr "उपकरण"
+
+msgid "navigation.tools.importExport"
+msgstr "आयात/निर्यात"
+
+msgid "navigation.tools.statistics"
+msgstr "सांख्यिकी"
+
+msgid "plugins.importexport.crossref.displayName"
+msgstr "CrossRef XML Export Plugin"
+
+msgid "plugins.importexport.crossref.description"
+msgstr "लेख मेटाडेटा को CrossRef XML स्वरूप में निर्यात करें."
+
+msgid "plugins.importexport.datacite.displayName"
+msgstr "DataCite Export/Registration Plugin"
+
+msgid "plugins.importexport.datacite.description"
+msgstr "DataCite फॉर्मेट में इश्यू, आर्टिकल, गैली और सप्लीमेंट्री फाइल मेटाडेटा को एक्सपोर्ट या रजिस्टर करें।"
+
+msgid "plugins.importexport.doaj.displayName"
+msgstr "DOAJ Export Plugin"
+
+msgid "plugins.importexport.doaj.description"
+msgstr "DOAJ के लिए निर्यात जर्नल।"
+
+msgid "plugins.importexport.native.displayName"
+msgstr "Native XML Plugin"
+
+msgid "plugins.importexport.native.description"
+msgstr "आयात और निर्यात लेख और मुद्दे OJS के मूल XML प्रारूप में।"
+
+msgid "plugins.importexport.pubmed.displayName"
+msgstr "PubMed XML Export Plugin"
+
+msgid "plugins.importexport.pubmed.description"
+msgstr "MEDLINE में अनुक्रमण के लिए PubMed XML स्वरूप में लेख मेटाडेटा निर्यात करें।"
+
+msgid "plugins.importexport.quickSubmit.displayName"
+msgstr "QuickSubmit Plugin"
+
+msgid "plugins.importexport.quickSubmit.description"
+msgstr "वन-स्टेप सबमिशन प्लगइन"
+
+msgid "plugins.importexport.users.displayName"
+msgstr "Users XML Plugin"
+
+msgid "plugins.importexport.users.description"
+msgstr "Import and export उपयोगकर्ता"
+
+msgid "context.path"
+msgstr "पथ"
+
+msgid "grid.action.wizard"
+msgstr "सेटिंग्स विज़ार्ड"
+
+msgid "admin.settings.restrictBulkEmails"
+msgstr "बल्क ईमेल प्रतिबंधित करें"
+
+msgid "grid.user.email"
+msgstr "ईमेल"
+
+msgid "grid.user.edit"
+msgstr "संपादित"
+
+msgid "grid.user.disable"
+msgstr "बंद करना"
+
+msgid "admin.siteManagement"
+msgstr "साइट प्रबंधन"
+
+msgid "admin.siteSettings"
+msgstr "साइट सेटिंग्स"
+
+msgid "admin.adminFunctions"
+msgstr "प्रशासनिक कार्य"
+
+msgid "admin.systemInformation"
+msgstr "व्यवस्था जानकारी"
+
+msgid "admin.expireSessions"
+msgstr "उपयोगकर्ता सत्र समाप्त करें"
+
+msgid "admin.clearDataCache"
+msgstr "डेटा कैश साफ़ करें"
+
+msgid "admin.clearTemplateCache"
+msgstr "टेम्पलेट कैश साफ़ करें"
+
+msgid "admin.scheduledTask.clearLogs"
+msgstr "अनुसूचित कार्य निष्पादन लॉग साफ़ करें"
+
+msgid "admin.siteSetup"
+msgstr "साइट सेटअप"
+
+msgid "admin.setting"
+msgstr "समायोजन"
+
+msgid "admin.settings.enableBulkEmails.label"
+msgstr "थोक ईमेल"
+
+msgid "plugins.categories.auth"
+msgstr "प्राधिकरण प्लगइन्स"
+
+msgid "plugins.categories.blocks"
+msgstr "ब्लॉक प्लगइन्स"
+
+msgid "plugins.categories.gateways"
+msgstr "गेटवे प्लगइन्स"
+
+msgid "admin.siteAdmin"
+msgstr "साइट प्रशासन"
+
+msgid "common.download"
+msgstr "Download"
+
+msgid "common.downloadPdf"
+msgstr "Download PDF"
+
+msgid "publication.status.published"
+msgstr "प्रकाशित"
+
+msgid "publication.assignedToIssue"
+msgstr "यह <a href=\"{$issueUrl}\">{$issueName}</a> को सौंपा गया है। लेकिन इसे प्रकाशन के लिए निर्धारित नहीं किया गया है।"
+
+msgid "publication.changeIssue"
+msgstr "अंक बदलें"
+
+msgid "publication.publish"
+msgstr "प्रकाशित"
+
+msgid "common.saving"
+msgstr "सहेजा जा रहा है"
+
+msgid "notification.sendNotificationConfirmation"
+msgstr "इसके बारे में सभी पंजीकृत उपयोगकर्ताओं को एक ईमेल भेजें।"
+
+msgid "publication.event.unpublished"
+msgstr "सबमिशन अप्रकाशित"
+
+msgid "publication.event.published"
+msgstr "सबमिशन प्रकाशित हो चुका है।"
+
+msgid "publication.event.scheduled"
+msgstr "सबमिशन प्रकाशन के लिए निर्धारित किया गया था।"
+
+msgid "publication.unpublish"
+msgstr "अप्रकाशित"
+
+msgid "publication.createVersion"
+msgstr "नया संस्करण बनाएं"
+
+msgid "publication.editDisabled"
+msgstr "उनका संस्करण प्रकाशित हो चुका है और संपादित नहीं किया जा सकता है।"
+
+msgid "publication.version.confirm"
+msgstr "क्या आप वाकई एक नया संस्करण बनाना चाहते हैं?"
+
+msgid "common.yes"
+msgstr "हां"
+
+msgid "common.no"
+msgstr "नहीं"
+
+msgid "publication.unpublish.confirm"
+msgstr "क्या आप वाकई इसे प्रकाशित नहीं करना चाहते हैं?"
+
+msgid "publication.publish.confirmation.datePublishedInPast"
+msgstr "सभी प्रकाशन आवश्यकताओं को पूरा किया गया है। इसे तुरंत प्रकाशित किया जाएगा क्योंकि प्रकाशन की तारीख {$datePublished} निर्धारित की गई है। क्या आप वाकई इसे प्रकाशित करना चाहते हैं?"
+
+msgid "announcement.announcements"
+msgstr "घोषणा"
+
+msgid "announcement.announcementsHome"
+msgstr "घोषणा"
+
+msgid "manager.distribution"
+msgstr "वितरण"
+
+msgid "stats.editorialActivity"
+msgstr "संपादकीय गतिविधि"
+
+msgid "manager.users"
+msgstr "उपयोगकर्ताओं"
+
+msgid "manager.statistics.reports"
+msgstr "विवरण"
+
+msgid "publication.copyrightYearBasis.submissionDescription"
+msgstr "सर्वाधिकार वर्ष प्रकाशन तिथि के आधार पर स्वचालित रूप से सेट हो जाएगा।"
+
+msgid "manager.statistics.reports.description"
+msgstr ""
+"सिस्टम ऐसी रिपोर्ट तैयार करता है जो एक निश्चित अवधि में साइट के उपयोग और सबमिशन से जुड़े विवरणों को ट्रैक करती है। रिपोर्ट सीएसवी प्रारूप में जेनरेट की जाती हैं, जिन्हें देखने के लिए एक स्प्रेडशीट एप्लिकेशन की आवश्यकता होती है।"
+
+msgid "plugins.reports.usageStats.report.displayName"
+msgstr "PKP उपयोग सांख्यिकी विवरण"
+
+msgid "plugins.reports.articles.displayName"
+msgstr "लेख विवरण"
+
+msgid "plugins.reports.counter"
+msgstr "काउंटर विवरण"
+
+msgid "plugins.reports.reviews.displayName"
+msgstr "समीक्षा विवरण"
+
+msgid "plugins.reports.subscriptions.displayName"
+msgstr "सदस्यता विवरण"
+
+msgid "plugins.reports.views.displayName"
+msgstr "विवरण देखें"
+
+msgid "manager.statistics.reports.generateReport"
+msgstr "कस्टम रिपोर्ट बनाये"
+
+msgid "stats.userStatistics"
+msgstr "उपयोगकर्ता सांख्यिकी"
+
+msgid "submission.abstractViews"
+msgstr "सार दृश्य"
+
+msgid "stats.fileViews"
+msgstr "फ़ाइल दृश्य"
+
+msgid "stats.pdf"
+msgstr "PDF"
+
+msgid "stats.html"
+msgstr "HTML"
+
+msgid "stats.total"
+msgstr "संपूर्ण"
+
+msgid "common.other"
+msgstr "अन्य"
+
+msgid "common.completed.date"
+msgstr "संपन्न: {$dateCompleted}"
+
+msgid "common.completed"
+msgstr "संपन्न"
+
+msgid "common.pagination.next"
+msgstr "अगला पृष्ठ"
+
+msgid "common.pagination.previous"
+msgstr "पिछला पृष्ठ"
+
+msgid "common.overdue"
+msgstr "अतिदेय"
+
+msgid "grid.action.addAnnouncementType"
+msgstr "घोषणा प्रकार जोड़ें"
+
+msgid "grid.action.addAnnouncement"
+msgstr "घोषणा जोड़ें"
+
+msgid "manager.announcementTypes"
+msgstr "घोषणा के प्रकार"
+
+msgid "manager.announcementTypes.noneCreated"
+msgstr "कोई घोषणा प्रकार नहीं बनाया गया है।"
+
+msgid "manager.announcementTypes.form.typeName"
+msgstr "नाम"
+
+msgid "plugins.generic.staticPages.staticPages"
+msgstr "स्थिर पृष्ठ"
+
+msgid "form.errorOne"
+msgstr "कृपया एक त्रुटि सुधारें।"
+
+msgid "form.errors"
+msgstr "प्रपत्र सहेजा नहीं गया था क्योंकि 1 त्रुटि (त्रुटियों) का सामना करना पड़ा था। कृपया इन त्रुटियों को ठीक करें और पुनः प्रयास करें।"
+
+msgid "form.errorGoTo"
+msgstr "अगली त्रुटि पर जाएं"
+
+msgid "plugins.generic.staticPages.addStaticPage"
+msgstr "स्टेटिक पेज जोड़ें"
+
+msgid "plugins.generic.staticPages.pageTitle"
+msgstr "शीर्षक"
+
+msgid "plugins.generic.staticPages.path"
+msgstr "पथ"
+
+msgid "plugins.generic.staticPages.noneCreated"
+msgstr "कोई स्थिर पृष्ठ नहीं बनाए गए हैं।"
+
+msgid "plugins.generic.staticPages.viewInstructions"
+msgstr ""
+"<p>यह पृष्ठ यहां पहुंच योग्य होगा: <blockquote>{$pagesPath}</blockquote>..."
+"जहां %PATH% ऊपर दर्ज किया गया पथ है। <strong>टिप्पणी:</strong> किन्हीं दो पृष्ठों का पथ समान नहीं हो सकता। सिस्टम में निर्मित पथों का उपयोग करने से आप महत्वपूर्ण कार्यों तक पहुंच खो सकते हैं।</p>"
+
+msgid "plugins.generic.staticPages.content"
+msgstr "विषय"
+
+msgid "navigation.infoForReaders"
+msgstr "पाठकों के लिए"
+
+msgid "navigation.infoForReaders.long"
+msgstr "पाठकों के लिए सूचना"
+
+msgid "plugins.block.information.link"
+msgstr "जानकारी"
+
+msgid "semicolon"
+msgstr "{$label}:"
+
+msgid "notification.editedNavigationMenuItem"
+msgstr "नेविगेशन मेनू आइटम को सफलतापूर्वक अपडेट किया गया"
+
+msgid "notification.removedNavigationMenuItem"
+msgstr "नेविगेशन मेनू आइटम को सफलतापूर्वक हटा दिया गया था"
+
+msgid "notification.addedNavigationMenuItem"
+msgstr "नेविगेशन मेनू आइटम को सफलतापूर्वक जोड़ा गया"
+
+msgid "notification.addedNavigationMenu"
+msgstr "नेविगेशन मेनू सफलतापूर्वक जोड़ा गया"
+
+msgid "notification.editedNavigationMenu"
+msgstr "नेविगेशन मेनू सफलतापूर्वक अपडेट किया गया"
+
+msgid "notification.removedNavigationMenu"
+msgstr "नेविगेशन मेनू को सफलतापूर्वक हटा दिया गया था"
+
+msgid "notification.unsubscribeNotifications.success"
+msgstr "आपकी सदस्यता रद्द हो चुकी है"
+
+msgid "notification.unsubscribeNotifications.error"
+msgstr "हम आपकी सदस्यता समाप्त नहीं कर सके"
+
+msgid "notification.unsubscribeNotifications.pageMessage"
+msgstr "उन ईमेल का चयन करें जिन्हें आप अब {$email} पर {$contextName} से प्राप्त नहीं करना चाहते हैं।"
+
+msgid "notification.unsubscribeNotifications.resubscribe"
+msgstr "आप किसी भी समय अपनी <a href=\"{$profileNotificationUrl}\">उपयोगकर्ता प्रोफ़ाइल</a> से ईमेल सूचनाओं की सदस्यता ले सकते हैं।"
+
+msgid "notification.unsubscribeNotifications.successMessage"
+msgstr "ईमेल पता {$email} सफलतापूर्वक सदस्यता समाप्त कर दी गई है। हम अब आपको वे ईमेल नहीं भेजेंगे. आप किसी भी समय अपनी <a href=\"{$profileNotificationUrl}\">उपयोगकर्ता प्रोफ़ाइल</a> से ईमेल सूचनाओं की सदस्यता ले सकते हैं।"
+
+msgid "notification.unsubscribeNotifications.errorMessage"
+msgstr "एक अनपेक्षित त्रुटि हुई और हम ईमेल पते {$email} की सदस्यता समाप्त नहीं कर सके। आप अपनी <a href=\"{$profileNotificationUrl}\">उपयोगकर्ता प्रोफ़ाइल</a> में सभी ईमेल सूचनाओं की सदस्यता छोड़ सकते हैं या सहायता के लिए सीधे हमसे संपर्क कर सकते हैं।"
+
+msgid "notification.unsubscribeNotifications"
+msgstr "सदस्यता रद्द"
+
+msgid "editor.submission.roundStatus.revisionsRequested"
+msgstr "संशोधन की मांग की गई है।"
+
+msgid "stageParticipants.options"
+msgstr "असाइनमेंट विशेषाधिकार"
+
+msgid "stageParticipants.recommendOnly"
+msgstr "इस प्रतिभागी को केवल एक संपादकीय निर्णय की सिफारिश करने की अनुमति है और संपादकीय निर्णयों को रिकॉर्ड करने के लिए एक अधिकृत संपादक की आवश्यकता होगी।"
+
+msgid "stageParticipants.submissionEditMetadataOptions"
+msgstr "अनुमतियां"
+
+msgid "stageParticipants.canChangeMetadata"
+msgstr "इस व्यक्ति को प्रकाशन में परिवर्तन करने की अनुमति दें, जैसे शीर्षक, सार, मेटाडेटा और अन्य प्रकाशन विवरण। आप इस विशेषाधिकार को रद्द करना चाह सकते हैं यदि सबमिशन को अंतिम चेक प्राप्त हो गया है और प्रकाशन के लिए तैयार है।"
+
+msgid "plugins.block.makeSubmission.displayName"
+msgstr "एक सबमिशन करें" ब्लॉक"
+
+msgid "plugins.block.browse.description"
+msgstr "यह प्लगइन साइडबार "ब्राउज" टूल प्रदान करता है।"
+
+msgid "plugins.block.developedBy.description"
+msgstr "यह प्लगइन साइडबार "द्वारा विकसित" लिंक प्रदान करता है।"
+
+msgid "plugins.block.information.description"
+msgstr "यह प्लगइन साइडबार सूचना लिंक प्रदान करता है।"
+
+msgid "plugins.block.languageToggle.description"
+msgstr "यह प्लगइन साइडबार भाषा टॉगलर प्रदान करता है।"
+
+msgid "plugins.block.makeSubmission.description"
+msgstr "यह प्लगइन "मेक ए सबमिशन" लिंक के साथ एक साइडबार ब्लॉक प्रदान करता है।"
+
+msgid "plugins.block.subscription.description"
+msgstr "यह प्लगइन साइडबार सदस्यता जानकारी प्रदान करता है।"
+
+msgid "plugins.gateways.resolver.displayName"
+msgstr "रिज़ॉल्वर प्लगइन"
+
+msgid "plugins.gateways.resolver.description"
+msgstr "यह प्लगइन उद्धरण जानकारी के आधार पर मुद्दों और लेखों को हल करता है।"
+
+msgid "plugins.categories.generic"
+msgstr "सामान्य प्लगइन्स"
+
+msgid "grid.plugin.allCategories"
+msgstr "सभी वर्ग"
+
+msgid "grid.plugin.disable"
+msgstr "क्या आप वाकई इस प्लगइन को अक्षम करना चाहते हैं?"
+
+msgid "user.profile.form.profileImageInvalid"
+msgstr "अमान्य प्रोफ़ाइल छवि प्रारूप या छवि बहुत बड़ी है। स्वीकृत प्रारूप .gif, .jpg, या .png हैं, और छवि 150x150 पिक्सेल से अधिक नहीं होनी चाहिए।"
+
+msgid "user.profile.form.profileImage"
+msgstr "प्रोफ़ाइल छवि"
+
+msgid "user.profile.changePasswordInstructions"
+msgstr "अपने खाते का पासवर्ड बदलने के लिए नीचे अपना वर्तमान और नया पासवर्ड दर्ज करें।"
+
+msgid "user.profile.oldPassword"
+msgstr "वर्तमान पासवर्ड"
+
+msgid "user.profile.newPassword"
+msgstr "नया पासवर्ड"
+
+msgid "user.register.form.passwordLengthRestriction"
+msgstr "पासवर्ड कम से कम {$length} वर्ण का होना चाहिए।"
+
+msgid "user.profile.repeatNewPassword"
+msgstr "नया पासवर्ड दोहराएँ"
+
+msgid "notification.settingsDescription"
+msgstr "उन सिस्टम ईवेंट का चयन करें जिनके बारे में आप सूचित करना चाहते हैं। किसी आइटम को अनचेक करने से ईवेंट की सूचनाएं सिस्टम में दिखाई नहीं देंगी और आपको ईमेल किए जाने से भी रोका जा सकेगा। चेक किए गए ईवेंट सिस्टम में दिखाई देंगे और आपके पास ईमेल द्वारा समान सूचना प्राप्त करने या न करने का एक अतिरिक्त विकल्प है।"
+
+msgid "notification.reviewAcknowledged"
+msgstr "समीक्षा को स्वीकृत के रूप में चिह्नित किया गया। ईमेल नहीं भेजा गया।"
+
+msgid "notification.reviewerThankedEmail"
+msgstr "समीक्षक को भेजा गया धन्यवाद ईमेल।"
+
+msgid "notification.updatedReviewFiles"
+msgstr "समीक्षा फ़ाइलें अपडेट की गईं."
+
+msgid "notification.allow"
+msgstr "इस प्रकार की सूचनाओं को सक्षम करें।"
+
+msgid "notification.addedAnnouncementType"
+msgstr "घोषणा प्रकार जोड़ा गया।"
+
+msgid "notification.confirmSuccess"
+msgstr "आप सफलतापूर्वक सदस्यता ले चुके हैं।"
+
+msgid "notification.email"
+msgstr "इस प्रकार की सूचनाओं के लिए मुझे ईमेल न भेजें।"
+
+msgid "notification.noneExist"
+msgstr "इस समय आपके पास कोई सूचना नहीं है।"
+
+msgid "notification.addedNote"
+msgstr "नोट पोस्ट किया गया।"
+
+msgid "notification.removedNote"
+msgstr "नोट हटा दिया गया।"
+
+msgid "notification.removedFile"
+msgstr "हटाई गई फ़ाइल।"
+
+msgid "notification.removedSubmission"
+msgstr "सबमिशन हटा दिया गया।"
+
+msgid "notification.notification"
+msgstr "अधिसूचना"
+
+msgid "notification.notifications"
+msgstr "सूचनाएं"
+
+msgid "notification.sentNotification"
+msgstr "अधिसूचना भेजी गई."
+
+msgid "notification.settings"
+msgstr "अधिसूचना सेटिंग्स"
+
+msgid "notification.type.metadataModified"
+msgstr "\"{$title}'s\" मेटाडेटा को संशोधित किया गया है।"
+
+msgid "notification.type.reviewerComment"
+msgstr "एक समीक्षक ने \"{$title}\" पर टिप्पणी की है।"
+
+msgid "notification.type.queryAdded"
+msgstr "चर्चा जोड़ी गई।"
+
+msgid "notification.type.queryActivity"
+msgstr "चर्चा गतिविधि।"
+
+msgid "notification.type.editorialReport"
+msgstr "सांख्यिकी रिपोर्ट सारांश।"
+
+msgid "notification.type.editorialReport.contents"
+msgstr "संपादकीय रिपोर्ट के माध्यम से अपनी पत्रिका के स्वास्थ्य की जांच करने के लिए यह आपके लिए एक तरह का अनुस्मारक है।"
+
+msgid "notification.type.editorialReminder"
+msgstr "बकाया कार्यों का साप्ताहिक ईमेल"
+
+msgid "user.apiKey.secretRequired"
+msgstr "API कुंजी जनरेट करने से पहले, आपके साइट व्यवस्थापक को कॉन्फ़िग फ़ाइल (\"api_key_secret\") में एक सीक्रेट सेट करना होगा।"
+
+msgid "user.apiKeyEnabled"
+msgstr "इस खाते तक पहुंचने के लिए एपीआई कुंजी के साथ बाहरी एप्लिकेशन सक्षम करें"
+
+msgid "user.apiKey.generate"
+msgstr "एपीआई कुंजी बनाएं"
+
+msgid "user.apiKey.remove"
+msgstr "हटाए"
+
+msgid "user.apiKey.generateWarning"
+msgstr "एक नई एपीआई कुंजी बनाने से इस उपयोगकर्ता के लिए कोई भी मौजूदा कुंजी अमान्य हो जाएगी।"
+
+msgid "user.apiKey.removeWarning"
+msgstr "किसी कुंजी को हटाने से इसका उपयोग करने वाले किसी भी एप्लिकेशन की एक्सेस निरस्त हो जाएगी"
+
+msgid "user.apiKey.remove.confirmation.message"
+msgstr "क्या आप वाकई इस API कुंजी को हटाना चाहते हैं?"
+
+msgid "form.dropzone.dictCancelUpload"
+msgstr "अपलोड रद्द करें"
+
+msgid "form.dropzone.dictUploadCanceled"
+msgstr "अपलोड रद्द"
+
+msgid "form.dropzone.dictCancelUploadConfirmation"
+msgstr "क्या आप वाकई इस अपलोड को रद्द करना चाहते हैं?"
+
+msgid "form.dropzone.dictRemoveFile"
+msgstr "फ़ाइल को हटाएं"
+
+msgid "common.editItem"
+msgstr "संपादित करें {$name}"
+
+msgid "email.addAttachment"
+msgstr "संलग्न करें"
+
+msgid "email.addAttachment.submissionFiles.attach"
+msgstr "सबमिशन फ़ाइलें संलग्न करें"
+
+msgid "email.addAttachment.submissionFiles.submissionDescription"
+msgstr "लेखक द्वारा अपलोड की गई फाइलों को सबमिशन चरण में संलग्न करें।"
+
+msgid "email.addAttachment.submissionFiles.reviewDescription"
+msgstr "सबमिशन वर्कफ़्लो के दौरान अपलोड की गई फ़ाइलें अटैच करें, जैसे कि संशोधन या समीक्षा की जाने वाली फ़ाइलें।"
+
+msgid "email.addAttachment.libraryFiles"
+msgstr "पुस्तकालय फ़ाइलें"
+
+msgid "email.addAttachment.libraryFiles.attach"
+msgstr "पुस्तकालय फ़ाइलें संलग्न करें"
+
+msgid "email.addAttachment.libraryFiles.description"
+msgstr "सबमिशन और प्रकाशक लाइब्रेरी से फ़ाइलें अटैच करें."
+
+msgid "email.addAttachment.reviewFiles.attach"
+msgstr "समीक्षा फ़ाइलें संलग्न करें"
+
+msgid "email.addAttachment.reviewFiles.description"
+msgstr "समीक्षकों द्वारा अपलोड की गई फ़ाइलें संलग्न करें"
+
+msgid "email.addBccRecipient"
+msgstr "BCC जोड़ें"
+
+msgid "email.addCcRecipient"
+msgstr "CC जोड़ें"
+
+msgid "email.addToRecipient"
+msgstr "प्राप्तकर्ता को जोड़ें"
+
+msgid "email.attachments"
+msgstr "संलग्नक"
+
+msgid "email.attachmentNotFound"
+msgstr "फ़ाइल {$fileName} संलग्न नहीं की जा सकी।"
+
+msgid "email.bcc"
+msgstr "BCC"
+
+msgid "email.bccSender"
+msgstr "इस संदेश की एक प्रति मेरे पते पर भेजें ({$address})"
+
+msgid "email.body"
+msgstr "Body"
+
+msgid "email.cc"
+msgstr "CC"
+
+msgid "email.confirmSwitchLocale"
+msgstr "क्या आप वाकई इस ईमेल को लिखने के लिए {$localeName} में बदलना चाहते हैं? आपके द्वारा ईमेल के विषय और मुख्य भाग में किया गया कोई भी परिवर्तन खो जाएगा।"
+
+msgid "email.compose"
+msgstr "ईमेल भेजें"
+
+msgid "email.compose.tooManyRecipients"
+msgstr "आप जिस संदेश को भेजने का प्रयास कर रहे हैं उसमें बहुत अधिक प्राप्तकर्ता हैं।"
+
+msgid "email.compose.tooSoon"
+msgstr "आप अपना अंतिम संदेश भेजे जाने के बाद भी हाल ही में एक संदेश भेजने का प्रयास कर रहे हैं। कृपया कोई अन्य संदेश भेजने से पहले प्रतीक्षा करें।"
+
+msgid "email.compose.error"
+msgstr "ईमेल संदेश भेजने में एक समस्या हुई. कृपया बाद में पुन: प्रयास करें, या अपने सिस्टम व्यवस्थापक से संपर्क करें।"
+
+msgid "email.email"
+msgstr "ईमेल"
+
+msgid "email.from"
+msgstr "से"
+
+msgid "email.invalid"
+msgstr "ईमेल पता {$email} अमान्य है।"
+
+msgid "email.multipart"
+msgstr "इस माइम प्रारूप में एक बहुखण्डीय संदेश है।"
+
+msgid "email.recipient"
+msgstr "प्राप्तकर्ता"
+
+msgid "email.recipients"
+msgstr "प्राप्तकर्ता"
+
+msgid "email.sender"
+msgstr "प्रेषक"
+
+msgid "email.send"
+msgstr "भेजें"
+
+msgid "email.skip"
+msgstr "ईमेल न भेजे"
+
+msgid "email.subjectRequired"
+msgstr "कृपया एक ईमेल विषय प्रदान करें।"
+
+msgid "email.bodyRequired"
+msgstr "कृपया ईमेल का मुख्य भाग प्रदान करें।"
+
+msgid "notification.addedStageParticipant"
+msgstr "उपयोगकर्ता को एक मंच प्रतिभागी के रूप में जोड़ा गया।"
+
+msgid "submission.reviewFormResponse"
+msgstr "समीक्षा प्रपत्र प्रतिक्रिया"
+
+msgid "common.pluginEnabled"
+msgstr "प्लगइन \"{$pluginName}\" सक्षम किया गया है।"
+
+msgid "common.pluginDisabled"
+msgstr "प्लग इन \"{$pluginName}\" अक्षम कर दिया गया है।"
+
+msgid "grid.action.upgrade"
+msgstr "उन्नत करे"
+
+msgid "plugins.generic.acron.reload"
+msgstr "अनुसूचित कार्य पुनः लोड करें"
+
+msgid "editor.submission.roundStatus.reviewOverdue"
+msgstr "समीक्षा अतिदेय है।"
+
+msgid "submission.comments.sendToReviewers"
+msgstr "समीक्षकों को भेजें"
+
+msgid "submission.comments.sendCopyToReviewers"
+msgstr "निम्नलिखित समीक्षकों को BCC द्वारा इस ईमेल अधिसूचना की एक प्रति भेजें।"
+
+msgid "review.anonymousPeerReview.title"
+msgstr "कैसे सुनिश्चित करें कि सभी फाइलें गुमनाम हैं"
+
+msgid "review.anonymousPeerReview"
+msgstr ""
+"<p>अनाम सहकर्मी-समीक्षा की अखंडता को सुनिश्चित करने के लिए, लेखकों और समीक्षकों की पहचान को एक-दूसरे को जानने से रोकने के लिए हर संभव प्रयास किया जाना चाहिए। इसमें लेखक, संपादक और समीक्षक (जो अपनी समीक्षा के भाग के रूप में दस्तावेज़ अपलोड करते हैं) यह देखने के लिए जाँच करते हैं कि क्या पाठ और फ़ाइल गुणों के संबंध में निम्नलिखित कदम उठाए गए हैं:</p>\n"
+"<ul><li>दस्तावेज़ के लेखकों ने अपने नाम पाठ से हटा दिए हैं, जिसमें \"लेखक\" और लेखक के नाम, लेख शीर्षक, आदि के बजाय संदर्भों और फ़ुटनोट्स में वर्ष का उपयोग किया गया है।</li>\n"
+"<li>दस्तावेज़ के लेखकों ने निम्नलिखित कदम उठाकर व्यक्तिगत जानकारी को फ़ाइल गुणों से हटा दिया है:\n"
+"<ul><li>विंडोज के लिए माइक्रोसॉफ्ट वर्ड:\n"
+"<ul><li>फाइल पर जाएं</li>\n"
+"<li>जानकारी का चयन करें</li>\n"
+"<li>चेक फॉर इश्यूज पर क्लिक करें</li>\n"
+"<li>दस्तावेज़ का निरीक्षण करें पर क्लिक करें</li>\n"
+"<li>दस्तावेज़ निरीक्षक संवाद बॉक्स में, आप जिस प्रकार की छिपी सामग्री का निरीक्षण करना चाहते हैं उसे चुनने के लिए चेक बॉक्स का चयन करें।</li>\n"
+"<li>सभी हटाएं क्लिक करें</li>\n"
+"<li>बंद करें क्लिक करें</li>\n"
+"<li>दस्तावेज़ सहेजें</li></ul>\n"
+"<li>MacOS के लिए माइक्रोसॉफ्ट वर्ड:\n"
+"<ul><li>टूल्स पर जाएं</li>\n"
+"<li>दस्तावेज़ को सुरक्षित रखें पर क्लिक करें</li>\n"
+"<li>सहेजें पर इस फ़ाइल के लिए व्यक्तिगत जानकारी निकालें का चयन करें</li>\n"
+"<li>ओके पर क्लिक करें और फाइल को सेव करें</li></ul></li>\n"
+"<li>PDF:\n"
+"<ul><li>फाइल पर जाएं</li>\n"
+"<li>गुण चुनें</li>\n"
+"<li>लेखक क्षेत्र में कोई भी नाम हटाएं</li>\n"
+"<li>OK पर क्लिक करें</li>\n"
+"<li>दस्तावेज़ सहेजें</li></ul></li></ul>\n"
+
+msgid "reviewer.submission.reviewSchedule"
+msgstr "समीक्षा अनुसूची"
+
+msgid "plugins.generic.acron.name"
+msgstr "एक्रोन प्लगइन"
+
+msgid "plugins.generic.acron.description"
+msgstr "यह प्लगइन 'cron' जैसे आवधिक शेड्यूलिंग टूल पर एप्लिकेशन की निर्भरता को कम करने का प्रयास करता है।"
+
+msgid "plugins.categories.importexport"
+msgstr "Import/Export"
+
+msgid "plugins.categories.oaiMetadataFormats"
+msgstr "OAI मेटाडेटा प्रारूप"
+
+msgid "plugins.categories.themes"
+msgstr "Theme Plugins"
+
+msgid "plugins.categories.reports"
+msgstr "Report Plugins"
+
+msgid "plugins.categories.pubIds"
+msgstr "Public Identifier Plugins"
+
+msgid "plugins.oaiMetadata.dc.displayName"
+msgstr "Users XML Plugin"
+
+msgid "plugins.oaiMetadata.dc.description"
+msgstr "Import and export users"
+
+msgid "user.login.resetPassword"
+msgstr "पासवर्ड रीसेट"
+
+msgid "user.login.resetPasswordInstructions"
+msgstr "नीचे अपना खाता ईमेल पता दर्ज करें और अपना पासवर्ड रीसेट करने के निर्देशों के साथ एक ईमेल भेजा जाएगा।"
+
+msgid "user.login.registeredEmail"
+msgstr "पंजीकृत उपयोगकर्ता का ईमेल"
+
+msgid "form.multilingualLabel"
+msgstr "{$label} in {$localeName}"
+
+msgid "form.multilingualProgress"
+msgstr "{$count}/{$total} languages completed"
+
+msgid "help.help"
+msgstr "सहायता"
+
+msgid "help.toc"
+msgstr "विषयसूची"
+
+msgid "help.previous"
+msgstr "पिछला"
+
+msgid "help.next"
+msgstr "अगला"
+
+msgid "help.upALevel"
+msgstr "एक स्तर ऊपर"
+
+msgid "common.changesSaved"
+msgstr "आपके परिवर्तन सहेज दिए गए हैं।"
+
+msgid "common.chooseOne"
+msgstr "एक का चयन"
+
+msgid "common.close"
+msgstr "बंद करें"
+
+msgid "common.closePanel"
+msgstr "पैनल बंद करें"
+
+msgid "common.closeWindow"
+msgstr "विंडो बंद"
+
+msgid "common.confirmed.date"
+msgstr "पुष्टि की: {$dateConfirmed}"
+
+msgid "common.altText"
+msgstr "वैकल्पिक पाठ"
+
+msgid "common.altTextInstructions"
+msgstr "केवल-पाठ ब्राउज़र में या सहायक उपकरणों के साथ साइट देखने वाले विज़िटर के लिए इस छवि का वर्णन करें। उदाहरण: \"हमारे संपादक पीकेपी सम्मेलन में बोल रहे हैं।\""
+
+msgid "validator.required"
+msgstr "यह फ़ील्ड आवश्यक है।"
+
+msgid "validator.required_if"
+msgstr "यह फ़ील्ड तब आवश्यक है जब {$other}, {$value} हो"
+
+msgid "validator.required_unless"
+msgstr "यह फ़ील्ड तब तक आवश्यक है जब तक {$other} {$values} में न हो।"
+
+msgid "validator.required_with"
+msgstr "यह फ़ील्ड आवश्यक है जब {$values} मौजूद हो।"
+
+msgid "validator.required_with_all"
+msgstr "यह फ़ील्ड आवश्यक है जब {$values} मौजूद हो।"
+
+msgid "validator.required_without"
+msgstr "यह फ़ील्ड तब आवश्यक है जब {$values} मौजूद न हो।"
+
+msgid "validator.required_without_all"
+msgstr "यह फ़ील्ड तब आवश्यक है जब {$values} में से कोई भी मौजूद न हो।"
+
+msgid "validator.same"
+msgstr "{$attribute} और {$other} का मिलान होना चाहिए।"
+
+msgid "validator.size.numeric"
+msgstr "यह {$size} होना चाहिए।"
+
+msgid "validator.size.file"
+msgstr "यह {$size} किलोबाइट होना चाहिए।"
+
+msgid "validator.size.string"
+msgstr "यह {$size} characters होना चाहिए।"
+
+msgid "validator.size.array"
+msgstr "इसमें {$size} आइटम होने चाहिए।"
+
+msgid "validator.string"
+msgstr "यह मान्य स्ट्रिंग नहीं है।"
+
+msgid "validator.timezone"
+msgstr "यह एक मान्य समय क्षेत्र नहीं है।"
+
+msgid "validator.unique"
+msgstr "{$attribute} पहले ही लिया जा चुका है।"
+
+msgid "validator.url"
+msgstr "यह एक मान्य URL नहीं है।"
+
+msgid "filter.input.error.notSupported"
+msgstr "फ़िल्टर ({$displayName}) इनपुट {$inputTypeName} - {$typeofInput} दिए गए इनपुट का समर्थन करता है"
+
+msgid "filter.error.missingRequirements"
+msgstr "ऐसा परिवर्तन चलाने का प्रयास कर रहा है जो आपके संस्थापन परिवेश में समर्थित नहीं है।"
+
+msgid "filter.import.error.couldNotImportNode"
+msgstr "Could not import XML Node"
+
+msgid "plugins.importexport.common.error.unknownCommand"
+msgstr "Unknown command {$command}"
+
+msgid "about.contact.principalContact"
+msgstr "प्रधान संपर्क"
+
+msgid "about.contact.supportContact"
+msgstr "तकनीकी सहयोग"
+
+msgid "search.advancedFilters"
+msgstr "उन्नत फ़िल्टर"
+
+msgid "search.dateFrom"
+msgstr "बाद प्रकाशित"
+
+msgid "search.dateTo"
+msgstr "पहले प्रकाशित"
+
+msgid "search.author"
+msgstr "लेखक द्वारा"
+
+msgid "search.noResults"
+msgstr "कोई परिणाम नहीं"
+
+msgid "notification.removedAnnouncementType"
+msgstr "घोषणा प्रकार हटाया गया|"
+
+msgid "common.selectAll"
+msgstr "Select All"
+
+msgid "plugins.importexport.native.import"
+msgstr "Import"
+
+msgid "plugins.importexport.native.exportSubmissions"
+msgstr "Export Articles"
+ 
+msgid "plugins.importexport.native.exportIssues"
+msgstr "Export Issues"
+
+msgid "plugins.importexport.native.import.instructions"
+msgstr "Upload XML file to import"
+
+msgid "common.select"
+msgstr "चयन"
+
+msgid "user.register.form.usernameAlphaNumeric"
+msgstr "उपयोगकर्ता नाम में केवल लोअर-केस अल्फ़ान्यूमेरिक वर्ण, अंडरस्कोर और हाइफ़न हो सकते हैं, और एक अल्फ़ान्यूमेरिक वर्ण के साथ शुरू और समाप्त होना चाहिए।"
+
+msgid "user.register.form.passwordsDoNotMatch"
+msgstr "पासवर्ड एक - दूसरे से मिलते - जुलते नहीं हैं।"
+
+msgid "user.login.registrationComplete.instructions"
+msgstr "पंजीकरण के लिए धन्यवाद! आप आगे क्या करना चाहेंगे?"
+
+msgid "user.editMyProfile"
+msgstr "मेरे प्रोफ़ाइल संपादित करे"
+
+msgid "user.login.registrationComplete.continueBrowsing"
+msgstr "ब्राउज़िंग जारी रखें"
+
+msgid "about.contact.phone"
+msgstr "दूरभाष"
+
+msgid "article.subject"
+msgstr "कीवर्ड्स"
+
+msgid "plugins.pubIds.doi.readerDisplayName"
+msgstr "DOI"
+
+msgid "grid.user.mergeUsers.mergeUser"
+msgstr "उपयोगकर्ता मर्ज करें"
+
+msgid "notification.addedAuthor"
+msgstr "लेखक जोड़ा गया।"
+
+msgid "default.groups.name.translator"
+msgstr "अनुवादक"
+
+msgid "makale.goruntuleme.sayisi"
+msgstr "सार देखा गया"
+
+msgid "makale.indirme.sayisi"
+msgstr "PDF डाउनलोड"
+
+msgid "common.upload.changeFile"
+msgstr "फ़ाइल बदलें"
+
+msgid "user.profile.leavePasswordBlank"
+msgstr "वर्तमान पासवर्ड रखने के लिए पासवर्ड फ़ील्ड को खाली छोड़ दें।"
+
+msgid "grid.user.userRoles"
+msgstr "उपयोगकर्ता भूमिका"
+
+msgid "user.authorization.accessDenied"
+msgstr "पहुंच अस्वीकृत।"
+
+msgid "grid.user.step2"
+msgstr "चरण #2: {$userFullName} में उपयोगकर्ता भूमिकाएँ जोड़ें"
+
+msgid "grid.user.userRoles"
+msgstr "उपयोगकर्ता भूमिका"
+
+msgid "common.error"
+msgstr "गलती"
+
+msgid "common.readMore"
+msgstr "अधिक पढ़ें"
+
+msgid "notification.editedAuthor"
+msgstr "लेखक संपादित।"
+
+msgid "user.authorization.roleBasedAccessDenied"
+msgstr "वर्तमान भूमिका की इस कार्रवाई तक पहुंच नहीं है."
+
+msgid "plugins.block.makeSubmission.linkLabel"
+msgstr "लेख प्रस्तुत करें"
+
+msgid "user.login.lostPassword.confirmationSent"
+msgstr "आपके ईमेल पते पर एक पुष्टिकरण भेज दिया गया है। कृपया अपना पासवर्ड रीसेट करने के लिए ईमेल में दिए गए निर्देशों का पालन करें।"
+
+msgid "notification.type.assignCopyeditors"
+msgstr "प्रतिभागियों की सूची में असाइन करें लिंक का उपयोग करके एक कॉपीराइटर असाइन करें।"
+
+msgid "user.profile.form.passwordSameAsOld"
+msgstr "आपका नया पासवर्ड आपके पुराने पासवर्ड जैसा ही है।"
+
+msgid "stageParticipants.notify.startDiscussion.description"
+msgstr "अपने और {$userFullName} के बीच चर्चा शुरू करें।"
+
+msgid "stageParticipants.notify.warning"
+msgstr "कृपया सुनिश्चित करें कि आपने संदेश क्षेत्र भर दिया है और चर्चा में अपने अलावा किसी और को शामिल किया है।"
+
+## By Shantanu Kumar Singh ##
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "context.current"
+msgstr "वर्तमान जर्नल:"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "context.select"
+msgstr "किसी अन्य जर्नल पर जाएं:"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "reviewer.article.enterReviewForm"
+msgstr "समीक्षा फ़ॉर्म भरने के लिए आइकन पर क्लिक करें।"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "reviewer.submission.reviewFormResponse.form.responseRequired"
+msgstr "कृपया आवश्यक क्षेत्र भरें।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 2
+# (pofilter) simplecaps: Different capitalization
+msgid "common.confirmComplete"
+msgstr "क्या आप वाकई इस कार्य को पूरा करना चाहते हैं? आप बाद में बदलाव करने में सक्षम नहीं हो सकते हैं।"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "navigation.journalHelp"
+msgstr "जर्नल मदद"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "navigation.otherJournals"
+msgstr "अन्य जर्नल्स"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "common.queue.long.submissionsUnassigned"
+msgstr "सौंपे नहीं गए"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "common.queue.short.submissionsUnassigned"
+msgstr "सौंपे नहीं गए"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "common.queue.long.submissionsArchives"
+msgstr "पुरालेख"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "common.queue.short.submissionsArchives"
+msgstr "पुरालेख"
+
+# (pofilter) brackets: Added '(', ')'
+# (pofilter) startpunc: Different punctuation at the start
+msgid "section.abbreviation.example"
+msgstr "(उदाहरण के लिए, लेख = एआरटी)"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "article.submissionId"
+msgstr "सबमिशन आईडी"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "article.indexingInformation"
+msgstr "अनुक्रमण जानकारी"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "article.journalSection"
+msgstr "जर्नल अनुभाग"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "article.suppFile"
+msgstr "अनुपूरक फ़ाइल"
+
+# (pofilter) brackets: Added '(', ')'
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) simpleplurals: The original uses plural(s)
+msgid "article.suppFiles"
+msgstr "अनुपूरक फ़ाइल (s)"
+
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 2
+# (pofilter) startcaps: Different capitalization at the start
+msgid "article.suppFilesAbbrev"
+msgstr "Supp. फाइलें"
+
+# (pofilter) short: The translation is much shorter than the original
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
+msgid "article.sectionEditor"
+msgstr "SE"
+
+# (pofilter) startcaps: Different capitalization at the start
+msgid "article.accessLogoOpen.altText"
+msgstr "ओपन एक्सेस"
+
+# (pofilter) short: The translation is much shorter than the original
+# (pofilter) simplecaps: Different capitalization
+msgid "article.comments.sectionDefault"
+msgstr "डिफॉल्ट"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "article.fontSize"
+msgstr "फ़ॉन्ट आकार"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.submissionEditing"
+msgstr "सबमिशन एडिटिंग"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.changeSection"
+msgstr "में बदलो"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.editorDecision"
+msgstr "संपादक का निर्णय"
+
+# (pofilter) brackets: Added '{', '}'
+# (pofilter) pythonbraceformat: Unknown named placeholders in translation: {$round}
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
+msgid "submission.round"
+msgstr "दौर&nbsp;{$round}"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.editorReview"
+msgstr "संपादक की समीक्षा"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.notifyAuthor"
+msgstr "लेखक को सूचित करें"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.notifyEditor"
+msgstr "संपादक को सूचित करें"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.reviewersVersion"
+msgstr "समीक्षक की फ़ाइल का एनोटेटेड संस्करण"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.editorVersion"
+msgstr "संपादक संस्करण"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.authorVersion"
+msgstr "लेखक संस्करण"
+
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
+msgid "submission.copyedit"
+msgstr "प्रतिलिपि संपादन करना"
+
+# (pofilter) brackets: Added '{', '}'
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) pythonbraceformat: Unknown named placeholders in translation: {$issueName}
+# (pofilter) startpunc: Different punctuation at the start
+msgid "submission.scheduledIn"
+msgstr "{$issueName} में प्रकाशन के लिए निर्धारित ।"
+
+# (pofilter) brackets: Added '(', ')'
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
+# (pofilter) startpunc: Different punctuation at the start
+msgid "submission.scheduledIn.tba"
+msgstr "(TBA)"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submissions.queuedReview"
+msgstr "समीक्षा में"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submissions.initialProof"
+msgstr "प्रारंभिक प्रमाण"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submissions.postAuthor"
+msgstr "पोस्ट-लेखक"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submissions.reviewRound"
+msgstr "समीक्षा दौर"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submissions.editorDecision"
+msgstr "संपादक का निर्णय"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submissions.editorRuling"
+msgstr "संपादक शासन"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.eventLog"
+msgstr "इवेंट लोग"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submissions.copyeditComplete"
+msgstr "कॉपी संपादित"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submissions.layoutComplete"
+msgstr "लेआउट संपादित किया गया"
+
+# (pofilter) startcaps: Different capitalization at the start
+msgid "submissions.proofreadingComplete"
+msgstr "प्रूफ़रीड"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "journal.currentIssue"
+msgstr "वर्तमान अंक"
+
+# (pofilter) endwhitespace: Different whitespace at the end
+msgid "context.context"
+msgstr "जर्नल"
+
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
+msgid "journal.issn"
+msgstr "ISSN"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "user.noRoles.selectUsersWithoutRoles"
+msgstr "इस जर्नल में बिना किसी भूमिका वाले उपयोगकर्ताओं को शामिल करें।"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "user.profile.profileImage"
+msgstr "प्रोफ़ाइल छवि"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "user.reviewerPrompt"
+msgstr "क्या आप इस जर्नल को सबमिशन्स देने के लिए तैयार हैं?"
+
+# (pofilter) brackets: Added '{', '}'
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) pythonbraceformat: Unknown named placeholders in translation: {$userGroup}
+msgid "user.reviewerPrompt.userGroup"
+msgstr "हां, {$userGroup} भूमिका का अनुरोध करें।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "user.reviewerPrompt.optin"
+msgstr ""
+"हां, मैं इस जर्नल को सबमिशन्स की समीक्षा करने के अनुरोधों के साथ संपर्क करना "
+"चाहूंगा।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "user.register.contextsPrompt"
+msgstr "इस साइट पर कौन सी जर्नल्स आप के साथ पंजीकृत करना चाहेंगे?"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "user.register.otherContextRoles"
+msgstr "निम्नलिखित भूमिकाओं का अनुरोध करें।"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "user.register.noContextReviewerInterests"
+msgstr "यदि आपने किसी भी जर्नल में एक समीक्षक बनने का अनुरोध किया है, तो कृपया अपने विषय के हितों को दर्ज करें।"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "user.myJournals"
+msgstr "मेरी जर्नल्स"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 2
+msgid "user.noRoles.chooseJournal"
+msgstr "आपका खाता वर्तमान में किसी भी जर्नल से संबद्ध नहीं है। कृपया एक जर्नल चुनें:"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 2
+msgid "user.noRoles.noRolesForJournal"
+msgstr "आपके खाते में वर्तमान में इस जर्नल के लिए कोई भूमिका नहीं है। कृपया नीचे दिए गए कार्यों में से चुनें:"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "user.noRoles.submitArticleRegClosed"
+msgstr "एक लेख सबमिट करें: लेखक पंजीकरण वर्तमान में अक्षम है।"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "user.noRoles.regReviewerClosed"
+msgstr "एक समीक्षक के रूप में पंजीकरण करें: वर्तमान में समीक्षक पंजीकरण अक्षम है।"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "user.role.subEditor"
+msgstr "अनुभाग संपादक"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "user.role.subscriptionManager"
+msgstr "सदस्यता प्रबंधक"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "user.role.subEditors"
+msgstr "अनुभाग संपादक"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "user.role.subscriptionManagers"
+msgstr "सदस्यता प्रबंधक"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "user.role.journalAssistant"
+msgstr "जर्नल सहायक"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "user.role.journalAssistants"
+msgstr "जर्नल सहायकों"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
+msgid "issue.vol"
+msgstr "खंड"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
+msgid "issue.no"
+msgstr "No."
+
+# (pofilter) simplecaps: Different capitalization
+msgid "issue.noIssues"
+msgstr "कोई अंक नहीं"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "issue.fullIssue"
+msgstr "पूर्ण अंक"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "issue.viewIssue"
+msgstr "अंक देखें"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "subscriptionTypes.currency"
+msgstr "मुद्रा"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "subscriptionTypes.year"
+msgstr "साल"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "subscriptionTypes.years"
+msgstr "साल"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "subscriptionTypes.month"
+msgstr "महीना"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "subscriptionTypes.months"
+msgstr "महीना"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "subscriptionTypes.format"
+msgstr "स्वरूप"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "subscriptionTypes.format.online"
+msgstr "ऑनलाइन"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "subscriptionTypes.format.print"
+msgstr "प्रिंट"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "subscriptions.status.needsInformation"
+msgstr "जानकारी चाहिए"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "subscriptions.status.needsApproval"
+msgstr "मंजूरी की जरूरत है"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "subscriptions.status.noSubscription"
+msgstr "आपके पास सक्रिय सदस्यता नहीं है।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "subscriptions.individualDescription"
+msgstr "व्यक्तिगत सदस्यता के लिए सदस्यता सामग्री तक पहुंचने के लिए लॉगिन की आवश्यकता होती है।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 2
+# (pofilter) simplecaps: Different capitalization
+msgid "subscriptions.institutionalDescription"
+msgstr "संस्थागत सदस्यता के लिए लॉगिन की आवश्यकता नहीं है। उपयोगकर्ता के डोमेन और / या आईपी पते का उपयोग सदस्यता सामग्री तक पहुंच प्रदान करने के लिए किया जाता है।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) xmltags: Added XML tags
+msgid "subscriptions.institutionalOnlinePaymentDescription"
+msgstr "<strong>नोट:</strong> ऑनलाइन खरीदे गए संस्थागत सदस्यता को सदस्यता सक्रिय होने से पहले डोमेन और आईपी श्रेणियों के अनुमोदन की आवश्यकता होती है।"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.general.defaultEvent"
+msgstr "सबमिशन इवेंट"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.submissionSubmitted"
+msgstr "लेख प्रस्तुत किया"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.general.issueScheduled"
+msgstr "शेड्यूलिंग कतार जारी करने के लिए सबमिशन भेजा गया"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.general.issueAssigned"
+msgstr "सबमिशन जारी करने के लिए अंक सौंपा गया"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.general.articlePublished"
+msgstr "लेख प्रकाशित हुआ"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.author.authorRevision"
+msgstr "लेखक संशोधन प्रस्तुत किया"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.general.authorRevision"
+msgstr "लेखक संशोधन फ़ाइल अपडेट की गई"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.editor.editorAssigned"
+msgstr "संपादक को सबमिशन सौंपा"
+
+# (pofilter) startcaps: Different capitalization at the start
+msgid "submission.event.editor.editorUnassigned"
+msgstr "संपादक सबमिशन करने से निर्दिष्ट नहीं किए गए"
+
+# (pofilter) endwhitespace: Different whitespace at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.editor.editorDecision"
+msgstr "संपादक का सबमिशन निर्णय"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.editor.editorFile"
+msgstr "संपादक फ़ाइल अपडेट की गई"
+
+# (pofilter) startcaps: Different capitalization at the start
+msgid "submission.event.editor.submissionArchived"
+msgstr "सबमिशन पुरालेख के लिए भेजा"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.editor.submissionRestored"
+msgstr "सबमिशन पुरालेख से पुनर्स्थापित किया गया"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.copyedit.copyeditorAssigned"
+msgstr "प्रतिलिपि सबमिशन करने वाले को सौंपी गई"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.copyedit.copyeditorUnassigned"
+msgstr "प्रतिलिपि सबमिशन करने से अनसुना कर दिया"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.copyedit.copyeditInitiated"
+msgstr "प्रतिलिपि कार्य आरंभ किया गया"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.copyedit.copyeditRevision"
+msgstr "प्रतिलिपि संशोधन फ़ाइल अपडेट की गई"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.proofread.proofreaderAssigned"
+msgstr "प्रूफ़रीडर सबमिशन करने के लिए सौंपा"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.proofread.proofreaderUnassigned"
+msgstr "प्रूफ़रीडर सबमिशन करने से अप्रभावित है"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.proofread.proofreadInitiated"
+msgstr "प्रूफ़रीडर असाइनमेंट शुरू किया गया"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.proofread.proofreadRevision"
+msgstr "प्रूफ़रीडर संशोधन फ़ाइल अपडेट की गई"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.proofread.proofreadCompleted"
+msgstr "प्रूफ़रीडर असाइनमेंट पूरा हुआ"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.layout.layoutInitiated"
+msgstr "लेआउट असाइनमेंट शुरू किया"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "submission.event.layout.layoutComplete"
+msgstr "लेआउट असाइनमेंट पूरा हुआ"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "reader.subscribersOnly"
+msgstr "केवल सदस्य"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 2
+msgid "reader.subscriptionRequiredLoginText"
+msgstr "आइटम का उपयोग करने के लिए आवश्यक सदस्यता। सदस्यता सत्यापित करने के लिए, जर्नल में लॉग इन करें।"
+
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
+msgid "reader.openAccess"
+msgstr "ओपन एक्सेस"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "reader.subscriptionAccess"
+msgstr "सदस्यता की आवश्यकता है"
+
+# (pofilter) brackets: Added '{', '}', '(', ')'
+# (pofilter) pythonbraceformat: Unknown named placeholders in translation: {$price}, {$currency}
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+msgid "reader.purchasePrice"
+msgstr "({$currency} {$price})"
+
+# (pofilter) brackets: Added '{', '}'
+# (pofilter) pythonbraceformat: Unknown named placeholders in translation: {$publicProfileUrl}, {$userName}
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) xmltags: Added XML tags
+msgid "comments.authenticated"
+msgstr ""
+"द्वारा <a href=\"{$publicProfileUrl}\" target=\"_parent\">{$userName}</a>"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "search.results.orderBy"
+msgstr "द्वारा आदेश परिणाम"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "search.results.orderBy.article"
+msgstr "लेख का शीर्षक"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "search.results.orderBy.author"
+msgstr "लेखक"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "search.results.orderBy.date"
+msgstr "प्रकाशन तिथि"
+
+# (pofilter) endwhitespace: Different whitespace at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "search.results.orderBy.issue"
+msgstr "अंक"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "search.results.orderBy.journal"
+msgstr "जर्नल शीर्षक"
+
+# (pofilter) brackets: Added '(', ')'
+msgid "search.results.orderBy.popularityAll"
+msgstr "लोकप्रियता (सभी समय)"
+
+# (pofilter) brackets: Added '(', ')'
+msgid "search.results.orderBy.popularityMonth"
+msgstr "लोकप्रियता (अंतिम माह)"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "search.results.orderBy.relevance"
+msgstr "प्रासंगिकता"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "search.results.orderDir.asc"
+msgstr "आरोही"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "search.results.orderDir.desc"
+msgstr "अवरोही"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "search.results.similarDocuments"
+msgstr "इसी तरह के दस्तावेज"
+
+# (pofilter) brackets: Added '(', ')'
+# (pofilter) long: The translation is much longer than the original
+# (pofilter) newlines: Different line endings
+# (pofilter) tabs: Different tabs
+# (pofilter) xmltags: Added XML tags
+msgid "admin.auth.defaultSourceDescription"
+msgstr ""
+"<p>OJS के अलावा एक डिफ़ॉल्ट प्रमाणीकरण स्रोत को निर्दिष्ट करने के निम्नलिखित प्रभाव हैं:</p>\n"
+"<ul>\n"
+"\t<li>यदि कोई उपयोगकर्ता प्रमाणीकरण साइट पर मौजूद उपयोगकर्ता नाम (लेकिन OJS डेटाबेस में नहीं) के साथ इस साइट के साथ एक नया खाता पंजीकृत करने का प्रयास करता है, तो पंजीकरण प्रयास केवल तभी अनुमति दी जाती है जब आपूर्ति की गई पासवर्ड उस उपयोगकर्ता खाते के लिए मान्य हो।</li>\n"
+"</ul>"
+
+# (pofilter) newlines: Different line endings
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 2
+# (pofilter) xmltags: Added XML tags
+msgid "admin.overwriteConfigFileInstructions"
+msgstr ""
+"<h4>नोट!</h4>\n"
+"<p>सिस्टम कॉन्फ़िगरेशन फ़ाइल को स्वचालित रूप से अधिलेखित नहीं कर सकता है। "
+"अपने कॉन्फ़िगरेशन परिवर्तनों को लागू करने के लिए आपको उपयुक्त टेक्स्ट एडिटर "
+"में  <tt>config.inc.php</tt> खोलना होगा और इसकी सामग्री को नीचे दिए गए टेक्स्"
+"ट फ़ील्ड की सामग्री से बदलना होगा।</p>"
+
+# (pofilter) simplecaps: Different capitalization
+msgid "plugins.categories.viewableFiles"
+msgstr "लेख गैली प्लगइन्स"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "plugins.categories.viewableFiles.description"
+msgstr "लेख गैली प्लगइन्स अलग-अलग दस्तावेज़ प्रकार को लेख गैलिस के रूप में प्रदर्शित करने के लिए समर्थन जोड़ते हैं।"
+
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) simplecaps: Different capitalization
+msgid "plugins.categories.auth.description"
+msgstr "प्राधिकरण प्लगइन्स ओपन जर्नल सिस्टम को उपयोगकर्ता प्रमाणीकरण कार्यों को अन्य प्रणालियों, जैसे LDAP सर्वरों को सौंपने की अनुमति देता है।"
+
+# (pofilter) endpunc: Different punctuation at the end
+msgid "plugins.categories.generic.description"
+msgstr "जेनेरिक प्लगइन्स का उपयोग ओपन जर्नल सिस्टम को विभिन्न तरीकों से विस्तारित करने के लिए किया जाता है जो अन्य प्लगइन श्रेणियों द्वारा समर्थित नहीं हैं।"
+
+# (pofilter) brackets: Added '[', ']', '(', ')'
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) escapes: Escapes in original () don't match escapes in translation ('target=\'_new\'', 'href=\'http://creativecommons.org/licenses/by/3.0/\'>', '\', '\', '\', '\')
+# (pofilter) long: The translation is much longer than the original
+# (pofilter) newlines: Different line endings
+# (pofilter) sentencecount: Different number of sentences: 1 ≠ 6
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) singlequoting: Different quotation marks
+# (pofilter) tabs: Different tabs
+# (pofilter) urls: Different URLs
+# (pofilter) xmltags: Added XML tags
+msgid "manager.setup.copyrightNotice.sample"
+msgstr ""
+"<h3>Proposed Creative Commons Copyright Notices</h3>\n"
+"<h4>1. Proposed Policy for Journals That Offer Open Access</h4>\n"
+"Authors who publish with this journal agree to the following terms:\n"
+"<ol type=\"a\">\n"
+"\t<li>Authors retain copyright and grant the journal right of first "
+"publication with the work simultaneously licensed under a <a target=\"_new\" "
+"href=\"http://creativecommons.org/licenses/by/3.0/\">Creative Commons "
+"Attribution License</a> that allows others to share the work with an "
+"acknowledgement of the work's authorship and initial publication in this "
+"journal.</li>\n"
+"\t<li>Authors are able to enter into separate, additional contractual "
+"arrangements for the non-exclusive distribution of the journal's published "
+"version of the work (e.g., post it to an institutional repository or publish "
+"it in a book), with an acknowledgement of its initial publication in this "
+"journal.</li>\n"
+"\t<li>Authors are permitted and encouraged to post their work online (e.g., "
+"in institutional repositories or on their website) prior to and during the "
+"submission process, as it can lead to productive exchanges, as well as "
+"earlier and greater citation of published work (See <a target=\"_new\" href="
+"\"http://opcit.eprints.org/oacitation-biblio.html\">The Effect of Open "
+"Access</a>).</li>\n"
+"</ol>\n"
+"\n"
+"<h4>2. Proposed Policy for Journals That Offer Delayed Open Access</h4>\n"
+"Authors who publish with this journal agree to the following terms:\n"
+"<ol type=\"a\">\n"
+"\t<li>Authors retain copyright and grant the journal right of first "
+"publication, with the work [SPECIFY PERIOD OF TIME] after publication "
+"simultaneously licensed under a <a target=\"_new\" href=\""
+"http://creativecommons.org/licenses/by/3.0/\">Creative Commons Attribution "
+"License</a> that allows others to share the work with an acknowledgement of "
+"the work's authorship and initial publication in this journal.</li>\n"
+"\t <li>Authors are able to enter into separate, additional contractual "
+"arrangements for the non-exclusive distribution of the journal's published "
+"version of the work (e.g., post it to an institutional repository or publish "
+"it in a book), with an acknowledgement of its initial publication in this "
+"journal.</li>\n"
+"\t <li>Authors are permitted and encouraged to post their work online (e.g., "
+"in institutional repositories or on their website) prior to and during the "
+"submission process, as it can lead to productive exchanges, as well as "
+"earlier and greater citation of published work (See <a target=\"_new\" href="
+"\"http://opcit.eprints.org/oacitation-biblio.html\"> The Effect of Open "
+"Access</a>).</li>\n"
+"</ol>"
+
+msgid "article.comments.enable"
+msgstr "सक्षम"
+
+msgid "article.comments.disable"
+msgstr "अक्षम"
+
+msgid "article.accessLogoRestricted.altText"
+msgstr "उपयोग प्रतिबंधित"
+
+msgid "article.coverPage.altText"
+msgstr "आवरण छवि"
+
+msgid "article.abstract"
+msgstr "सार"
+
+msgid "article.details"
+msgstr "विवरण"
+
+msgid "article.submissions"
+msgstr "सबमिशन्स"
+
+msgid "article.submission"
+msgstr "सबमिशन"
+
+msgid "article.commentsToEditor"
+msgstr "लेखक की टिप्पणी"
+
+msgid "article.language"
+msgstr "भाषा"
+
+msgid "article.type"
+msgstr "प्रकार, विधि या दृष्टिकोण"
+
+msgid "article.coverage"
+msgstr "कवरेज"
+
+msgid "article.subject"
+msgstr "संकेत शब्द"
+
+msgid "article.discipline"
+msgstr "शैक्षणिक अनुशासन और उप-विषयों"
+
+msgid "article.file"
+msgstr "फ़ाइल"
+
+msgid "article.metadata"
+msgstr "मेटाडाटा"
+
+msgid "article.authors"
+msgstr "लेखक"
+
+msgid "article.title"
+msgstr "शीर्षक"
+
+msgid "common.publications"
+msgstr "लेखों"
+
+msgid "common.publication"
+msgstr "लेख"
+
+msgid "article.articles"
+msgstr "लेखों"
+
+msgid "article.article"
+msgstr "लेख"
+
+msgid "section.policy"
+msgstr "खंड नीति"
+
+msgid "section.abbreviation"
+msgstr "संक्षिप्तीकरण"
+
+msgid "section.title"
+msgstr "खंड शीर्षक"
+
+msgid "section.sections"
+msgstr "खंड"
+
+msgid "section.section"
+msgstr "खंड"
+
+msgid "common.queue.short.completed"
+msgstr "पुरालेख"
+
+msgid "common.queue.long.completed"
+msgstr "पुरालेख"
+
+msgid "common.queue.short.active"
+msgstr "सक्रिय"
+
+msgid "common.queue.long.active"
+msgstr "सक्रिय"
+
+msgid "common.queue.short.submissionsInReview"
+msgstr "समीक्षा में"
+
+msgid "common.queue.long.submissionsInReview"
+msgstr "सबमिशन में समीक्षा"
+
+msgid "common.queue.short.submissionsInEditing"
+msgstr "संपादन में"
+
+msgid "common.queue.long.submissionsInEditing"
+msgstr "सबमिशन में संपादन"
+
+msgid "navigation.skip.issue"
+msgstr "वर्तमान अंक पर छोड़ें"
+
+msgid "navigation.skip.about"
+msgstr "जर्नल के बारे में छोड़ें"
+
+msgid "navigation.infoForLibrarians.long"
+msgstr "लाइब्रेरियन के लिए सूचना"
+
+msgid "navigation.infoForAuthors.long"
+msgstr "लेखकों के लिए सूचना"
+
+msgid "navigation.competingInterestGuidelines"
+msgstr "प्रतिस्पर्धा संबंधी दिशानिर्देश"
+
+msgid "navigation.infoForLibrarians"
+msgstr "लाइब्रेरियन के लिए"
+
+msgid "navigation.infoForAuthors"
+msgstr "लेखकों के लिए"
+
+msgid "navigation.browseByAuthor"
+msgstr "लेखक द्वारा"
+
+msgid "navigation.browseByIssue"
+msgstr "अंक द्वारा"
+
+msgid "navigation.current"
+msgstr "वर्तमान"
+
+msgid "common.journalHomepageImage.altText"
+msgstr "जर्नल मुखपृष्ठ छवि"
+
+msgid "common.homePageHeader.altText"
+msgstr "मुख पृष्ठ का शीर्ष लेख"
+
+msgid "common.payments"
+msgstr "भुगतान"
+
+msgid "common.payment"
+msgstr "भुगतान"
+
+msgid "common.software"
+msgstr "ओपन जर्नल सिस्टम"
+
+msgid "navigation.categories.browse"
+msgstr "ब्राउज़"
+
+msgid "navigation.categories"
+msgstr "श्रेणियाँ"
+
+msgid "submissions.proof"
+msgstr "प्रमाण"
+
+msgid "submissions.proofread"
+msgstr "प्रूफ़ संशोधित करना"
+
+msgid "submissions.initial"
+msgstr "प्रारंभिक"
+
+msgid "submissions.published"
+msgstr "प्रकाशित"
+
+msgid "submissions.step3"
+msgstr "चरण 3"
+
+msgid "submissions.step1"
+msgstr "चरण 1"
+
+msgid "submission.scheduling"
+msgstr "निर्धारण"
+
+msgid "submission.proofreading"
+msgstr "प्रूफ़रीडिंग"
+
+msgid "submission.copyediting"
+msgstr "प्रतिलिपि संपादन"
+
+msgid "submission.authorsRevisedVersion"
+msgstr "लेखक का फ़ाइल का संशोधित संस्करण"
+
+msgid "submission.postReviewVersion"
+msgstr "फ़ाइल की समीक्षा के बाद का संस्करण"
+
+msgid "submission.editorAuthorRecord"
+msgstr "संपादक / लेखक ईमेल रिकॉर्ड"
+
+msgid "submission.sent"
+msgstr "भेज दिया"
+
+msgid "article.return"
+msgstr "लेख विवरण पर लौटें"
+
+msgid "article.fontSize.large.altText"
+msgstr "बड़ा"
+
+msgid "article.fontSize.medium.altText"
+msgstr "मध्यम"
+
+msgid "article.fontSize.small.altText"
+msgstr "छोटा"
+
+msgid "user.subscriptions.form.domain"
+msgstr "डोमेन"
+
+msgid "user.subscriptions.form.institutionMailingAddress"
+msgstr "डाक पता"
+
+msgid "user.subscriptions.form.institutionNameRequired"
+msgstr "एक संस्था का नाम आवश्यक है।"
+
+msgid "user.subscriptions.form.institutionName"
+msgstr "संस्था का नाम"
+
+msgid "user.subscriptions.form.membershipInstructions"
+msgstr "मेम्बरशिप जानकारी यदि चयनित सदस्यता प्रकार के लिए आवश्यक है।"
+
+msgid "user.subscriptions.form.subscriptionExists"
+msgstr "इस उपयोगकर्ता खाते में पहले से ही एक व्यक्तिगत सदस्यता है।"
+
+msgid "user.subscriptions.form.typeIdValid"
+msgstr "कृपया एक वैध सदस्यता प्रकार चुनें।"
+
+msgid "user.subscriptions.form.membershipRequired"
+msgstr "चयनित सदस्यता प्रकार को मेम्बरशिप जानकारी की आवश्यकता होती है।"
+
+msgid "user.subscriptions.form.membership"
+msgstr "सदस्यता"
+
+msgid "user.subscriptions.form.typeId"
+msgstr "सदस्यता प्रकार"
+
+msgid "user.subscriptions.viewSubscriptionTypes"
+msgstr "उपलब्ध सदस्यता प्रकार देखें"
+
+msgid "user.subscriptions.expired"
+msgstr "समय सीमा समाप्त: {$date}"
+
+msgid "user.subscriptions.expires"
+msgstr "समय समाप्ति: {$date}"
+
+msgid "user.subscriptions.purchaseInstitutionalSubscription"
+msgstr "क्रय संस्थागत सदस्यता"
+
+msgid "user.subscriptions.purchaseIndividualSubscription"
+msgstr "व्यक्तिगत सदस्यता खरीदें"
+
+msgid "user.subscriptions.purchaseNewSubscription"
+msgstr "नई सदस्यता खरीदें"
+
+msgid "user.subscriptions.purchase"
+msgstr "खरीद"
+
+msgid "user.subscriptions.renew"
+msgstr "नवीकरण"
+
+msgid "user.subscriptions.institutionalSubscriptions"
+msgstr "संस्थागत सदस्यता"
+
+msgid "user.subscriptions.individualSubscriptions"
+msgstr "व्यक्तिगत सदस्यता"
+
+msgid "user.subscriptions.status.awaitingOnlinePaymentDescription"
+msgstr "एक ऑनलाइन भुगतान शुरू किया गया है लेकिन रद्द या पूरा नहीं हुआ है"
+
+msgid "user.subscriptions.status.awaitingManualPaymentDescription"
+msgstr "मैनुअल भुगतान शुरू किया गया है लेकिन अभी तक नहीं मिला है"
+
+msgid "user.subscriptions.status.needsApprovalDescription"
+msgstr "सक्रिय होने से पहले सदस्यता की समीक्षा की जानी चाहिए"
+
+msgid "user.subscriptions.status.needsInformationDescription"
+msgstr "सदस्यता को सक्रिय करने से पहले अतिरिक्त जानकारी की आवश्यकता है"
+
+msgid "user.subscriptions.statusDescription"
+msgstr "विवरण"
+
+msgid "user.subscriptions.status"
+msgstr "स्थिति"
+
+msgid "user.subscriptions.statusInformation"
+msgstr ""
+"सक्रिय और समय सीमा समाप्त सदस्यता उनकी समाप्ति तिथि के साथ प्रदर्शित की जाती "
+"है। इसके अलावा, प्रत्येक सदस्यता के साथ निम्न स्थिति की जानकारी शामिल की जा "
+"सकती है।"
+
+msgid "user.subscriptions.subscriptionStatus"
+msgstr "सदस्यता स्थिति"
+
+msgid "user.subscriptions.mySubscriptions"
+msgstr "मेरी सदस्यता"
+
+msgid "user.register.form.missingSiteConsent"
+msgstr "आपको इस साइट के गोपनीयता कथन के लिए सहमति देनी होगी।"
+
+msgid "user.register.form.missingContextConsent"
+msgstr ""
+"आप जिस भी जर्नल के लिए पंजीकरण कर रहे हैं, उसके लिए आपको गोपनीयता कथन पर "
+"सहमति देनी चाहिए।"
+
+msgid "user.register.form.privacyConsentThisContext"
+msgstr "हां, मैं अपने डेटा को इस जर्नल के <a href=\"{$privacyUrl}\" target=\"_blank\">गोपनीय कथन </a> के अनुसार संग्रहीत करने के लिए सहमत हूं।"
+
+msgid "user.register.form.emailConsentAllContexts"
+msgstr ""
+"हां, मैं उन सभी जर्नल्स के लिए नए प्रकाशनों और घोषणाओं को अधिसूचित करना "
+"चाहूंगा जिनके साथ मैंने पंजीकरण किया था।"
+
+msgid "user.register.reviewerInterests"
+msgstr "समीक्षा संबंधी रुचियों (मूल क्षेत्रों और शोध विधियों) की पहचान करें:"
+
+msgid "user.register.reviewerDescription"
+msgstr "साइट के लिए सबमिशन की सहकर्मी समीक्षा करने की इच्छा करना।"
+
+msgid "user.register.reviewerDescriptionNoInterests"
+msgstr "जर्नल को सबमिशन की सहकर्मी समीक्षा करने के लिए तैयार।"
+
+msgid "user.register.authorDescription"
+msgstr "जर्नल को आइटम प्रस्तुत करने में सक्षम।"
+
+msgid "user.register.openAccessNotificationDescription"
+msgstr ""
+"जब जर्नल के किसी अंक को ओपन एक्सेस किया जाता है तो ईमेल द्वारा सूचित किया "
+"जाता है।"
+
+msgid "user.register.readerDescription"
+msgstr "जर्नल के एक अंक के प्रकाशन पर ईमेल द्वारा सूचित किया गया।"
+
+msgid "user.register.form.passwordLengthTooShort"
+msgstr "आपके द्वारा दर्ज किया गया पासवर्ड लंबा नहीं है।"
+
+msgid "user.register.registrationDisabled"
+msgstr "यह जर्नल वर्तमान में उपयोगकर्ता पंजीकरण स्वीकार नहीं कर रही है।"
+
+msgid "user.register.privacyStatement"
+msgstr "गोपनीयता वाले कथन"
+
+msgid "user.register.noJournals"
+msgstr "इस साइट पर आपके द्वारा पंजीकृत कोई जर्नल्स नहीं है।"
+
+msgid "user.register.selectContext"
+msgstr "इसके साथ पंजीकरण करने के लिए एक जर्नल चुनें:"
+
+msgid "submission.comments.saveAndEmailEditor"
+msgstr "सहेजें और ईमेल संपादक"
+
+msgid "submission.comments.saveAndEmailAuthor"
+msgstr "सहेजें और ईमेल लेखक"
+
+msgid "submission.comments.forEditor"
+msgstr "संपादक के लिए"
+
+msgid "submission.comments.forAuthorEditor"
+msgstr "लेखक और संपादक के लिए"
+
+msgid "submission.comments.blindCcReviewers"
+msgstr ""
+"भेजने के बाद, समीक्षकों को भेजने के लिए एक संपादन योग्य बीसीसी प्रति प्रस्तु"
+"त करें।"
+
+msgid "submission.comments.cannotShareWithAuthor"
+msgstr "संपादक के लिए"
+
+msgid "submission.comments.canShareWithAuthor"
+msgstr "लेखक और संपादक के लिए"
+
+msgid "submission.comments.viewableDescription"
+msgstr ""
+"इन टिप्पणियों को लेखक के साथ साझा किया जा सकता है। <br />\n"
+"(सहेजने के बाद, और टिप्पणियां जोड़ी जा सकती हैं।)"
+
+msgid "submission.comments.copyeditComments"
+msgstr "प्रतिलिपि टिप्पणियां"
+
+msgid "submission.comments.editorAuthorCorrespondence"
+msgstr "संपादक / लेखक पत्राचार"
+
+msgid "submission.logType.proofread"
+msgstr "प्रूफ्रीड"
+
+msgid "submission.logType.layout"
+msgstr "लेआउट"
+
+msgid "submission.logType.copyedit"
+msgstr "प्रतिलिपि"
+
+msgid "submission.logType.review"
+msgstr "समीक्षा"
+
+msgid "submission.logType.editor"
+msgstr "संपादक"
+
+msgid "submission.logType.author"
+msgstr "लेखक"
+
+msgid "submission.logType.article"
+msgstr "लेख"
+
+msgid "submission.proofread.instructions"
+msgstr "प्रूफिंग निर्देश"
+
+msgid "submission.proofread.corrections"
+msgstr "प्रूफरीडिंग सुधार"
+
+msgid "submission.proofreadingComments"
+msgstr "प्रूफरीडिंग टिप्पणियाँ"
+
+msgid "submission.layout.referenceLinking"
+msgstr "संदर्भ लिंकिंग"
+
+msgid "submission.layout.instructions"
+msgstr "लेआउट निर्देश"
+
+msgid "submission.layout.layoutComments"
+msgstr "लेआउट टिप्पणियाँ"
+
+msgid "submission.layout.replaceLayoutEditor"
+msgstr "लेआउट संपादक को बदलें"
+
+msgid "submission.layout.assignLayoutEditor"
+msgstr "लेआउट संपादक असाइन करें"
+
+msgid "submission.layout.galleyPublicIdentificationExists"
+msgstr "सार्वजनिक गैली पहचान पहले से मौजूद है।"
+
+msgid "submission.layout.noLayoutFile"
+msgstr ""
+"कोई भी (अनुरोध भेजने से पहले लेआउट संस्करण के रूप में अंतिम प्रतिलिपि किए गए "
+"संस्करण को अपलोड करें)"
+
+msgid "submission.copyedit.instructions"
+msgstr "प्रतिलिपि के निर्देश"
+
+msgid "submission.copyedit.copyeditComments"
+msgstr "प्रतिलिपि टिप्पणियां"
+
+msgid "submission.copyedit.useFile"
+msgstr "फ़ाइल का उपयोग करें"
+
+msgid "submission.copyedit.selectCopyeditor"
+msgstr "कॉपी संपादक असाइन करें"
+
+msgid "submission.copyedit.copyeditVersion"
+msgstr "सी / ई संस्करण"
+
+msgid "submission.copyedit.finalCopyedit"
+msgstr "अंतिम प्रतिलिपि"
+
+msgid "submission.copyedit.editorAuthorReview"
+msgstr "लेखक प्रतिलिपि"
+
+msgid "submission.copyedit.editorsCopyedit"
+msgstr "संपादक की प्रतिलिपि"
+
+msgid "submission.copyedit.initialCopyedit"
+msgstr "प्रारंभिक प्रतिलिपि"
+
+msgid "submission.copyedit.mustUploadFileForCopyedit"
+msgstr ""
+"जब तक फ़ाइल को कॉपीएडिटिंग करने के लिए अपलोड नहीं किया जाता है तब तक अनुरोध "
+"ईमेल नहीं भेजा जा सकता है।"
+
+msgid "submission.copyedit.mustUploadFileForInitialCopyedit"
+msgstr ""
+"संपादक निर्णय, समीक्षा पृष्ठ में कॉपीएडिटिंग करने के लिए फ़ाइल का चयन होने "
+"तक अनुरोध ईमेल नहीं भेजा जा सकता है।"
+
+msgid "submission.review.mustUploadFileForReview"
+msgstr ""
+"अनुरोध ईमेल तब तक नहीं भेजा जा सकता है जब तक कि समीक्षा संस्करण नहीं है।"
+
+msgid "author.submit.uploadInstructions"
+msgstr ""
+"\n"
+"<p>To upload a manuscript to this journal, complete the following steps.</p>"
+"\n"
+"<ol>\n"
+"<li>On this page, click Browse (or Choose File) which opens a Choose File "
+"window for locating the file on the hard drive of your computer.</li>\n"
+"<li>Locate the file you wish to submit and highlight it.</li>\n"
+"<li>Click Open on the Choose File window, which places the name of the file "
+"on this page.</li>\n"
+"<li>Click Upload on this page, which uploads the file from the computer to "
+"the journal's web site and renames it following the journal's "
+"conventions.</li>\n"
+"<li>Once the submission is uploaded, click Save and Continue at the bottom "
+"of this page.</li>\n"
+"</ol>"
+
+msgid "proofreader.noProofreadingAssignments"
+msgstr "कोई प्रूफरीडिंग असाइनमेंट नहीं"
+
+msgid "copyeditor.article.copyeditorFinalFile"
+msgstr "कॉपी संपादक फ़ाइल"
+
+msgid "copyeditor.article.copyeditorFile"
+msgstr "कॉपी संपादक फ़ाइल"
+
+msgid "copyeditor.article.fileToCopyedit"
+msgstr "फ़ाइल को C / E के लिए"
+
+msgid "reviewer.article.confirmDecision"
+msgstr ""
+"एक बार निर्णय लेने के बाद आप इस समीक्षा में बदलाव नहीं कर पाएंगे। पुष्टि करें"
+" कि आप आगे जारी रखना चाहते हैं?"
+
+msgid "reviewer.article.mustSelectDecision"
+msgstr ""
+"कोई सिफारिश नहीं चुना गया था। सबमिट करने के लिए आपको एक सिफारिश का चयन करना "
+"होगा।"
+
+msgid "reviewer.article.selectRecommendation.byEditor"
+msgstr "समीक्षक की अनुशंसा को सेट या समायोजित करें।"
+
+msgid "reviewer.article.selectRecommendation"
+msgstr ""
+"एक सिफारिश का चयन करें और प्रक्रिया को पूरा करने के लिए समीक्षा सबमिट करें। "
+"सिफारिश का चयन करने से पहले आपको एक समीक्षा दर्ज करनी चाहिए या एक फ़ाइल अपलो"
+"ड करनी चाहिए।"
+
+msgid "reviewer.article.uploadFile"
+msgstr ""
+"इसके अलावा, आप संपादक और / या लेखक के परामर्श के लिए फाइलें अपलोड कर सकते "
+"हैं।"
+
+msgid "reviewer.article.enterReviewA"
+msgstr ""
+"इस सबमिशन की अपनी समीक्षा दर्ज करने (या पेस्ट) करने के लिए आइकन पर क्लिक "
+"करें।"
+
+msgid "reviewer.competingInterests"
+msgstr "प्रतिस्पर्धी रुचियां"
+
+msgid "reviewer.article.enterCompetingInterests"
+msgstr ""
+"घोषणा करें कि आपके पास इस शोध के संबंध में प्रतिस्पर्धी रुचियां हैं या नहीं "
+"(देखें <a target='_new' class='action' "
+"href='{$competingInterestGuidelinesUrl}'>CI Policy</a>)."
+
+msgid "reviewer.article.downloadSubmission"
+msgstr ""
+"डाउनलोड करने और समीक्षा करने के लिए फ़ाइल नामों पर क्लिक करें (स्क्रीन पर या "
+"प्रिंटिंग करके) इस सबमिशन से जुड़ी फाइलें।"
+
+msgid "reviewer.article.consultGuidelines"
+msgstr ""
+"यदि आप समीक्षा करने जा रहे हैं, तो नीचे समीक्षक दिशानिर्देशों से परामर्श "
+"करें।"
+
+msgid "reviewer.article.notifyEditorB"
+msgstr "के रूप में है कि क्या आप समीक्षा शुरू करेंगे ।"
+
+msgid "reviewer.article.notifyEditorA"
+msgstr "सबमिशन संपादक को सूचित करें"
+
+msgid "reviewer.article.reviewGuidelinesDescription"
+msgstr ""
+"समीक्षा दिशानिर्देश समीक्षाकर्ताओं को जर्नल में प्रकाशन के लिए प्रस्तुत करने "
+"की उपयुक्तता को निर्धारित करने के लिए मानदंड प्रदान करेंगे, और एक प्रभावी और "
+"उपयोगी समीक्षा तैयार करने के लिए कोई विशेष निर्देश शामिल कर सकते हैं। समीक्षा"
+" का संचालन करने में, समीक्षकों को दो खुले पाठ बक्से के साथ प्रस्तुत किया जाता"
+" है, पहला \"लेखक और संपादक के लिए,\" और दूसरा \"संपादक के लिए।\" वैकल्पिक रू"
+"प से, जर्नल प्रबंधक समीक्षा प्रपत्र के तहत एक सहकर्मी समीक्षा प्रपत्र बना "
+"सकता है। सभी मामलों में, संपादकों के पास लेखक के अनुरूप समीक्षाओं को शामिल "
+"करने का विकल्प होगा।"
+
+msgid "reviewer.article.reviewerGuidelines"
+msgstr "समीक्षक दिशानिर्देश"
+
+msgid "reviewer.article.reviewSteps"
+msgstr "स्टेप्स की समीक्षा करें"
+
+msgid "reviewer.article.reviewSchedule"
+msgstr "अनुसूची की समीक्षा करें"
+
+msgid "reviewer.article.submissionToBeReviewed"
+msgstr "सबमिशन किया जाना है"
+
+msgid "reviewer.article.schedule"
+msgstr "अनुसूची"
+
+msgid "reviewer.article.decision.seeComments"
+msgstr "टिप्पणी देखो"
+
+msgid "reviewer.article.decision.decline"
+msgstr "सबमिशन घटाना"
+
+msgid "reviewer.article.decision.resubmitElsewhere"
+msgstr "कहीं और फिर से जमा करें"
+
+msgid "reviewer.article.decision.resubmitHere"
+msgstr "समीक्षा के लिए पुनः सबमिट करें"
+
+msgid "reviewer.article.decision.pendingRevisions"
+msgstr "संशोधन आवश्यक है"
+
+msgid "reviewer.article.decision.accept"
+msgstr "सबमिशन स्वीकार करें"
+
+msgid "reviewer.article.schedule.due"
+msgstr "देय की समीक्षा करें"
+
+msgid "reviewer.article.schedule.submitted"
+msgstr "सबमिशन की समीक्षा करें"
+
+msgid "reviewer.article.schedule.response"
+msgstr "तुम्हारा जवाब"
+
+msgid "reviewer.article.schedule.request"
+msgstr "संपादक का अनुरोध"
+
+msgid "reviewer.article.reviewersAnnotatedVersionDescription"
+msgstr ""
+"(यदि आप संपादक के लिए फ़ाइल को एनोटेट करना चाहते हैं, तो अपनी हार्ड ड्राइव "
+"पर सेव करें और ब्राउज़ / अपलोड का उपयोग करें।)"
+
+msgid "reviewer.article.reviewersAnnotatedVersion"
+msgstr "संस्करण समीक्षक द्वारा अपलोड किया गया"
+
+msgid "reviewer.article.uploadedFile"
+msgstr "अपलोड की गई फाइलें"
+
+msgid "reviewer.article.reviewerComments"
+msgstr "टिप्पणियाँ"
+
+msgid "reviewer.article.submitReview"
+msgstr "संपादक को समीक्षा भेजें"
+
+msgid "reviewer.article.recommendation"
+msgstr "सिफ़ारिश करना"
+
+msgid "reviewer.article.automatic"
+msgstr "(स्वत:)"
+
+msgid "reviewer.article.sendReminder"
+msgstr "याद दिलाना"
+
+msgid "reviewer.article.editorToEnter"
+msgstr "प्रवेश करने के लिए संपादक"
+
+msgid "reviewer.article.reviewerCommentsDescription"
+msgstr "यहां समीक्षा टिप्पणियों में टाइप या पेस्ट करें"
+
+msgid "reviewer.article.submissionEditor"
+msgstr "सबमिशन संपादक"
+
+msgid "reviewer.article.restrictedFileAccess"
+msgstr ""
+"सबमिशन उपलब्ध कराया जाएगा, यदि और जब समीक्षक समीक्षा करने के लिए सहमत हो"
+
+msgid "reviewer.article.cannotDoReview"
+msgstr "समीक्षा करने में असमर्थ"
+
+msgid "reviewer.article.canDoReview"
+msgstr "समीक्षा करेंगे"
+
+msgid "reviewer.article.notifyTheEditor"
+msgstr "संपादक को सूचित करें"
+
+msgid "reviewer.article.fileToBeReviewed"
+msgstr "फाइल की समीक्षा की जाएगी"
+
+msgid "reviewer.averageQuality"
+msgstr "रेटिंग"
+
+msgid "reviewer.completedReviews"
+msgstr "किया हुआ"
+
+msgid "reviewer.pendingReviews"
+msgstr "लेख लंबित समीक्षा"
+
+msgid "submission.layout.galley.remoteURL"
+msgstr "दूरस्थ रूप से होस्ट की गई सामग्री का URL"
+
+msgid "submission.layout.galley.remotelyHostedContent"
+msgstr "यह गैली एक अलग वेबसाइट पर उपलब्ध होगी।"
+
+msgid "submission.layout.imageInvalid"
+msgstr "अमान्य छवि प्रारूप। स्वीकृत प्रारूप हैं .gif, .jpg और .png।"
+
+msgid "layoutEditor.galley.uploadSuppFile"
+msgstr "अनुपूरक फ़ाइल अपलोड करें"
+
+msgid "layoutEditor.galley.replaceGalley"
+msgstr "फ़ाइल बदलें"
+
+msgid "layoutEditor.galley.uploadGalleyFormat"
+msgstr "गैली प्रारूप अपलोड करें"
+
+msgid "layoutEditor.layoutEditingAssignments"
+msgstr "लेआउट संपादन असाइनमेंट"
+
+msgid "layoutEditor.noActiveAssignments"
+msgstr "कोई सक्रिय संपादकीय असाइनमेंट नहीं।"
+
+msgid "layoutEditor.completedEditorialAssignments"
+msgstr "सम्पूर्ण संपादकीय असाइनमेंट"
+
+msgid "layoutEditor.activeEditorialAssignments"
+msgstr "सक्रिय संपादकीय असाइनमेंट"
+
+msgid "sectionEditor.review.createReviewer"
+msgstr "नया समीक्षक बनाएँ"
+
+msgid "sectionEditor.review.enrollReviewer"
+msgstr "समीक्षक के रूप में एक मौजूदा उपयोगकर्ता का नामांकन करें"
+
+msgid "sectionEditor.regrets.result"
+msgstr "परिणाम"
+
+msgid "sectionEditor.regrets.regret"
+msgstr "पछतावा"
+
+msgid "sectionEditor.regrets.regretsAndCancels"
+msgstr "समीक्षक पछतावा और रद्द करना"
+
+msgid "sectionEditor.regrets.decisionRound"
+msgstr "संपादक का निर्णय, दौर {$round}"
+
+msgid "sectionEditor.regrets.reviewRound"
+msgstr "सहकर्मी की समीक्षा, दौर {$round}"
+
+msgid "sectionEditor.regrets.link"
+msgstr "पछतावा, रद्द, पिछले सीमा देखें"
+
+msgid "sectionEditor.regrets"
+msgstr "पछतावा"
+
+msgid "sectionEditor.regrets.title"
+msgstr "{{$सबमिशन}} समीक्षक पछतावा, रद्द करना और पहले की सीमा"
+
+msgid "sectionEditor.regrets.breadcrumb"
+msgstr "पछतावा"
+
+msgid "sectionEditor.proofreader.confirmRenotify"
+msgstr ""
+"इस प्रूफ़रीडर को फिर से सूचित करने से उनका असाइनमेंट फिर से शुरू हो जाएगा। "
+"क्या आप वाकई ऐसा करने की इच्छा रखते हैं?"
+
+msgid "sectionEditor.layout.confirmRenotify"
+msgstr ""
+"इस लेआउट एडिटर को फिर से सूचित करने से उनका असाइनमेंट फिर से शुरू हो जाएगा। "
+"क्या आप वाकई ऐसा करने की इच्छा रखते हैं?"
+
+msgid "sectionEditor.author.confirmRenotify"
+msgstr ""
+"इस लेखक को फिर से सूचित करना की उनके असाइनमेंट को फिर से शुरू करे। क्या आप वा"
+"कई ऐसा करने की इच्छा रखते हैं?"
+
+msgid "sectionEditor.copyedit.confirmRenotify"
+msgstr ""
+"इस कॉपी एडिटर को फिर से सूचित करने से उनका असाइनमेंट फिर से शुरू हो जाएगा। "
+"क्या आप वाकई ऐसा करने की इच्छा रखते हैं?"
+
+msgid "sectionEditor.noneAssigned"
+msgstr "कोई सबमिशन नहीं सौंपा गया।"
+
+msgid "sectionEditor.completedEditorialAssignments"
+msgstr "सम्पूर्ण संपादकीय असाइनमेंट"
+
+msgid "sectionEditor.activeEditorialAssignments"
+msgstr "सक्रिय संपादकीय असाइनमेंट"
+
+msgid "editor.submissionEditing.notes"
+msgstr ""
+"\n"
+"\t<ol>\n"
+"\t<li>Highlighted items indicate action is required by an editor, labelled "
+"as follows:\n"
+"\t\t<ul>\n"
+"\t\t\t<li class=\"highlightCopyediting\">An action is required in the "
+"copyediting stage</li>\n"
+"\t\t\t<li class=\"highlightLayoutEditing\">An action is required in the "
+"layout editing stage</li>\n"
+"\t\t\t<li class=\"higlightProofreading\">An action is required in the "
+"proofreading stage</li>\n"
+"\t\t</ul>\n"
+"\t</li>\n"
+"</ol>"
+
+msgid "editor.submissionReview.notes"
+msgstr ""
+"\n"
+"\t<ol>\n"
+"\t<li>Highlighted items indicate action is required by an editor, labelled "
+"as follows:\n"
+"\t\t<ul>\n"
+"\t\t\t<li class=\"highlightReviewerNotNotified\">A Reviewer has been "
+"assigned but not notified by email</li>\n"
+"\t\t\t<li class=\"highlightNoDecision\">All Reviewers have returned with "
+"their comments, but no decision is recorded</li>\n"
+"\t\t\t<li class=\"highlightRevisedCopyUploaded\">Author has uploaded a "
+"revised manuscript</li>\n"
+"\t\t\t<li class=\"highlightReviewerConfirmationOverdue\">Reviewer is overdue "
+"to confirm peer review invitation</li>\n"
+"\t\t\t<li class=\"highlightReviewerCompletionOverdue\">Reviewer is overdue "
+"to complete review</li>\n"
+"\t\t</ul>\n"
+"\t</li>\n"
+"\t<li>\"Due\" is filled in when reviewer accepts request to review; it "
+"displays number of weeks to review's due date or (-) weeks that it is "
+"overdue.</li>\n"
+"</ol>"
+
+msgid "manager.people.noAdministrativeRights"
+msgstr ""
+"Sorry, you do not have administrative rights over this user. This may be "
+"because:\n"
+"\t\t<ul>\n"
+"\t\t\t<li>The user is a site administrator</li>\n"
+"\t\t\t<li>The user is active in journals you do not manage</li>\n"
+"\t\t</ul>\n"
+"\tThis task must be performed by a site administrator.\n"
+"\t"
+
+msgid "manager.people.confirmDisable"
+msgstr ""
+"इस उपयोगकर्ता को अक्षम करें? यह उपयोगकर्ता को सिस्टम में लॉग इन करने से "
+"रोकेगा।\n"
+"\n"
+"आप वैकल्पिक रूप से उपयोगकर्ता को उनके खाते को अक्षम करने का कारण प्रदान कर "
+"सकते हैं।"
+
+msgid "manager.setup.referenceLinkingDescription"
+msgstr ""
+"<p>To enable readers to locate online versions of the work cited by an "
+"author, the following options are available.</p>\n"
+"\n"
+"<ol>\n"
+"\t<li><strong>Add a Reading Tool</strong><p>The Journal Manager can add \""
+"Find References\" to the Reading Tools that accompany published items, which "
+"enables readers to paste a reference's title and then search pre-selected "
+"scholarly databases for the cited work.</p></li>\n"
+"\t<li><strong>Embed Links in the References</strong><p>The Layout Editor can "
+"add a link to references that can be found online by using the following "
+"instructions (which can be edited).</p></li>\n"
+"</ol>"
+
+msgid "manager.setup.basicEditorialStepsDescription"
+msgstr ""
+"स्टेप्स: सबमिशन क्यू &gt; सबमिशन रिव्यू &gt; सबमिशन एडिटिंग &gt; विषय-तालिका "
+"। <br/><br/> संपादकीय प्रक्रिया के इन पहलुओं को संभालने के लिए एक मॉडल का "
+"चयन करें । (एक प्रबंध संपादक और अनुभाग संपादकों को नामित करने के लिए, जर्नल "
+"प्रबंधन में संपादकों के पास जाएं।)"
+
+msgid "subscriptionManager.subscriptionTypes"
+msgstr "सदस्यता प्रकार"
+
+msgid "subscriptionManager.institutionalSubscriptions"
+msgstr "संस्थागत सदस्यता"
+
+msgid "subscriptionManager.individualSubscriptions"
+msgstr "व्यक्तिगत सदस्यताएँ"
+
+msgid "subscriptionManager.subscriptionManagement"
+msgstr "सदस्यता प्रबंधन"
+
+msgid "comments.commentsOnArticle"
+msgstr "इस लेख पर टिप्पणियाँ"
+
+msgid "reader.subscriptionOrFeeAccess"
+msgstr "सदस्यता या शुल्क की आवश्यकता है"
+
+msgid "submission.event.layout.layoutGalleyCreated"
+msgstr "लेआउट गैली अपडेट किया गया"
+
+msgid "submission.event.layout.layoutEditorUnassigned"
+msgstr "लेआउट संपादक सबमिशन करने से अप्रकाशित है"
+
+msgid "submission.event.layout.layoutEditorAssigned"
+msgstr "लेआउट संपादक सबमिशन करने के लिए सौंपा"
+
+msgid "submission.event.copyedit.copyeditSetFile"
+msgstr "प्रतिलिपि फ़ाइल अपडेट की गई"
+
+msgid "submission.event.copyedit.copyeditFinalCompleted"
+msgstr "अंतिम  प्रतिलिपि पूर्ण हुई"
+
+msgid "submission.event.copyedit.copyeditInitialCompleted"
+msgstr "प्रारंभिक प्रतिलिपि पूरी हुई"
+
+msgid "subscriptions.status.other"
+msgstr "अन्य, नोट्स देखें"
+
+msgid "subscriptions.status.awaitingOnlinePayment"
+msgstr "ऑनलाइन भुगतान की प्रतीक्षा है"
+
+msgid "subscriptions.status.awaitingManualPayment"
+msgstr "मैनुअल भुगतान की प्रतीक्षा है"
+
+msgid "subscriptions.status.active"
+msgstr "सक्रिय"
+
+msgid "subscriptions.status"
+msgstr "स्थिति"
+
+msgid "subscriptions.inactive"
+msgstr "निष्क्रिय"
+
+msgid "subscriptionTypes.format.printOnline"
+msgstr "प्रिंट और ऑनलाइन"
+
+msgid "subscriptionTypes.nonExpiring"
+msgstr "गैर समाप्त"
+
+msgid "issue.return"
+msgstr "अंक विवरण पर लौटें"
+
+msgid "issue.nonpdf.title"
+msgstr "अंक डाउनलोड"
+
+msgid "issue.coverPage.altText"
+msgstr "आवरण पृष्ठ"
+
+msgid "issue.abstract"
+msgstr "सार"
+
+msgid "issue.toc"
+msgstr "सामग्री की तालिका"
+
+msgid "issue.year"
+msgstr "वर्ष"
+
+msgid "issue.number"
+msgstr "संख्या"
+
+msgid "issue.volume"
+msgstr "वाल्यूम"
+
+msgid "issue.title"
+msgstr "शीर्षक"
+
+msgid "issue.issues"
+msgstr "अंक"
+
+msgid "issue.issue"
+msgstr "अंक"
+
+msgid "user.role.managers"
+msgstr "जर्नल प्रबंधकों"
+
+msgid "user.role.manager"
+msgstr "जर्नल प्रबंधक"
+
+msgid "user.noRoles.regReviewer"
+msgstr "एक समीक्षक के रूप में पंजीकृत करें"
+
+msgid "user.noRoles.submitArticle"
+msgstr "प्रस्ताव प्रस्तुत करें"
+
+msgid "user.manageMySubscriptions"
+msgstr "मेरी सदस्यता प्रबंधित करें"
+
+msgid "user.registerForOtherJournals"
+msgstr "अन्य जर्नल्स के लिए पंजीकरण करें"
+
+msgid "user.showAllJournals"
+msgstr "मेरी जर्नल्स दिखाएँ"
+
+msgid "journal.viewAllIssues"
+msgstr "सभी अंक देखें"
+
+msgid "journal.path"
+msgstr "पथ"
+
+msgid "context.contexts"
+msgstr "जर्नल्स"
+
+msgid "submission.search"
+msgstr "लेख खोज"
+
+msgid "user.subscriptions.form.addIpRange"
+msgstr "जोड़ना"
+
+msgid "user.subscriptions.form.deleteIpRange"
+msgstr "हटाएं"
+
+msgid "user.subscriptions.form.ipRangeValid"
+msgstr "कृपया एक मान्य IP श्रेणी दर्ज करें।"
+
+msgid "user.subscriptions.form.ipRangeInstructions"
+msgstr ""
+"यदि आईपी रेंज यहां दर्ज की जाती है, तो डोमेन वैकल्पिक है। <br /> मान्य मानों "
+"में एक आईपी पता (जैसे 142.58.103.1), आईपी रेंज (जैसे 142.58.103.1 - "
+"142.58.103.4), वाइल्डकार्ड के साथ आईपी रेंज शामिल है * '( उदा। 142.58। *। *)"
+", और सीआईडीआर के साथ एक आईपी रेंज (जैसे 142.58.100.0/24)।"
+
+msgid "user.subscriptions.form.ipRangeItem"
+msgstr "&#8226;"
+
+msgid "user.subscriptions.form.ipRange"
+msgstr "आईपी रेंज"
+
+msgid "user.subscriptions.form.domainValid"
+msgstr "कृपया एक मान्य डोमेन दर्ज करें।"
+
+msgid "user.subscriptions.form.domainIPRangeRequired"
+msgstr ""
+"चयनित सदस्यता प्रकार को सदस्यता प्रमाणीकरण के लिए एक डोमेन और / या एक आईपी "
+"रेंज की आवश्यकता होती है।"
+
+msgid "user.subscriptions.form.domainInstructions"
+msgstr ""
+"यदि एक डोमेन यहां दर्ज किया गया है, तो आईपी रेंज वैकल्पिक हैं। <br /> वैध मा"
+"न डोमेन नाम हैं (उदा। Lib.sfu.ca)।"
+
+msgid "site.upgradeAvailable.manager"
+msgstr ""
+"OJS का एक नया संस्करण उपलब्ध है! आप वर्तमान में OJS {$currentVersion} का "
+"उपयोग कर रहे हैं। सबसे हालिया संस्करण OJS {$latestVersion} है। इस नई रिलीज़ "
+"की सूचना देने के लिए कृपया अपने साइट एडमिनिस्ट्रेटर ({$siteAdminName}, <a href=\"mailto:{$siteAdminEmail}\">{$siteAdminEmail}</a>)
+"संपर्क करें। अधिक जानकारी <a href=\"http://pkp.sfu.ca/ojs_download\"target="
+"\"_new\"> यहां </a> देखी जा सकती है।"
+
+msgid "site.upgradeAvailable.admin"
+msgstr ""
+"OJS का एक नया संस्करण उपलब्ध है! आप वर्तमान में OJS {$currentVersion} का "
+"उपयोग कर रहे हैं। सबसे हालिया संस्करण OJS {$latestVersion} है। हाल के संस्"
+"करण को डाउनलोड करने और अपग्रेड निर्देश खोजने के लिए कृपया <a href=\""
+"http://pkp.sfu.ca/ojs_download\"target=\"_new\"> इस पृष्ठ </a> पर जाएं।"
+
+msgid "installer.upgradeComplete"
+msgstr ""
+"<p> OJS के संस्करण {$संस्करण} का उन्नयन सफलतापूर्वक पूरा हो गया है। </ p>\n"
+"<p> अपने config.inc.php कॉन्फ़िगरेशन फ़ाइल में \"स्थापित\" सेटिंग को वापस "
+"<em> चालू / एम> </ p> पर सेट करना न भूलें।\n"
+"<p> यदि आपने पहले से पंजीकरण नहीं किया है और समाचार और अपडेट प्राप्त करना "
+"चाहते हैं, तो <strong> कृपया <a href=\"http://pkp.sfu.ca/ojs/register\" "
+"target=\"_new\"> http पर पंजीकरण करें : //pkp.sfu.ca/ojs/register </a> </ "
+"strong> यदि आपका कोई प्रश्न या टिप्पणी है, तो कृपया <a href = \""
+"http://forum.pkp.sfu.ca\" लक्ष्य = पर जाएं। \"_new\"> समर्थन मंच </a>। </ p>"
+
+msgid "installer.installationComplete"
+msgstr ""
+"<p> OJS की स्थापना सफलतापूर्वक पूर्ण हो गई है। </ p>\n"
+"<p> सिस्टम का उपयोग शुरू करने के लिए, पिछले पृष्ठ पर दर्ज किए गए उपयोगकर्ता "
+"नाम और पासवर्ड के साथ <a href=\"lights$loginUrlarios\"> लॉगिन </a> करें। </ "
+"p>\n"
+"<p> यदि आप PKP समुदाय का हिस्सा बनना चाहते हैं, तो आप: </ p> कर सकते हैं\n"
+"<Ol>\n"
+"\t<li>Read the <a href='http://pkp.sfu.ca/blog' target='_new'>PKP blog</a> "
+"and follow the <a href='http://pkp.sfu.ca/blog/feed' target='_new'>RSS "
+"feed</a> समाचार और अपडेट के लिए </li>\n"
+"यदि आपके कोई प्रश्न या टिप्पणी हैं तो <a href=\"http://forum.pkp.sfu.ca\" "
+"target=\"_new\"> समर्थन मंच </a> पर जाएं। </ li>\n"
+"</ Ol>"
+
+msgid "installer.overwriteConfigFileInstructions"
+msgstr ""
+"<H4> महत्वपूर्ण! </ H4>\n"
+"<p> इंस्टॉलर स्वतः कॉन्फ़िगरेशन फ़ाइल को अधिलेखित नहीं कर सकता है। सिस्टम का "
+"उपयोग करने का प्रयास करने से पहले, कृपया उपयुक्त टेक्स्ट एडिटर में <tt> "
+"config.inc.php </ tt> खोलें और इसकी सामग्री को नीचे दिए गए टेक्स्ट फ़ील्ड की "
+"सामग्री से बदलें। </ p>"
+
+msgid "installer.reinstallAfterDatabaseError"
+msgstr ""
+"<strong> चेतावनी: </ strong> यदि डेटाबेस इंस्टॉलेशन के माध्यम से इंस्टॉलेशन "
+"विफल हो गया है, तो आपको डेटाबेस को फिर से स्थापित करने का प्रयास करने से पहले"
+" अपने ओजेएस डेटाबेस या डेटाबेस टेबल को छोड़ने की आवश्यकता हो सकती है।"
+
+msgid "installer.upgradeApplication"
+msgstr "ओपन जर्नल सिस्टम को अपग्रेड करें"
+
+msgid "installer.installApplication"
+msgstr "ओपन जर्नल सिस्टम स्थापित करें"
+
+msgid "installer.databaseSettingsInstructions"
+msgstr ""
+"OJS को अपने डेटा को संग्रहीत करने के लिए SQL डेटाबेस तक पहुँच की आवश्यकता "
+"होती है। समर्थित डेटाबेस की सूची के लिए ऊपर दी गई सिस्टम आवश्यकताएँ देखें। "
+"नीचे दिए गए फ़ील्ड में, डेटाबेस से कनेक्ट करने के लिए उपयोग की जाने वाली "
+"सेटिंग्स प्रदान करें।"
+
+msgid "installer.filesDirInstructions"
+msgstr ""
+"एक मौजूदा निर्देशिका में पूर्ण पथनाम दर्ज करें जहाँ अपलोड की गई फ़ाइलों को "
+"रखा जाना है। यह निर्देशिका सीधे वेब-सुलभ नहीं होनी चाहिए। <strong> कृपया "
+"सुनिश्चित करें कि यह निर्देशिका मौजूद है और स्थापना से पहले लिखने योग्य है। "
+"</ strong> विंडोज पथ के नामों को आगे के स्लैश का उपयोग करना चाहिए, उदा। \"C:/"
+"myjournal/files\"."
+
+msgid "installer.additionalLocalesInstructions"
+msgstr ""
+"इस प्रणाली में समर्थन के लिए किसी भी अतिरिक्त भाषाओं का चयन करें। ये भाषाएं "
+"साइट पर होस्ट की गई जर्नल्स द्वारा उपयोग के लिए उपलब्ध होंगी। साइट प्रशासन "
+"इंटरफ़ेस से किसी भी समय अतिरिक्त भाषाएं भी स्थापित की जा सकती हैं।"
+
+msgid "installer.localeInstructions"
+msgstr ""
+"इस प्रणाली के लिए उपयोग करने वाली प्राथमिक भाषा। यदि आप यहाँ सूचीबद्ध नहीं की"
+" गई भाषाओं के समर्थन में रुचि रखते हैं, तो कृपया OJS प्रलेखन से परामर्श करें।"
+
+msgid "installer.maxFileUploadSize"
+msgstr ""
+"आपका सर्वर वर्तमान में अधिकतम फ़ाइल अपलोड आकार की अनुमति देता है: <strong> {$"
+" maxFileUploadSize} </ strong>"
+
+msgid "installer.allowFileUploads"
+msgstr ""
+"आपका सर्वर वर्तमान में फ़ाइल अपलोड की अनुमति देता है: <strong> {$"
+"allowFileUploads} </ strong>"
+
+msgid "installer.localeSettingsInstructions"
+msgstr ""
+"पूर्ण यूनिकोड (UTF-8) समर्थन के लिए, सभी वर्ण सेट सेटिंग्स के लिए UTF-8 का "
+"चयन करें। कृपया ध्यान दें कि पूर्ण यूनिकोड समर्थन के लिए PHP को <a href=\""
+"http://www.php.net/mbstring\" target=\"_blank\"> mbstring </a> लाइब्रेरी के "
+"समर्थन के साथ संकलित करने की आवश्यकता है (अधिकांश में डिफ़ॉल्ट रूप से सक्षम) "
+"हाल ही में PHP स्थापना)। यदि आपका सर्वर इन आवश्यकताओं को पूरा नहीं करता है, "
+"तो आप विस्तारित वर्ण सेट का उपयोग कर समस्याओं का अनुभव कर सकते हैं।\n"
+"<br /> <br />\n"
+"आपका सर्वर वर्तमान में mbstring का समर्थन करता है: <strong> {$"
+"supportMBString} </ strong>"
+
+msgid "installer.upgradeInstructions"
+msgstr ""
+"<h4> OJS संस्करण {$संस्करण} </ h4>\n"
+"\n"
+"<p> सार्वजनिक ज्ञान परियोजना के <strong> ओपन जर्नल सिस्टम </ strong> डाउनलोड "
+"करने के लिए धन्यवाद। आगे बढ़ने से पहले, कृपया <a href=\" जटिलताओं$"
+"baseUrlarios/docs/README.md\"> README </a> को पढ़ें और <a href=\"elines$"
+"baseUrlarios/docs/UPGRADE.md\"> UPGPADE </ a > इस सॉफ्टवेयर के साथ शामिल "
+"फाइलें। लोक ज्ञान परियोजना और इसकी सॉफ्टवेयर परियोजनाओं के बारे में अधिक "
+"जानकारी के लिए, कृपया <a href=\"http://pkp.sfu.ca/\" target=\"_blank\"> PKP "
+"वेब साइट </a> पर जाएं। यदि आपके पास ओपन जर्नल सिस्टम के बारे में बग रिपोर्ट "
+"या तकनीकी सहायता संबंधी पूछताछ है, तो <a href=\"http://forum.pkp.sfu.ca\" "
+"target=\"_blank\"> सहायता फ़ोरम </a> देखें या PKP के ऑनलाइन पर जाएं < a href "
+"= \"https://github.com/pkp/pkp-lib#issues\" target = \"_ blank\"> बग "
+"रिपोर्टिंग सिस्टम </a>। यद्यपि समर्थन मंच संपर्क का पसंदीदा तरीका है, आप टीम "
+"को <a href=\"mailto:pkp.contact@gmail.com\"> pkp.contact@gmail.com </a> </ p>"
+" पर भी ईमेल कर सकते हैं।\n"
+"<p> यह <strong> दृढ़ता से अनुशंसित </ strong> है कि आप आगे बढ़ने से पहले अपने"
+" डेटाबेस, फ़ाइलें निर्देशिका और OJS स्थापना निर्देशिका का बैकअप लें। </ p>\n"
+"<p> यदि आप <a href=\"http://www.php.net/features.safe-mode\" target=\""
+"_blank\"> PHP सुरक्षित मोड </a> में चल रहे हैं, तो कृपया सुनिश्चित करें कि "
+"max_execution_time निर्देश में आपकी php.ini कॉन्फ़िगरेशन फ़ाइल एक उच्च सीमा "
+"पर सेट है। यदि यह या कोई अन्य समय सीमा (उदा। अपाचे का \"टाइमआउट\" निर्देश) "
+"पहुंच गया है और अपग्रेड प्रक्रिया बाधित है, तो मैनुअल हस्तक्षेप की आवश्यकता "
+"होगी। </ p>"
+
+msgid "installer.preInstallationInstructions"
+msgstr ""
+"\n"
+"<h4>Pre-Installation Steps</h4>\n"
+"\n"
+"\n"
+"<p>1. The following files and directories (and their contents) must be made "
+"writable:</p>\n"
+"<ul>\n"
+"\t<li><tt>config.inc.php</tt> is writable (optional): {$writable_config}</li>"
+"\n"
+"\t<li><tt>public/</tt> is writable: {$writable_public}</li>\n"
+"\t<li><tt>cache/</tt> is writable: {$writable_cache}</li>\n"
+"\t<li><tt>cache/t_cache/</tt> is writable: {$writable_templates_cache}</li>\n"
+"\t<li><tt>cache/t_compile/</tt> is writable: "
+"{$writable_templates_compile}</li>\n"
+"\t<li><tt>cache/_db</tt> is writable: {$writable_db_cache}</li>\n"
+"</ul>\n"
+"\n"
+"<p>2. A directory to store uploaded files must be created and made writable ("
+"see \"File Settings\" below).</p>"
+
+#, fuzzy
+msgid "installer.installationInstructions"
+msgstr ""
+"<h4>OJS Version {$version}</h4>\n"
+"\n"
+"<p>Thank you for downloading the Public Knowledge Project's <strong>Open "
+"Journal Systems</strong>. Before proceeding, please read the <a href=\""
+"{$baseUrl}/docs/README.md\">README</a> file included with this software. For "
+"more information about the Public Knowledge Project and its software "
+"projects, please visit the <a href=\"http://pkp.sfu.ca/\" target=\"_blank\">"
+"PKP web site</a>. If you have bug reports or technical support inquiries "
+"about Open Journal Systems, see the <a href=\"http://forum.pkp.sfu.ca\" "
+"target=\"_blank\">support forum</a> or visit PKP's online <a href=\""
+"https://github.com/pkp/pkp-lib#issues\" target=\"_blank\">bug reporting "
+"system</a>. Although the support forum is the preferred method of contact, "
+"you can also email the team at <a href=\"mailto:pkp.contact@gmail.com\""
+">pkp.contact@gmail.com</a>.</p>\n"
+"\n"
+"<h4>Upgrade</h4>\n"
+"\n"
+"<p>If you are upgrading an existing installation of OJS, <a href=\""
+"{$upgradeUrl}\">click here</a> to proceed.</p>\n"
+"\n"
+"<h4>Recommended system requirements</h4>\n"
+"\n"
+"<ul>\n"
+"\t<li><a href=\"http://www.php.net/\" target=\"_blank\">PHP</a> >= "
+"{$phpRequiredVersion}; you are currently using PHP "
+"{$phpVersion}{$wrongPhpText}</li>\n"
+"\t<li><a href=\"http://www.mysql.com/\" target=\"_blank\">MySQL</a> >= 4.1 "
+"or <a href=\"http://www.postgresql.org/\" target=\"_blank\">PostgreSQL</a> >="
+" 9.1.5</li>\n"
+"\t<li><a href=\"http://httpd.apache.org/\" target=\"_blank\">Apache</a> >= "
+"1.3.2x or >= 2.0.4x or Microsoft IIS 6</li>\n"
+"\t<li>Operating system: Any OS that supports the above software, including <"
+"a href=\"http://www.linux.org/\" target=\"_blank\">Linux</a>, <a href=\""
+"http://www.bsd.org/\" target=\"_blank\">BSD</a>, <a href=\"http://www.oracle."
+"com/sun/\" target=\"_blank\">Solaris</a>, <a href=\"http://www.apple.com/\" "
+"target=\"_blank\">Mac OS X</a>, <a href=\"http://www.microsoft.com/\""
+">Windows</a></li>\n"
+"</ul>\n"
+"\n"
+"<p>As PKP does not have the resources to test every possible combination of "
+"software versions and platforms, no guarantee of correct operation or "
+"support is implied.</p>\n"
+"\n"
+"<p>Changes to these settings can be made after installation by editing the "
+"file <tt>config.inc.php</tt> in the base OJS directory, or using the site "
+"administration web interface.</p>\n"
+"\n"
+"<h4>Supported database systems</h4>\n"
+"\n"
+"<p>OJS has currently only been tested on MySQL and PostgreSQL, although "
+"other database management systems supported by <a href=\""
+"http://adodb.sourceforge.net/\" target=\"_blank\">ADOdb</a> may work (in "
+"full or partially). Compatibility reports and/or code patches for "
+"alternative DBMSs can be sent to the OJS team.</p>\n"
+
+msgid "installer.ojsUpgrade"
+msgstr "OJS अपग्रेड"
+
+msgid "installer.appInstallation"
+msgstr "OJS स्थापना"
+
+msgid "payment.subscription.expires"
+msgstr "समय-सीमा समाप्त"
+
+msgid "payment.subscription.renew"
+msgstr "सदस्यता का नवीनीकरण"
+
+msgid "payment.subscription.purchase"
+msgstr "सदस्यता ख़रीदे"
+
+msgid "payment.membership.ends"
+msgstr "समाप्त होता है"
+
+msgid "payment.membership.renewMembership"
+msgstr "व्यक्तिगत सदस्यता को नवीनीकृत करें"
+
+msgid "payment.membership.buyMembership"
+msgstr "व्यक्तिगत सदस्यता खरीदें"
+
+msgid "payment.publication.publicationPaid"
+msgstr "प्रकाशन शुल्क अदा किया"
+
+msgid "payment.publication.payPublication"
+msgstr "प्रकाशित करने के लिए भुगतान करें"
+
+msgid "payment.submission.paySubmission"
+msgstr "सबमिशन फीस का भुगतान करें"
+
+msgid "payment.donation.makeDonation"
+msgstr "एक दान करें"
+
+msgid "payment.notFound"
+msgstr ""
+"भुगतान का अनुरोध किया गया है, लेकिन अनुरोध समाप्त हो गया है। विवरण के लिए जर्"
+"नल मैनेजर से संपर्क करें।"
+
+msgid "payment.requestPublicationFee"
+msgstr "अनुरोध प्रकाशन शुल्क ({$feeAmount})"
+
+msgid "payment.type.donation"
+msgstr "दान"
+
+msgid "payment.type.subscription"
+msgstr "सदस्यता शुल्क"
+
+msgid "payment.type.purchaseIssue"
+msgstr "अंक शुल्क खरीदें"
+
+msgid "payment.type.purchaseArticle"
+msgstr "लेख शुल्क खरीदें"
+
+msgid "payment.type.membership"
+msgstr "व्यक्तिगत सदस्यता शुल्क"
+
+msgid "payment.type.fastTrack"
+msgstr "फास्ट ट्रैक समीक्षा शुल्क"
+
+msgid "payment.type.publication.required"
+msgstr "प्रकाशन शुल्क भुगतान के लिए देय है।"
+
+msgid "payment.type.publication"
+msgstr "प्रकाशन शुल्क"
+
+msgid "payment.type.submission"
+msgstr "सबमिशन फीस"
+
+msgid "payment.authorFees"
+msgstr "लेखक शुल्क"
+
+msgid "payment.paymentSent"
+msgstr "भुगतान पहले ही भेज दिया गया है"
+
+msgid "payment.paymentReceived"
+msgstr "भुगतान प्राप्त"
+
+msgid "payment.alreadyPaidMessage"
+msgstr ""
+"यदि आपने सबमिशन प्रक्रिया पूरी करने के लिए अपना भुगतान जर्नल को भेज दिया है, "
+"तो इस बॉक्स का चयन करें। भुगतान आने तक सबमिशन की समीक्षा नहीं की जाएगी। भुगता"
+"न निर्देशों को देखने के लिए ऊपर दिए गए भुगतान पर क्लिक करें।"
+
+msgid "payment.alreadyPaid"
+msgstr "पहले से भुगतान किया हुआ"
+
+msgid "payment.waive"
+msgstr "माफ"
+
+msgid "payment.payNow"
+msgstr "अब भुगतान करें"
+
+msgid "payment.paid"
+msgstr "भुगतान किया है"
+
+msgid "payment.loginRequired.forDonation"
+msgstr "डोनेशन करने के लिए आपको लॉग इन होना चाहिए।"
+
+msgid "payment.loginRequired.forIssue"
+msgstr ""
+"आइटम तक पहुंचने के लिए सदस्यता या जारी खरीद की आवश्यकता है। सदस्यता की पुष्टि"
+" करने के लिए, पिछली खरीद या खरीद के अंक पर पहुंचें, जर्नल में लॉग इन करें।"
+
+msgid "payment.loginRequired.forArticle"
+msgstr ""
+"आइटम का उपयोग करने के लिए सदस्यता या लेख खरीद आवश्यक है। सदस्यता को सत्यापित "
+"करने के लिए, पिछली खरीद या लेख खरीदने के लिए, जर्नल में लॉग इन करें।"
+
+msgid "payment.loginRequired"
+msgstr "भुगतान करने के लिए आपको लॉग इन होना चाहिए।"
+
+msgid "donations.thankYouMessage"
+msgstr "योगदान देने के लिए धन्यवाद।आपके योगदान को बहुत सराहा गया है।"
+
+msgid "donations.thankYou"
+msgstr "धन्यवाद"
+
+msgid "help.goToEditPage"
+msgstr "{$SectionTitle} संपादित करें"
+
+msgid "help.searchReturnResults"
+msgstr "खोज परिणामों पर वापस लौटें"
+
+msgid "help.ojsHelpAbbrev"
+msgstr "OJS मदद"
+
+msgid "help.ojsHelp"
+msgstr "ओपन जर्नल प्रणाली मदद"
+
+#, fuzzy
+msgid "about.aboutOJSSite"
+msgstr ""
+"यह साइट ओपन जर्नल सिस्टम {$ojsVersion} का उपयोग करती है, जो ओपन सोर्स जर्नल "
+"प्रबंधन और प्रकाशन सॉफ्टवेयर विकसित, समर्थित और स्वतंत्र रूप से <a href=\""
+"http://pkp.sfu.ca/\"> सार्वजनिक ज्ञान परियोजना <द्वारा वितरित किया जाता है "
+"जीएनयू जनरल पब्लिक लाइसेंस के तहत ।</a>"
+
+msgid "about.aboutOJSJournal"
+msgstr ""
+"यह जर्नल ओपन जर्नल सिस्टम  {$ojsVersion} का उपयोग करती है, जो ओपन सोर्स जर्"
+"नल प्रबंधन और प्रकाशन सॉफ्टवेयर विकसित, समर्थित और स्वतंत्र रूप से  <a href="
+"\"http://pkp.sfu.ca/\"> सार्वजनिक ज्ञान परियोजना द्वारा वितरित किया जाता है "
+"जीएनयू जनरल पब्लिक लाइसेंस के तहत  </a>"
+
+msgid "about.aboutThisPublishingSystem.altText"
+msgstr "OJS संपादकीय और प्रकाशन प्रक्रिया"
+
+msgid "about.aboutThisPublishingSystem"
+msgstr ""
+"OJS / PKP द्वारा प्रकाशन प्रणाली, प्लेटफ़ॉर्म और वर्कफ़्लो के बारे में अधिक "
+"जानकारी।"
+
+msgid "about.memberships"
+msgstr "सदस्यता"
+
+msgid "about.availableSubscriptionTypes"
+msgstr "सदस्यता प्रकार"
+
+msgid "about.subscriptionTypes.cost"
+msgstr "लागत"
+
+msgid "about.subscriptionTypes.duration"
+msgstr "अवधि"
+
+msgid "about.subscriptionTypes.format"
+msgstr "प्रारूप"
+
+msgid "about.subscriptionTypes.name"
+msgstr "नाम"
+
+msgid "about.subscriptionsContact"
+msgstr "सदस्यता संपर्क करें"
+
+msgid "about.subscriptions.institutional"
+msgstr "संस्थागत सदस्यता"
+
+msgid "about.subscriptions.individual"
+msgstr "व्यक्तिगत सदस्यताएँ"
+
+msgid "about.subscriptions"
+msgstr "सदस्यता"
+
+msgid "about.archiving"
+msgstr "संग्रह"
+
+msgid "about.delayedOpenAccessDescription2"
+msgstr "एक अंक प्रकाशित होने के बाद महीना।"
+
+msgid "about.delayedOpenAccessDescription1"
+msgstr "इस जर्नल की सामग्री एक ओपन एक्सेस प्रारूप में उपलब्ध होगी"
+
+msgid "about.delayedOpenAccess"
+msgstr "विलंबित ओपन एक्सेस"
+
+msgid "about.openAccessPolicy"
+msgstr "ओपन एक्सेस नीति"
+
+msgid "about.publicationFrequency"
+msgstr "प्रकाशन की आवृत्ति"
+
+msgid "about.peerReviewProcess"
+msgstr "पीर रिव्यु प्रक्रिया"
+
+msgid "about.authorFeesMessage"
+msgstr "यह जर्नल निम्नलिखित लेखक की फीस लेती है।"
+
+msgid "about.authorFees"
+msgstr "लेखक शुल्क"
+
+msgid "about.privacyStatement"
+msgstr "गोपनीयता वाले कथन"
+
+msgid "about.copyrightNotice"
+msgstr "सर्वाधिकार सूचना"
+
+msgid "about.submissionPreparationChecklist.description"
+msgstr ""
+"प्रस्तुत करने की प्रक्रिया के हिस्से के रूप में, लेखकों को निम्नलिखित सभी "
+"वस्तुओं के साथ अपने सबमिशन के अनुपालन की जांच करना आवश्यक है, और सबमिशन्स उन "
+"लेखकों को वापस की जा सकती हैं जो इन दिशानिर्देशों का पालन नहीं करते हैं।"
+
+msgid "about.submissionPreparationChecklist"
+msgstr "सबमिशन तैयारी चेकलिस्ट"
+
+msgid "about.authorGuidelines"
+msgstr "लेखक दिशानिर्देश"
+
+msgid "about.onlineSubmissions.viewSubmissions"
+msgstr "अपना अपूर्ण सबमिशन्स देखें"
+
+msgid "about.onlineSubmissions.newSubmission"
+msgstr "एक नया सबमिशन करें"
+
+msgid "about.onlineSubmissions.submitToSection"
+msgstr "<a href=\"{$url}\">{$name}</a> अनुभाग में एक नया सबमिशन करें।"
+
+msgid "about.onlineSubmissions.submissionActions"
+msgstr "{$newSubmission} या {$viewSubmissions}।"
+
+msgid "about.onlineSubmissions.registrationRequired"
+msgstr "सबमिशन करने के लिए {$login} या {$register}।"
+
+msgid "about.onlineSubmissions.register"
+msgstr "रजिस्टर करें"
+
+msgid "about.onlineSubmissions.login"
+msgstr "लॉग इन करें"
+
+msgid "about.submissions"
+msgstr "सबमिशन्स"
+
+msgid "about.sectionPolicies"
+msgstr "अनुभाग नीतियाँ"
+
+msgid "about.focusAndScope"
+msgstr "फोकस और स्कोप"
+
+msgid "about.editorialPolicies"
+msgstr "संपादकीय नीतियां"
+
+msgid "about.editorialTeam.biography"
+msgstr "जीवनी"
+
+msgid "about.editorialTeam"
+msgstr "संपादकीय टीम"
+
+msgid "about.history"
+msgstr "जर्नल इतिहास"
+
+msgid "about.aboutContext"
+msgstr "जर्नल के बारे में"
+
+msgid "about.contact"
+msgstr "संपर्क करें"
+
+msgid "about.statistics"
+msgstr "सांख्यिकी"
+
+msgid "archive.issueUnavailable"
+msgstr "अंक अनुपलब्ध"
+
+msgid "archive.browse"
+msgstr "पुराने अंको के माध्यम से ब्राउज़ करें"
+
+msgid "archive.archivesPageNumber"
+msgstr "पुरालेखागार - पृष्ठ {$pageNumber}"
+
+msgid "archive.archives"
+msgstr "पुरालेखागार"
+
+msgid "current.noCurrentIssueDesc"
+msgstr "इस जर्नल्स ने किसी भी अंक को प्रकाशित नहीं किया है।"
+
+msgid "current.noCurrentIssue"
+msgstr "कोई वर्तमान अंक नहीं"
+
+msgid "current.current"
+msgstr "वर्तमान"
+
+msgid "site.noJournals"
+msgstr "कोई जर्नल्स उपलब्ध नहीं है।"
+
+msgid "site.journalCurrent"
+msgstr "नया अंक"
+
+msgid "site.journalRegister"
+msgstr "रजिस्टर करें"
+
+msgid "site.journalView"
+msgstr "जर्नल देखें"
+
+msgid "site.journalsHosted"
+msgstr "इस साइट पर आयोजित जर्नल्स"
+
+msgid "article.nonpdf.note"
+msgstr ""
+"आपके द्वारा चुनी गई फ़ाइल को स्वचालित रूप से डाउनलोड करना शुरू करना चाहिए। "
+"यदि ऐसा नहीं होता है, तो नीचे दिए गए लिंक पर क्लिक करें। ध्यान दें कि इस फ़ा"
+"इल को देखने के लिए एक विशेष दर्शक या प्लग इन की आवश्यकता हो सकती है। <br /> <"
+"br /> यदि फ़ाइल स्वचालित रूप से डाउनलोड नहीं होती है, तो <a href=\"elling>"
+"urlenders\"> यहां क्लिक करें </a>।"
+
+msgid "article.nonpdf.title"
+msgstr "लेख डाउनलोड करें"
+
+msgid "article.pluginMissing"
+msgstr ""
+"<p>The PDF file you selected should load here if your Web browser has a PDF "
+"reader plugin installed (for example, a recent version of <a href=\""
+"https://get.adobe.com/reader/\">Adobe Acrobat Reader</a>).</p>"
+
+msgid "article.download"
+msgstr "इस पीडीएफ फाइल को डाउनलोड करें"
+
+msgid "article.pdf.title"
+msgstr "पोर्टेबल दस्तावेज़ प्रारूप (पीडीएफ)"
+
+msgid "article.pageTitle"
+msgstr "{$title} देखें"
+
+msgid "search.syntaxInstructions"
+msgstr ""
+"Search tips: <ul>\n"
+"<li>Search terms are case-insensitive</li>\n"
+"<li>Common words are ignored</li>\n"
+"<li>By default only articles containing <em>all</em> terms in the query are "
+"returned (i.e., <em>AND</em> is implied)</li>\n"
+"<li>Combine multiple words with <em>OR</em> to find articles containing "
+"either term; e.g., <em>education OR research</em></li>\n"
+"<li>Use parentheses to create more complex queries; e.g., <em>archive (("
+"journal OR conference) NOT theses)</em></li>\n"
+"<li>Search for an exact phrase by putting it in quotes; e.g., <em>\"open "
+"access publishing\"</em></li>\n"
+"<li>Exclude a word by prefixing it with <strong>-</strong> or <em>NOT</em>; "
+"e.g. <em>online -politics</em> or <em>online NOT politics</em></li>\n"
+"<li>Use <strong>*</strong> in a term as a wildcard to match any sequence of "
+"characters; e.g., <em>soci* morality</em> would match documents containing \""
+"sociological\" or \"societal\"</li>\n"
+"</ul>"
+
+msgid "search.authorDetails"
+msgstr "लेखक का विवरण"
+
+msgid "search.authorIndex"
+msgstr "लेखक सूचकांक ब्राउज़ करें"
+
+msgid "search.allJournals"
+msgstr "सभी जर्नल"
+
+msgid "search.withinJournal"
+msgstr "अंदर"
+
+msgid "search.searchFor"
+msgstr "के लिए लेख खोजें"
+
+msgid "search.browseAuthorIndex"
+msgstr "लेखक सूचकांक ब्राउज़ करें"
+
+msgid "log.review.reviewerRated"
+msgstr ""
+"{$reviewerName} को राउंड {$round} सबमिशन {$submissionId} की समीक्षा के लिए रे"
+"ट किया गया है।"
+
+msgid "log.review.reviewInitiated"
+msgstr ""
+"{{$submissionId} सबमिशन करने के लिए {$reviewerName} द्वारा राउंड {$round} "
+"की समीक्षा शुरू की गई है।"
+
+msgid "log.review.reviewerUnassigned"
+msgstr ""
+"{$reviewerName} समीक्षा दौर {$round} के लिए समीक्षा प्रस्तुत करने "
+"{{submissionId}} से अप्रकाशित किया गया है।"
+
+msgid "log.author.documentRevised"
+msgstr ""
+"{$authorName} ने लेख {$submissionId} संशोधित किया है। नई फ़ाइल आईडी {$"
+"fileId} है।"
+
+msgid "catalog.sortBy.categoryDescription"
+msgstr "इस श्रेणी में लेख क्रम करने का तरीका चुनें।"
+
+msgid "catalog.sortBy"
+msgstr "लेखों का क्रम"
+
+msgid "log.editor.submissionExpedited"
+msgstr "{$editorName} ने लेख के लिए संपादन प्रक्रिया ली है {$submissionId}।"
+
+msgid "navigation.subscriptions"
+msgstr "सदस्यता"
+
+msgid "editor.issues.futureIssues"
+msgstr "भविष्य के अंक"
+
+msgid "editor.issues.backIssues"
+msgstr "पिछले अंक"
+
+msgid "search.cli.rebuildIndex.unknownJournal"
+msgstr ""
+"दिए गए जर्नल पथ \"{$journalPath}\" को किसी जर्नल से हल नहीं किया जा सकता है।"
+
+msgid "search.cli.rebuildIndex.indexingByJournalNotSupported"
+msgstr "यह खोज कार्यान्वयन प्रति-पत्रिका पुन: अनुक्रमण की अनुमति नहीं देता है।"
+
+msgid "search.cli.rebuildIndex.indexing"
+msgstr "अनुक्रमण \"{$journalName}\""
+
+msgid "grid.catalogEntry.approvedRepresentation.removeMessage"
+msgstr "<p> इस गैली का अनुमोदन हटाएँ। </ p>"
+
+msgid "grid.catalogEntry.approvedRepresentation.message"
+msgstr "<p> प्रकाशन के लिए इस गैली को स्वीकृत करें। </ p>"
+
+msgid "grid.catalogEntry.approvedRepresentation.title"
+msgstr "गैली अनुमोदन"
+
+msgid "grid.catalogEntry.availableRepresentation.notApproved"
+msgstr "अनुमोदन का इंतजार।"
+
+msgid "grid.catalogEntry.availableRepresentation.approved"
+msgstr "स्वीकृत"
+
+msgid "article.view.interstitial"
+msgstr "कृपया डाउनलोड करने के लिए एक लेख फ़ाइल चुनें।"
+
+msgid "user.profile.form.hideOtherContexts"
+msgstr "अन्य जर्नल्स को छिपाएं"
+
+msgid "user.profile.form.showOtherContexts"
+msgstr "अन्य जर्नल्स के साथ रजिस्टर करें"
+
+msgid "notification.type.approveSubmissionTitle"
+msgstr "अनुमोदन का इंतजार।"
+
+msgid "notification.type.approveSubmission"
+msgstr "यह सबमिशन जारी होने से पहले इस अंक में मंजूरी का इंतजार कर रहा है।"
+
+msgid "editor.navigation.issues"
+msgstr "अंक"
+
+msgid "grid.action.createContext"
+msgstr "एक नया जर्नल बनाएँ"
+
+msgid "user.authorization.invalidCopyditorSubmission"
+msgstr ""
+"अमान्य प्रतिलिपि संपादक सबमिशन या कोई प्रतिलिपि संपादक सबमिशन करने का अनुरोध "
+"नहीं किया गया है!"
+
+msgid "user.authorization.invalidIssue"
+msgstr "अनुरोधित अवैध अंक!"
+
+msgid "user.authorization.sectionAssignment"
+msgstr ""
+"आप एक लेख का उपयोग करने की कोशिश कर रहे हैं जो आपके अनुभाग का हिस्सा नहीं है।"
+
+msgid "user.authorization.noContext"
+msgstr "संदर्भ में कोई जर्नल नहीं!"
+
+msgid "user.authorization.copyeditorAssignmentMissing"
+msgstr ""
+"पहुंच अस्वीकृत! आपको इस लेख में प्रतिलिपि संपादक के रूप में असाइन नहीं किया "
+"गया है।"
+
+msgid "notification.type.awaitingRepresentations"
+msgstr "गैलिस का इंतजार।"
+
+msgid "notification.type.assignProductionUser"
+msgstr ""
+"प्रतिभागियों की सूची में असाइन लिंक का उपयोग करके एक उपयोगकर्ता को गैलिस "
+"बनाने के लिए असाइन करें।"
+
+msgid "notification.type.editorAssignmentTask"
+msgstr "एक नया लेख प्रस्तुत किया गया है जिसमें एक संपादक को सौंपा जाना चाहिए।"
+
+msgid "notification.savedIssueMetadata"
+msgstr "अंक प्रकाशन मेटाडेटा सहेजा गया।"
+
+msgid "notification.type.public"
+msgstr "सार्वजनिक घोषणाएँ"
+
+msgid "notification.type.userComment"
+msgstr "एक पाठक ने \"{$title}\" पर एक टिप्पणी की है"
+
+msgid "notification.type.submissions"
+msgstr "सबमिशन आयोजन"
+
+msgid "notification.type.submissionComment"
+msgstr "एक संपादक ने \"{$title}\" पर एक टिप्पणी की है।"
+
+msgid "notification.type.site"
+msgstr "साइट आयोजन"
+
+msgid "notification.type.reviewing"
+msgstr "आयोजन की समीक्षा करना"
+
+msgid "notification.type.reviewerFormComment"
+msgstr "\"{$title}\" के लिए एक समीक्षा फ़ॉर्म समीक्षा प्रस्तुत की गई है।"
+
+msgid "notification.type.newAnnouncement"
+msgstr "एक नई घोषणा की गई है।"
+
+msgid "notification.type.issuePublished"
+msgstr "एक अंक प्रकाशित किया गया है।"
+
+msgid "notification.type.galleyModified"
+msgstr "\"{$title}\" के लिए एक गैली को संशोधित किया गया है।"
+
+msgid "notification.type.editorDecisionComment"
+msgstr "\"{$title}\" के लिए संपादक के निर्णय पर एक टिप्पणी छोड़ दी गई है।"
+
+msgid "notification.type.submissionSubmitted"
+msgstr "एक नया लेख, \"{$title}\" प्रस्तुत किया गया है।"
+
+msgid "notification.type.editing"
+msgstr "संपादन कार्यक्रम"
+
+msgid "metadata.pkp.peerReviewed"
+msgstr "सहकर्मी-समीक्षा लेख"
+
+msgid "log.imported"
+msgstr "{$userName} ने लेख {$submissionId} आयात किया है।"
+
+msgid "log.proofread.complete"
+msgstr "{$proofreaderName} शेड्यूलिंग के लिए {$submissionId} जमा किया है।"
+
+msgid "log.proofread.assign"
+msgstr ""
+"{$assignerName} ने {$proofreaderName} को प्रूफ़रीड सबमिशन {$submissionId} "
+"करने के लिए असाइन किया है।"
+
+msgid "log.editor.editorAssigned"
+msgstr ""
+"{$EditorName} को सबमिशन करने के लिए {$submissionId} संपादक के रूप में सौंपा"
+" गया है।"
+
+msgid "log.editor.archived"
+msgstr "सबमिशन {$submissionId} को संग्रहीत किया गया है।"
+
+msgid "log.editor.editorFile"
+msgstr "सबमिशन फ़ाइल का एक संपादक संस्करण अपलोड किया गया है।"
+
+msgid "log.editor.metadataModified"
+msgstr "इस लेख के मेटाडेटा को {$editorName} द्वारा संशोधित किया गया था।"
+
+msgid "log.layout.layoutEditComplete"
+msgstr ""
+"{$editorName} सबमिशन {$submissionId} करने के लिए लेआउट संपादन पूरा कर लिया "
+"है।"
+
+msgid "log.layout.layoutEditorUnassigned"
+msgstr ""
+"{$editorName} को सबमिशन {$submissionId} लेआउट संपादक के रूप में निर्दिष्ट "
+"नहीं किया गया है।"
+
+msgid "log.layout.layoutEditorAssigned"
+msgstr ""
+"{$editorName} को सबमिशन {$submissionId} लेआउट संपादक के रूप में सौंपा गया "
+"है।"
+
+msgid "log.copyedit.authorFile"
+msgstr ""
+"लेखक द्वारा प्रतिलिपि संपादित की गई सबमिशन फ़ाइल का एक संस्करण अपलोड किया गया"
+" है।"
+
+msgid "log.copyedit.copyeditorFile"
+msgstr "सबमिशन फ़ाइल का एक प्रतिलिपि संस्करण अपलोड किया गया है।"
+
+msgid "log.copyedit.finalEditComplete"
+msgstr ""
+"{$copyeditorName} ने सबमिशन {$submissionId} की फाइनल प्रतिलिपि संपादित कर ली "
+"है।"
+
+msgid "log.copyedit.initialEditComplete"
+msgstr ""
+"{$copyeditorName} ने सबमिशन की प्रारंभिक प्रतिलिपि तैयार कर ली है {$"
+"submissionId}।"
+
+msgid "log.copyedit.copyeditFileSet"
+msgstr "डिफ़ॉल्ट प्रतिलिपि फ़ाइल को चुना गया है।"
+
+msgid "log.copyedit.initiate"
+msgstr ""
+"{$submissionId} पर सबमिशन करने की प्रतिलिपि {$copyeditorName} द्वारा शुरू "
+"की गई है।"
+
+msgid "log.editor.recommendation"
+msgstr ""
+"लेख {$submissionId} के लिए एक संपादक की सिफारिश ({$decision}) {$EditorName} द्वारा दर्ज की गई थी।"
+
+msgid "log.editor.decision"
+msgstr ""
+"लेख {$submissionId} के लिए एक संपादक निर्णय ({$decision}) {$editorName} "
+"द्वारा दर्ज किया गया था।"
+
+
+msgid "log.review.reviewerFile"
+msgstr "एक समीक्षक फ़ाइल अपलोड की गई है।"
+
+msgid "log.review.reviewDeclined"
+msgstr ""
+"{$reviewerName} ने सबमिशन {$submissionId} के लिए राउंड {$round} रिव्यू को "
+"अस्वीकार कर दिया है।"
+
+msgid "log.review.resubmit"
+msgstr "सबमिशन {$submissionId} को समीक्षा के लिए पुन प्रस्तुत किया गया है।"
+
+msgid "log.review.reviewRecommendationSet"
+msgstr ""
+"{$round} सबमिशन {$submissionId} की समीक्षा {$reviewerName} द्वारा की गई बैठक "
+"के लिए सिफारिश तय कर दी गई है।"
+
+msgid "log.review.reviewDueDateSet"
+msgstr ""
+"{$round} सबमिशन {$submissionId} की समीक्षा {$reviewerName} द्वारा {$dueDate} "
+"के लिए नियत तिथि निर्धारित की गई है।"
+
+msgid "log.editor.restored"
+msgstr "प्रस्तुत लेख को  {$submissionId} कतार में बहाल किया गया है।"
+
+msgid "log.copyedit.copyeditorAssigned"
+msgstr ""
+"अनुकृति संपादक {$copyeditorName} को संपादन के लिए {$submissionId} सौंपा गया "
+"है।"
+
+msgid "log.review.reviewFileByProxy"
+msgstr ""
+"संपादक, {$userName}, ने समीक्षक {$reviewerName} की ओर से {$submissionId} के "
+"राउंड {$round} के लिए एक समीक्षा फ़ाइल अपलोड की है।"
+
+msgid "log.review.reviewAcceptedByProxy"
+msgstr ""
+"{$userName} ने {$reviewerName} की ओर से {$submissionId} की समीक्षा के लिए "
+"{$round} समीक्षा के दौर को स्वीकार कर लिया है।"
+
+msgid "log.review.reviewDeclinedByProxy"
+msgstr ""
+"{$userName} ने {$reviewerName} की ओर से {$submissionId} के लिए दौर {$round} "
+"समीक्षा को अस्वीकार कर दिया है।"
+
+msgid "log.review.reviewAccepted"
+msgstr ""
+"{$reviewerName} ने {$submissionId} के लिए दौर {$round} समीक्षा को स्वीकार कर "
+"लिया है।"
+
+msgid "log.review.reviewRecommendationSetByProxy"
+msgstr ""
+"राउंड {$round} समीक्षा प्रस्तुत करने की सिफारिश {$submissionId} को एडिटर, "
+"{$editorName}, समीक्षक की ओर से, {$reviewerName} सेट किया गया है।"
+
+msgid "about.aboutSoftware"
+msgstr "ओपन जर्नल सिस्टम के बारे में"
+
+msgid "issue.viewIssueIdentification"
+msgstr "View {$identification}"
+
+msgid "user.authorization.representationNotFound"
+msgstr "अनुरोधित गैली प्रूफ़ नहीं मिली।"
+
+msgid "category.category"
+msgstr "श्रेणियाँ"
+
+msgid "submissionGroup.assignedSubEditors"
+msgstr "नियुक्त संपादक"
